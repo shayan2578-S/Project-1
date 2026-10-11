@@ -1,0 +1,1124 @@
+Ministry of Housing,
+Communities &
+Local Government
+Accredited official statistics
+English indices of deprivation 2025: statistical release
+Updated 17 November 2025
+Applies to England
+Contents
+1.
+In this release
+2.
+Main findings
+3.
+How to use the indices of deprivation
+4.
+Introduction
+5.
+Changes to this release
+6.
+Neighbourhood deprivation analysis
+7.
+Local Authority District analysis
+8.
+Income deprivation and employment deprivation
+9.
+Rural area analysis
+10.
+Accompanying tables and reports
+11.
+Technical notes
+Print this page
+© Crown copyright 2025
+This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. To view this licence, visit
+nationalarchives.gov.uk/doc/open-government-licence/version/3
+or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU, or email:
+psi@nationalarchives.gov.uk
+.
+Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.
+This publication is available at https://www.gov.uk/government/statistics/english-indices-of-deprivation-2025/english-indices-of-deprivation-2025-statistical-release
+1. In this release
+This release updates the
+English Indices of Deprivation 2019
+.
+The English Indices of Deprivation (
+IoD25
+) measure relative levels of deprivation in 33,755 small areas or neighbourhoods, called Lower-layer Super Output Areas (
+LSOAs
+), in England.
+The
+IoD25
+suite of resources comprises of 7 standalone indexes which are combined and weighted together to form the Index of Multiple Deprivation 2025 (
+IMD25
+) – the official measure of deprivation in England.
+The Income Deprivation Affecting Children Index (
+IDACI
+) and Income Deprivation Affecting Older People Index (
+IDAOPI
+) have been updated.
+Actions and recommendations from the
+Indices Futures user consultation
+have been fully incorporated and considered as part of this update.
+New datasets, methodologies and geographies have been used to produce the
+IoD25
+, meaning outputs are less directly comparable to previous Indices.
+Alongside the
+technical report
+, focused on data sources and methods, and
+research report
+, focused on analysis and interpretation, the
+IoD25
+also includes a
+rural report
+, investigating deprivation in rural areas.
+2. Main findings
+The most deprived neighbourhood in England according to the
+IMD25
+is to the east of the Jaywick & St Osyth area of Clacton-on-Sea in Tendring (Tendring 018a).
+Seven neighbourhoods in Blackpool rank amongst the top 10 most deprived in England according to the
+IMD25
+.
+Overall, 82% of neighbourhoods that are in the most deprived decile according to the
+IMD25
+were also the most deprived according to the IMD19.
+Deprivation is dispersed across England - 65% of Local Authority Districts contain at least one of the most deprived neighbourhoods in England.
+Middlesbrough, Birmingham, Hartlepool, Kingston upon Hull and Manchester are the Local Authority Districts with the highest proportions of neighbourhoods among the most deprived in England.
+Two London boroughs (Tower Hamlets and Hackney) rank as the most deprived regarding income deprivation among children. Alongside Newham, Islington and Southwark, these 5 London boroughs rank as the most deprived regarding income deprivation among older people.
+3. How to use the indices of deprivation
+The
+IoD25
+can be used to identify the most deprived neighbourhoods and relatively compare areas across England, explore the domains (or types) of deprivation, and compare larger administrative areas e.g. Local Authority Districts. Snapshot in time comparisons can be made when accompanied with appropriate caveats around changes (see
+research report
+for further guidance).
+The
+IoD25
+cannot be used to quantify how deprived a neighbourhood is, identify deprived people or levels of affluence, compare small areas in other UK countries or measure absolute change in deprivation over time.
+A full
+research report
+,
+technical report
+,
+rural report
+and comprehensive
+guidance documents
+accompany this release, along with a series of supporting data tables, a range of spatial data geopackages -
+LSOA
+,
+Integrated Care Boards
+,
+Local Authority Districts (lower tier)
+and
+Local Authority Districts (upper tier)
+- and our
+Local Deprivation Explorer
+to aid user’s access and interaction with the data.
+4. Introduction
+Since the 1970s the Ministry of Housing, Communities and Local Government (
+MHCLG
+) and its predecessors have calculated local measures of deprivation in England. This statistical release contains the latest iteration of these statistics, the English Indices of Deprivation 2025 (
+IoD25
+), summarising key findings from the data and signposting further analysis and guidance. The
+IoD25
+suite of resources are Accredited Official Statistics.
+The Index of Multiple Deprivation (IMD) is the official measure of relative deprivation in England and is part of a suite of outputs that form the Indices of Deprivation (IoD). It follows an established methodological framework in broadly defining deprivation to encompass a wide range of an individual’s living conditions. People may be living in poverty if they lack the financial resources to meet their needs, whereas people can be regarded as deprived if they lack any kind of resources, not just income. In the IoD, ‘deprivation’ refers to people’s unmet needs, whereas ‘poverty’ refers to the lack of resources required to meet those needs or socially perceived necessities. These needs and necessities may change and evolve other time, but relative deprivation remains (see
+technical report
+for further detail).
+The
+IoD25
+uses
+LSOAs
+from the 2021 Census to measure deprivation at a small area or neighbourhood level.
+LSOAs
+are produced by the Office of National Statistics (
+ONS
+) with each Census and are a standard statistical geography used for reporting small area statistics. They are deigned to be consistent, accounting for a similar population size across the country – on average 1,500 residents or 650 households – and all types of geographic area (urban, rural, costal, island or otherwise) in the same way. There are 33,755
+LSOAs
+in England.
+The
+IMD25
+ranks all neighbourhoods in England according to their level of multiple deprivation relative to that of other areas. High ranking
+LSOAs
+or neighbourhoods can be referred to as the ‘most deprived’ or as being ‘highly deprived’ to aid interpretation. However, there is no definitive threshold above which an area is described as ‘deprived’. Across the
+IoD25
+, deprivation is measured on a relative rather than an absolute scale, so a neighbourhood ranked 100th is more deprived than a neighbourhood ranked 200th, but this does not mean it is twice as deprived.
+At the neighbourhood-level, the
+IoD25
+provides a place-based insight into deprivation. However, this description does not apply to every person living in these areas. Many non-deprived people live in deprived areas, and many deprived people live in non-deprived areas. It is important to note that the
+IoD25
+is designed to identify and measure specific aspects of deprivation, rather than measures of affluence. This means that differences between the least deprived areas in the country are less well defined than differences between the more deprived areas.
+This release focuses on headline findings from the
+IoD25
+concentrating on neighbourhood and Local Authority District (LAD) patterns of deprivation across England. These are reported across domains using a range of summary measures to help facilitate a broader understanding of deprivation.
+Infographic: The English Indices of Deprivation 2025 (IoD2025)
+Plain text version
+The Indices relatively rank each small area in England from most deprived to least deprived. There are 33,755 small areas (Lower-layer Super Output Areas) in England, with an average population of 1,500.
+1st - most deprived area
+33,755th - least deprived area
+There are 7 domains of deprivation, which combine to create the Index of Multiple Deprivation (
+IMD25
+):
+Income (22.5%): Measures the proportion of the population experiencing deprivation relating to low income.
+Income Deprivation Affecting Children Index: Measures the proportion of all children aged 0 to 15 living in income deprived families
+Income Deprivation Affecting Older People Index: Measures the proportion of those aged 60+ who experience income deprivation
+Employment (22.5%): Measures the proportion of working age population involuntarily excluded from the labour market.
+Education (13.5%): Measures the lack of attainment and skills in the local population.
+Health (13.5%): Measures the risk of premature death and impairment of life quality through poor physical/mental health.
+Crime (9.3%): Measures the risk of personal and material victimisation at local level.
+Barriers to housing and services (9.3%): Measures the physical and financial accessibility of housing and local services.
+Living environment (9.3%): Measures the quality of both the ‘indoor’ and ‘outdoor’ local environment.
+How can the IoD2025 be used?
+It can be used to:
+compare small areas across England
+identify the most deprived small areas
+explore the domains (or types) of deprivation
+compare larger administrative areas e.g. local authorities
+look at changes in relative deprivation between iterations (i.e. changes in ranks)
+It cannot be used to:
+quantify how deprived a small area is
+identify deprived people
+say how affluent a place is
+compare with small areas in other UK countries
+measure absolute change in deprivation over time
+5. Changes to this release
+Following the 2022
+Indices Future user consultation
+,
+MHCLG
+committed to 5 lead actions to take forward as part of any future Indices work. These were;
+Action 1
+– to reviewing the domains of deprivation
+Action 2
+– to reviewing the methodology and statistical techniques used to construct the Indices
+Action 3
+– to publish as much underlying data as possible
+Action 4
+– to build on the suite of resources and guidance
+Action 5
+– to continue working with the Devolved Nations towards further harmonisation
+These actions have been carried forward and formed a cornerstone of the
+IoD25
+work programme.
+Actions 1 and 2 have influenced the refinement of domains and the addition of new indicators and data updates. A range of newly developed and available small area data measures, alongside measures developed through bespoke data linking specific for the Indices, have been incorporated in the
+IoD25
+. These include data on Universal Credit claimants, pupil absence, health benefits, Anti-Social Behaviour, broadband connectivity, Energy Performance Certificates, access to private gardens and noise pollution.
+Overall, a total of 55 indicators comprise the
+IoD25
+, an increase from 39 in the IoD19. Of these, 20 are new indicators, 14 indicators have been significantly modified, while 21 have been updated to more recent timepoints. Three indicators have also been removed. A detailed breakdown of changes by domain is available in in Table 3.2 of the
+technical report
+.
+More underlying data has been published with permission from data providers as a result of Action 3. User tools and resources have been fully updated and enhanced in line with Action 4 and work remains ongoing in collaboration with the Devolved Administrations across the UK to produce more harmonised outputs in line with Action 5.
+The purpose of the Indices is to provide a consistent, accurate and robust measure of relative deprivation at a small area level across England. Updates and changes to methods and datasets come at the expense of ‘backwards’ comparability with previous versions of the Indices. Indices releases should not be viewed or construed as a time-series and there are other important changes to consider which limit the ability to make accurate comparisons over time:
+changes to the data used to construct the indicators, including changes to eligibility criteria for certain benefits, definitions and collection methods alongside the removal or inclusion of new datasets
+updates and revisions to population denominator data
+changes to the area definitions and administrative geographies
+However, keeping a consistent conceptual framework and methodology does allow some comparisons to be made, but only in terms of comparing the rankings as a snapshot in time, accompanied by appropriate caveats around changes as noted above (see
+research report
+for further detail).
+6. Neighbourhood deprivation analysis
+Across England, the patterns of deprivation are complex. The most and least deprived neighbourhoods are spread throughout the country. Map 1 illustrates the geographical spread of deprivation based on ranking all 33,755
+LSOAs
+, or neighbourhoods, nationally and dividing them into 10 equal groups (or deciles) according to their deprivation rank.
+Areas shaded dark blue are in the most deprived 10% (or decile) of neighbourhoods in England while areas shaded pale green into white are in the least deprived 10%. As was the case in previous versions of the Indices, the
+IoD25
+reveals concentrations of deprivation in large urban conurbations (such as Birmingham, Liverpool, Greater Manchester and parts of Teesside), areas that have historically had large heavy industry manufacturing and/or mining sectors (such as Bradford, Nottingham, Blackburn with Darwin), coastal towns (such as Blackpool, Hartlepool and Hastings) and parts of east London. There are also pockets of deprivation surrounded by less deprived places in every region of England.
+The most deprived neighbourhood in England according to the
+IMD25
+is to the east of the Jaywick & St Osyth area of Clacton-on-Sea in Tendring (Tendring 018a). This area was also ranked as the most deprived nationally according to previous iterations of the Indices. Neighbourhoods in Blackpool then account for 7 of the 10 most deprived neighbourhoods nationally, with one area in Hastings (Hastings 005A) and one in Rotherham (Rotherham 017D) making up the 10 most deprived areas in England (see Table 1).
+Table 1: Most deprived
+LSOAs
+based on
+IMD25
+Rank
+Position
+LSOA Code
+LSOA Name
+Local Authority District
+1
+E01021988
+Tendring 018A
+Tendring
+2
+E01012737
+Blackpool 010E
+Blackpool
+3
+E01012673
+Blackpool 010A
+Blackpool
+4
+E01012671
+Blackpool 013A
+Blackpool
+5
+E01012670
+Blackpool 011A
+Blackpool
+6
+E01012682
+Blackpool 008D
+Blackpool
+7
+E01020972
+Hastings 005A
+Hastings
+8
+E01012683
+Blackpool 006B
+Blackpool
+9
+E01012679
+Blackpool 008B
+Blackpool
+10
+E01007769
+Rotherham 017D
+Rotherham
+Map 1: Distribution of the Index of Multiple Deprivation 2025 (
+IMD25
+) by LSOA in England
+Our
+Local Deprivation Explorer
+allows users to look up deprivation data for their area, explore comparisons across England using an interactive map, and download data — with the option to download deprivation data for specific postcodes.
+Deprivation in some areas has persisted across iterations of the Indices. There are 3 neighbourhoods which have been ranked among the most deprived 100
+LSOAs
+on each Index of Multiple Deprivation update since 2004. These are listed in Tabe 2 below (see
+research report
+for further detail).
+Table 2: Lower-layer Super Output Areas that rank within the most deprived 100 areas on all 6 iterations of the Indices of Multiple Deprivation from 2004 to 2025
+LSOA Code
+LSOA Name
+Local Authority District
+E01005482
+Rochdale 010C
+Rochdale
+E01012041
+Middlesbrough 003F
+Middlesbrough
+E01007122
+Wirral 011C
+Wirral
+According to the
+IoD25
+, many of the most deprived 10% (3,375) of neighbourhoods in England face multiple challenges across the domains of deprivation (see Table 3). Almost all of these areas (99.1%) are ranked as highly deprived (i.e. in the most deprived decile) on at least 2 of the 7 domains of deprivation. More than two-thirds (67.2%) are highly deprived on 4 or more domains. Just 2
+LSOAs
+across the country rank amongst the most deprived 10% of areas on all 7 domains. One is located in the Jaywick & St Osyth area of Tendring (Tendring 018a) and one is located in the Margate Town area within the LAD of Thanet (Thanet 003A).
+Table 3: Lower-layer Super Output Areas that are in the most deprived 10% of areas nationally based on the Index of Multiple Deprivation, by the number of domains on which they are also in the most deprived decile
+Number of Domains
+Number of
+LSOAs
+% of Most Deprived
+LSOAs
+Cumulative % of Most Deprived
+LSOAs
+7
+2
+0.1
+0.1
+6
+224
+6.6
+6.7
+5
+1,056
+31.3
+38.0
+4
+987
+29.2
+67.2
+3
+776
+23.0
+90.2
+2
+298
+8.8
+99.1
+1
+32
+0.9
+100.0
+Total
+3,375
+100
+-
+Of these most deprived 10% of neighbourhoods in England (3,375), 226 rank as highly deprived on 6 or more domains of deprivation. These neighbourhoods are not evenly distributed across England: 78, just over a third (34.2%) of them, are located within just 10 Local Authority Districts – Liverpool contains 20 of these neighbourhoods, Blackpool contains 15, North East Lincolnshire and Middlesbrough contain 7 each, Burnley and Tendering contain 6 each, Hasting and Thanet each contain 5, Great Yarmouth 4 and Hyndburn 3. Blackpool and Burnley have proportionately more neighbourhoods ranked as highly deprived on 6 of the 7 domains from the total number of
+LSOAs
+in each Local Authority District: 15 (or 16%) of 94 neighbourhoods in Blackpool and 6 (or 10%) of 60 neighbourhoods in Burnley.
+Table 4, below, presents a more detailed analysis of changes in the relative deprivation of neighbourhoods across deciles. The table illustrates the numbers of
+LSOAs
+in each decile of the
+IMD25
+and their corresponding deciles according to the IMD19. Overall, 82% of neighbourhoods that are in the most deprived decile according to the
+IMD25
+were in the same decile based on the IMD19, as were 72% of the least deprived.
+However, Table 4 also shows that some
+LSOAs
+have experienced a considerable change in their relative level of deprivation since the IMD19. The lighter green cells show the number of
+LSOAs
+which have moved either side of the decile they were ranked in according to the IMD19. It is important to highlight that these changes in decile position may be influenced by changes to geographies and administrative boundaries, enhancements to data, processing and methods used to produce in the IoD 2025 rather than, or in addition to, real change in deprivation levels.
+For example, 592
+LSOAs
+have moved out of the most deprived decile since the IMD19; 540 of those have moved from the most deprived decile in 2019 to the second most deprived decile (10-20%) in 2025; 33
+LSOAs
+have moved from the most deprived decile in 2019 to the third most deprived decile (20-30%) in 2025. A further 9 LSAOs to the 30-40% most deprived, 4 to the fifth most deprived decile (40-50%), 3 to the sixth, 2 to the seventh and 1 LSOA has moved from the most deprived decile in 2019 to the eighth most deprived in 2025.
+Table 4: Lower-layer Super Output Areas by level of deprivation on the Index of Multiple Deprivation 2019 and 2025
+7. Local Authority District analysis
+Although the Indices is designed primarily to be a small-area or neighbourhood measure of relative deprivation, LSOA level outputs are often aggregated and used to describe relative deprivation for higher-level administrative geographies, such as Local Authority Districts. To facilitate this, a range of summary measures are produced for larger areas. These have been carefully designed to help users understand deprivation patterns in higher-level areas. The measures focus on different aspects of deprivation such as identifying the overall intensity of deprivation, how deprivation is distributed across large areas, and the overall volume, or ‘scale’, of deprivation. These measures are further described in section 3.8 of the
+technical report
+and advice on their interpretation is provided throughout section 3 of the
+research report
+.
+A range of summary measures are available for higher-level geographies including Local Authority Districts and upper tier Local Authorities, Built Up Areas, Local Enterprise Partnerships, Local Resilience Forums and Integrated Care Boards.
+LSOA’s form the building blocks of all higher-level geography summaries of the Indices. However, both statistical and administrative geographies have changed over time. Specifically, the number of
+LSOAs
+and Local Authority Districts in England has changed since the IoD2019 and previous iterations (see Table 5). This makes comparison over time more problematic, given the additional changes to population estimates, new datasets and enhancements since the previous release.
+Table 5: Change in number of LADs and
+LSOAs
+between Indices iterations
+Indices Iteration
+Number of Local Authority Districts (LAD)
+Number of
+LSOAs
+IoD2025
+296
+33,755
+IoD2019
+317
+32,844
+IoD2015
+326
+32,844
+IoD2010
+326
+32,482
+IoD2007
+354
+32,482
+IoD2004
+354
+32,482
+Since the IoD2004, deprived neighbourhoods have become more dispersed across Local Authority Districts. The proportion of local Authorities containing at least one neighbourhood in the most deprived decile has increased with successive updates of the Indices, based on the number of Local Authority Districts and
+LSOAs
+at the time of each release (see Chart 1). Administrative boundary changes may have had an impact on the pattern of deprivation observed in some places. However, just under half (48%) of LADs contained at least one highly deprived neighbourhood according to the IMD2004 compared to 65% in the IMD2025.
+Chart 1: Proportion of Local Authority Districts (LADs) with at least one neighbourhood in the most deprived decile nationally as at time of release
+Because patterns of deprivation across larger areas can be complex, there is no single summary measure that is the ‘best’ measure to use in measuring deprivation. Rather, each of the summary measures that are published highlight different aspects of deprivation, and each lead to a different ranking of areas. Comparison of the different measures is needed to give a fuller description of deprivation for larger areas. It is important to remember that the higher-area measures are summaries and that each is measuring a different aspect of deprivation; the LSOA level data provides more detail than is available through the summaries (see File 1 online).
+Summary measures help describe relative deprivation at a higher geographical scale. Local Authority District level summaries are used here to help illustrate three of the most widely used summary measures, their differences and outcomes (see Table 6 below). Further breakdowns and rankings by the full range of summary measures can be found in the accompanying online tables and technical documentation. Table 3.2 of the
+technical report
+provides a more detailed summary of each.
+(Rank of) Average Rank
+– this measure summarises the average level of deprivation across an area, based on the population weighted ranks of all the neighbourhoods within it. For example, all
+LSOAs
+in a LAD, whether highly deprived or not so deprived, contribute to this summary measure. Overall, highly deprived areas and less-deprived areas will tend to average out in the overall rank, so an area that is more uniformly deprived will tend to rank higher on this measure compared to other summary measures.
+(Rank of) Average Score
+– this measure summarises the average level of deprivation across an area, based on the scores of all the neighbourhoods contained within. Scores are calculated by taking the population weighted average of the combined scores for the neighbourhoods in a larger area. This measure also covers the whole area including both deprived and less-deprived neighbourhoods. The main difference from the average rank measure is that more deprived neighbourhoods tend to have more ‘extreme’ scores than ranks, so highly deprived areas will not tend to average out in the same way as when using ranks. With scores, highly polarised LADs will tend to score higher on the average score measure than on the average rank.
+Proportion of
+LSOAs
+in most deprived 10% nationally
+– this measure summarises the proportion of neighbourhoods in a larger area that are in the most deprived 10% of neighbourhoods in the country. As such, this measure is only focused on illustrating the number of neighbourhoods within a larger area which are the most deprived in England. However, neighbourhoods just outside the 10% most deprived are not included as part of this measure, so large areas, such as local authorities or Local Enterprise Partnerships, may not appear to be so deprived relative to others if they contain zero or few of the most deprived neighbourhoods in the country.
+Table 6: Top 10 most deprives LADs across a range of summary measures
+Position
+Most deprived LADs based on Rank
+Most deprived LADs based on Score
+Most deprived LADs based on Proportion of
+LSOAs
+in the most deprived 10% nationally
+1
+Blackpool
+Blackpool
+Middlesbrough
+2
+Manchester
+Middlesbrough
+Birmingham
+3
+Hastings
+Burnley
+Hartlepool
+4
+Burnley
+Manchester
+Kingston upon Hull, City of
+5
+Sandwell
+Birmingham
+Manchester
+6
+Leicester
+Hartlepool
+Blackpool
+7
+Newham
+Hastings
+Burnley
+8
+Birmingham
+Kingston upon Hull, City of
+Knowsley
+9
+Barking and Dagenham
+Liverpool
+Blackburn with Darwen
+10
+Hackney
+Blackburn with Darwen
+Oldham
+Map 2 illustrates the geographical spread of deprivation for Local Authority Districts across England according to the proportion of neighbourhoods in the most deprived decile nationally. This higher-level geography masks some pockets of deprivation that are visible in Map 1 but is useful for LAD level analysis. Areas shaded dark blue are the 10% of LADs in England that contain the largest proportion of highly deprived neighbourhoods. Areas shaded pale green contain proportionately few highly deprived neighbourhoods and are relatively less deprived. In total, 104 of the 296 districts (35%) do not contain any highly deprived neighbourhoods and are therefore equally ranked on this measure.
+Map 2: Distribution of the Index of Multiple Deprivation 2025 (
+IMD25
+) by Local Authority District based on the proportion of their neighbourhoods in the most deprived decile nationally
+Note: there are 104 Districts with no Lower-layer Super Output Areas in the most deprived 10% of areas. These areas score zero on this summary measure and are shown in the least deprived decile.
+8. Income deprivation and employment deprivation
+The analysis so far has focused on the
+IMD25
+. This section focuses on the 2 domains of deprivation which contribute the most weight to the overall Index: the Income Deprivation Domain and Employment Deprivation Domain. In addition, this section explores the supplementary indices of Income Deprivation Affecting Children (
+IDACI
+) and Income Deprivation Affecting Older People (
+IDAOPI
+). These indices describe deprivation in terms of proportions of deprived people so allow for more direct comparison of deprivation between areas.
+Chart 2: Proportion of the population living in income deprived households, grouped into deciles by Income Deprivation Domain rank (left) and proportion of working-age adults in employment deprivation, by Employment Deprivation Domain rank (right) for all
+LSOAs
+in England
+Levels of income deprivation and employment deprivation vary widely between neighbourhoods. In the most deprived decile of neighbourhoods on the Income Deprivation Domain, on average, 56% of the population are income deprived. But in the least deprived decile of this deprivation domain, close to 5% of people are income deprived (Chart 2, left side). A similar pattern is observed for employment deprivation among the working-age population. In the most deprived decile of neighbourhoods on the Employment Deprivation Domain, on average, 32% of the working-age adults are employment deprived, compared with 3.5% of those in the least deprived decile of this domain (Chart 2, right side).
+In many areas, people experiencing employment deprivation are very likely to also experience income deprivation. There are nine Local Authority Districts ranked as most deprived on both the Income Deprivation Domain and the Employment Deprivation Domain – Birmingham, Blackpool, Hartlepool, Middlesborough, Blackburn with Darwen, Kingston upon Hull, Oldham, Wolverhampton and Walsall (see Table 7).
+The highest levels of income deprivation are most prevalent in areas of London and Birmingham with employment deprivation more pronounced in coastal areas, Knowsley and the Northeast.
+Table 7: The 20 Local Authority Districts with the highest proportions of income deprivation and employment deprivation, respectively
+Income Deprivation Domain
+Employment Deprivation Domain
+Position
+LA District
+Score - Proportion of population living in income deprived households
+LA District
+Score - Proportion of working age adults in employment deprived households
+1
+Birmingham
+41.7%
+Blackpool
+26.0%
+2
+Tower Hamlets
+40.1%
+Hartlepool
+24.7%
+3
+Hackney
+40.0%
+Middlesbrough
+23.3%
+4
+Newham
+39.0%
+Knowsley
+23.0%
+5
+Barking and Dagenham
+38.4%
+Hastings
+21.5%
+6
+Enfield
+37.7%
+South Tyneside
+21.5%
+7
+Blackpool
+37.7%
+Liverpool
+21.4%
+8
+Middlesbrough
+37.5%
+Birmingham
+21.4%
+9
+Sandwell
+37.4%
+Sunderland
+21.1%
+10
+Manchester
+37.2%
+Redcar and Cleveland
+20.9%
+11
+Blackburn with Darwen
+37.2%
+Kingston upon Hull, City of
+20.8%
+12
+Brent
+36.7%
+Burnley
+20.8%
+13
+Oldham
+36.5%
+Great Yarmouth
+20.7%
+14
+Luton
+36.5%
+Wolverhampton
+20.7%
+15
+Kingston upon Hull, City of
+36.3%
+Thanet
+20.6%
+16
+Wolverhampton
+35.8%
+Oldham
+20.3%
+17
+Bradford
+35.7%
+Rochdale
+20.3%
+18
+Hartlepool
+35.7%
+Blackburn with Darwen
+20.1%
+19
+Walsall
+35.6%
+Hyndburn
+20.0%
+20
+Haringey
+35.4%
+Walsall
+19.9%
+The Income Deprivation Affecting Children Index (
+IDACI
+) measures the proportion of all children aged 0 to 15 living in income deprived families. This is one of two supplementary indices and is a sub-set of the Income Deprivation Domain. The most deprived Local Authority Districts on this measure are spread across the Midlands, Greater London and the north of England.
+In 27 LADs across England, 50% or more children are reported as living in income deprived households. Tower Hamlets has the highest proportion at 71.3% (see Table 8).
+The Income Deprivation Affecting Older People Index (
+IDAOPI
+) measures the proportion of all those aged 60 or over who experience income deprivation. This is a second supplementary indices which is a sub-set of the Income Deprivation Domain. According to the
+IDAOPI
+, many older people living in income deprivation are based in London. Indeed, London boroughs make up 14 of the most deprived 20 LADs on this measure (see Table 8).
+Ten Local Authority Districts appear in the most deprived 20 nationally across both supplementary indices – Tower Hamlets, Hackney, Brent, Manchester, Nottingham, Liverpool, Islington, Kingston upon Hull and Harringay. Tower Hamlets and Hackney both have the highest rate of income deprivation affecting children and older people according to the
+IoD25
+.
+Table 8: The 20 Local Authority Districts with the highest proportions of children and older people living in income deprivation
+Income Deprivation Affecting Children Index
+Income Deprivation Affecting Older People Index
+Position
+LA District
+Score - Proportion of children living in income deprived households
+LA District
+Score - Proportion of older people living in income deprived households
+1
+Tower Hamlets
+71.3%
+Tower Hamlets
+61.1%
+2
+Hackney
+64.1%
+Hackney
+54.7%
+3
+Birmingham
+61.7%
+Newham
+46.7%
+4
+Newham
+59.7%
+Islington
+44.3%
+5
+Brent
+58.5%
+Southwark
+41.0%
+6
+Manchester
+57.5%
+Lambeth
+40.0%
+7
+Enfield
+55.5%
+Manchester
+39.2%
+8
+Nottingham
+55.4%
+Haringey
+38.8%
+9
+Luton
+55.3%
+Camden
+36.7%
+10
+Middlesbrough
+55.2%
+Barking and Dagenham
+36.4%
+11
+Blackpool
+55.1%
+Hammersmith and Fulham
+36.2%
+12
+Walsall
+54.6%
+Westminster
+35.8%
+13
+Sandwell
+54.4%
+Brent
+33.1%
+14
+Liverpool
+53.3%
+Leicester
+32.6%
+15
+Oldham
+53.2%
+Liverpool
+32.6%
+16
+Islington
+53.0%
+Lewisham
+32.5%
+17
+Burnley
+52.9%
+Greenwich
+31.6%
+18
+Wolverhampton
+52.8%
+Nottingham
+30.6%
+19
+Kingston upon Hull, City of
+52.4%
+Knowsley
+30.6%
+20
+Haringey
+52.2%
+Kingston upon Hull, City of
+29.9%
+9. Rural area analysis
+MHCLG
+has collaborated with the Department for Environment, Food and Rural Affairs (
+Defra
+) to produce a standalone report and analysis to investigate deprivation in rural areas across England. This section outlines some of the reports fundings. The full report can be found online –
+rural report
+.
+The Office for National Statistics (
+ONS
+) Rural-Urban Classification 2021 (RUC 2021) at LSOA level is used to identify rural and urban areas. The 2021 RUC was developed jointly by
+Defra
+and
+ONS
+. It is a statistical classification which provides a consistent and standardised method for categorising geographies as either rural or urban, based on:
+address density
+physical settlement form
+population size
+Relative access to major towns and cities (populations of over 75,000 people)
+More information on the RUC 2021 is available online –
+2021 Rural Urban Classification
+.
+Based on the RUC 2021 16.5% of
+LSOAs
+in England were defined as rural using this classification, comprising 5,554
+LSOAs
+. See Table 9 for a fuller LSOA breakdown by RUC 2021 classification.
+Table 9: RUC 2021 LSOA breakdown of classification groups
+RUC 2021 Classification category
+Number of
+LSOAs
+% of
+LSOAs
+Urban: Nearer to a major town or city
+26,199
+77.6%
+Urban: Further from a major town or city
+2,002
+5.9%
+Urban Total
+28,201
+83.5%
+Larger rural: Nearer to a major town or city
+2,038
+6.0%
+Larger rural: Further from a major town or city
+849
+2.5%
+Smaller rural: Nearer to a major town or city
+1,684
+5.0%
+Smaller rural: Further from a major town or city
+983
+2.9%
+Rural Total
+5,554
+16.5%
+TOTAL
+33,755
+100.0%
+Chart 3 below shows the proportion of rural and urban areas in each decile of deprivation on the Index of Multiple Deprivation (IMD) 2025.
+Chart 3: Rural and urban areas by decile of deprivation, IMD 2025
+In total, 71 of the 5,554 rural
+LSOAs
+(1.3%) are ranked in the 10% most deprived
+LSOAs
+in England on the Indices of Deprivation 2025, compared with 11.7% of urban areas.
+Rural areas are also underrepresented in the most deprived 10-20% of areas (2.5%) and the most deprived 20-30% of areas (5.2%). In total, only 500 rural
+LSOAs
+are ranked among the most deprived 30% of
+LSOAs
+in England – 9% of all rural areas, compared with 34.1% of urban areas. By contrast, more than 65% of rural areas rank among the least deprived 50% of
+LSOAs
+in England.
+However, drilling down further to look at individual indicators reveals a more nuanced picture. Table 10 below compares the performance of rural and urban areas on key indicators of the IoD 2025.
+Table 10: Performance of rural and urban areas on key underlying indicators
+Indicator –
+IoD25
+Rural
+Urban
+Income
+People experiencing income deprivation
+14.1%
+25.0%
+Children experiencing income deprivation (
+IDACI
+)
+23.4%
+38.9%
+Older people experiencing income deprivation (
+IDAOPI
+)
+10.0%
+18.8%
+Employment
+Working age adults experiencing employment deprivation
+9.2%
+14.1%
+Education
+Young people aged under 21 not entering higher education
+11.6%
+11.3%
+Working-age adults with no or low qualifications or who cannot speak English or cannot speak English well
+19.3%
+24.9%
+Wider Barriers
+Household overcrowding (rooms)
+2.4%
+7.3%
+Household overcrowding (bedrooms)
+1.4%
+5.0%
+Households unable to afford to enter owner-occupation
+47.1%
+62.1%
+Households unable to afford to enter the private rental market
+20.0%
+41.3%
+Indoors living environment
+Housing in poor condition
+27.8%
+14.2%
+Outdoors living environment
+Road traffic accidents (rate per 1,000)
+0.37
+0.61
+Table 10 illustrates that, generally, rural areas are more deprived than urban areas on the housing in poor condition indicator, with 27.8% of households living in housing in poor condition, compared with 14.2% in urban areas.
+Rural and urban areas also show a similar performance on the accessing higher education indicator with a slightly higher proportion of young people aged under 21 not entering higher education in rural areas (11.6%) compared to urban areas (11.3%).
+In contrast, there is a greater concentration of deprivation in urban areas on each of the measures relating to income, employment and barriers to housing.
+Table 11 lists the 20 most deprived rural areas on the IMD 2025.
+Table 11: Index of Multiple Deprivation 2025, top 20 most deprived rural areas
+LSOA
+Local Authority
+IMD Rank
+E01020752
+County Durham
+41
+E01020807
+County Durham
+121
+E01020739
+County Durham
+147
+E01011792
+Wakefield
+186
+E01020841
+County Durham
+350
+E01020873
+County Durham
+561
+E01020902
+County Durham
+571
+E01026112
+East Lindsey
+577
+E01026048
+East Lindsey
+586
+E01020901
+County Durham
+600
+E01007511
+Doncaster
+637
+E01013084
+East Riding of Yorkshire
+740
+E01019097
+Cumberland
+790
+E01007492
+Doncaster
+793
+E01034506
+County Durham
+823
+E01024580
+Swale
+896
+E01022045
+Tendring
+924
+E01027542
+Northumberland
+926
+E01012099
+Redcar and Cleveland
+983
+E01028001
+Bassetlaw
+990
+10. Accompanying tables and reports
+Accompanying tables are available to download alongside this release.
+Neighbourhood (Lower-layer Super Output Area) level data
+File 1: Index of Multiple Deprivation - the full Index of Multiple Deprivation (IMD225) ranks and deciles at LSOA level across England
+File 2: Domains of deprivation
+File 3: Supplementary indices - Income Deprivation Affecting Children Index (
+IDACI
+) and Income Deprivation Affecting Older People Index (
+IDAOPI
+)
+File 4: Sub-domains of deprivation
+File 5: Scores for the Indices of Deprivation (
+IoD25
+)
+File 6: Population denominators
+File 7: All ranks, deciles and scores for the Indices of Deprivation, and population denominators (CSV file)
+File 8: Underlying indicators
+File 9: Transformed domain scores
+Summary data for higher-level geographies
+File 10: Local Authority District Summaries
+File 11: Upper-tier Local Authority Summaries
+File 12: Local Enterprise Partnership Summaries
+File 13: Integrated Care Board Summaries
+File 14: Local Resilience Forum Summaries
+File 15: Built Up Area Summaries
+Supporting reports and guidance documents
+The following supporting reports and guidance documents have been published:
+A Frequently Asked Questions (FAQs) document, providing a range of user guidance to aid interpretation of the data, caveats and answers to many of the most commonly asked questions.
+A
+research report
+provides guidance on how to use and interpret the datasets and presents further results from the
+IoD25
+. It includes a full account of the set of summary statistics available for higher-level geographies such as Local Authority Districts, with an example of their use, and advice on interpreting change over time.
+A
+technical report
+presenting the conceptual framework of the
+IoD25
+; the methodology for creating the domains and the overall
+IMD25
+; the quality assurance carried out to ensure reliability of the data outputs; and the component indicators and domains.
+A
+rural report
+, produced in collaboration with
+Defra
+, this report considers how deprivation can manifest in a specifically rural context, how it may be quantified or measured and how this may be improved in future.
+All of the data files and supporting documents are available at
+English indices of deprivation 2025
+.
+See
+previous versions of the Indices of Deprivation
+.
+Mapping resources
+Our
+Local Deprivation Explorer
+allows users to look up deprivation data for their area, explore comparisons across England using an interactive map, and download data - with the option to download deprivation data for specific post-codes.
+A range of spatial data geopackages are also available online, each complete with shapefile, mapping templates and further mapping resources:
+LSOA
+Integrated Care Boards
+Local Authority Districts (lower tier)
+Local Authority Districts (upper tier)
+11. Technical notes
+Methodology and data sources
+The Ministry of Housing, Communities and Local Government commissioned Deprivation.org and Oxford Consultants for Social Inclusion (OCSI) to update the English Indices of Deprivation 2025.
+The overarching aim of the update was to review, update, enhance and develop the Indices from its most recent 2019 release, fully considering responses and incorporating the lead actions from the
+Indices Future user consultation
+, alongside wider feedback and stakeholder engagement.
+The construction of the
+IoD25
+broadly consists of 7 stages. These stages fulfil the purposes of defining the Indices, data inputs and processing procedures, producing the IMD and full suite of data outputs. These stages are outlined in Figure 1 below, which can also be found in the
+research report
+. Chapter 3 of the
+technical report
+describes these steps in more detail.
+Figure 1: Overview of the methodology used to construct the
+IoD25
+The majority of the data used for the indicators was collated from administrative sources across Government, such as benefit records from the Department for Work and Pensions. Census data is used for a minority of indicators where alternative administrative data is not available. Figure 2 below provides a summary of the domains, indicators and statistical methods used to create the
+IoD25
+. This can also be found in the
+research report
+.
+As far as is possible, the data sources used in each indicator were based on data from the most recent time point available. Using the latest available data in this way means that there is not a single consistent time point for all indicators. Chapter 4 and Appendix A of the
+technical report
+describe the 54 component indicators in the
+IoD25
+, including the data sources and time points used.
+Figure 2: Summary of the domains, indicators and data used to create the Indices of Deprivation 2025
+Data quality
+The
+IoD25
+follows on from previous iterations of the release and has been carefully designed to ensure the robustness and reliability of the output datasets and reports. The design is based on a set of principles and practices that help to ensure data quality. These are described in Chapter 5 of the
+technical report
+. For example, the domains and Index of Multiple Deprivation bring together 54 indicators of deprivation, from a wide range of data sources (see Figure 2 above). This sheer diversity of inputs leads to more reliable overall data outputs; to be highly deprived on the IMD, an area is likely to be highly deprived on a number of domains. Due to the variety of data inputs, there is little chance that an area is identified as highly deprived due to a bias in one of the component indicators; the use of multiple independent indicators increases robustness of the final outputs.
+The construction of the Indices involves a number of different processes. The quality assurance procedures for the methods, input data sources, data processing steps and outputs build on the experience held by project leads and members of the department’s contractors (OCSI and Deprivation.org) in developing the Indices of Deprivation since 2000. These are described in Chapter 5 of the
+technical report
+(with further details in Appendices J, K and L) and include, but are not limited to:
+Use of appropriate and robust indicators, based on well understood data sources. The preference was to use, wherever possible, existing high-quality published data sources that have themselves been validated as National Statistics (or variations thereof). In the absence of these, the second preference was to derive indicators from established and well-understood administrative data sources. In a small number of cases, specially modelled indicators were used. In determining whether the data source was suitable for the purpose of measuring deprivation the quality of each input data source used was assessed and documented, and there was close communication with data suppliers to ensure the strengths and weaknesses of the underlying data were well understood.
+Minimising the impact of potential bias and error in the input data sources through the design principles outlined above.
+Using audited, replicable and validated processing steps to construct the Indices.
+Real world validation of the data inputs and outputs.
+The quality assurance process also draws on the quality assurance, audit arrangements and practice models developed by the UK Statistics Authority to ensure that the assessment of data sources and methodology carried out is proportionate to both the level of public interest in the Indices, and the scale of risk over the quality of the data
+Information on Official Statistics is available via the
+UK Statistics Authority website
+.
+The
+IoD 2019 National Statistics release was reviewed
+against the 3 pillars of the Code of Practice for Statistics: trustworthiness, quality and value by the Office for Statistical Regulation (OSR) in 2020. The OSR reconfirmed the Indices as designated National Statistics, noting the Indices broad utility, suite of products and resources, comprehensive technical documentation, visualisations and ongoing collaboration across the Devolved Administrations. Recommendations were also made relating to future work, which the
+IoD25
+update has taken on board and continues to address.
+Uses
+Since their original publication in 2000 the Indices of Deprivation have been used very widely for a range of purposes, including:
+by national and local organisations to identify places for prioritising resources, service planning and more effective targeting of funding
+to help inform eligibility for government policies and indicatives
+developing the evidence base for a range of national and local policies and strategies
+frequent use in funding bids, including those made by councillors for their neighbourhoods, and from voluntary and community sector groups
+the academic community to further exploration of a wide range of topics
+The
+IoD25
+are appropriate for such uses where deprivation is concentrated at a neighbourhood level. Further examples are detailed in the
+Indices Future user consultation
+and
+research report
+.
+Devolved Administration statistics
+Deprivation data is published by each of the countries in the United Kingdom. These datasets are based on the same concept and general methodology, however there are differences in the domains and indicators, the geographies for which the indices are developed and the time points on which they are based. These differences mean that the English Indices of Deprivation published here should not be directly compared with those from the Indices produced in Wales, Scotland and Northern Ireland.
+The Office for National Statistics previously published
+information explaining in more detail the similarities and differences between the 4 Indices
+.
+The most recent Indices of Deprivation data for the Devolved Administrations are available below:
+Welsh Index of Multiple Deprivation (WIMD)
+Scottish Index of Multiple Deprivation (SIMD)
+Northern Ireland Multiple Deprivation Measure
+MHCLG
+continues to work with the devolved administrations to explore opportunities to produce harmonised outputs (Action 5). As at the time of this release, we are sourcing data which will enable the publication of UK-wide products. Release plans are yet to be confirmed but will be announced on GOV.UK in due course.
+Revisions
+This policy has been developed in accordance with the UK Statistics Authority Code of Practice for Statistics and the
+Ministry of Housing, Communities and Local Government revisions policy
+.
+There are two types of revision that the policy covers:
+Non-scheduled revisions
+Where a substantial error has occurred as a result of the compilation, imputation or dissemination process, the statistical release, live tables and other accompanying releases will be updated with a correction notice as soon as is practical. The Indices of Deprivation draw upon the best available data at the time of their production and, as outlined above, undergo a substantial range of quality assurance checks. However, should an error be identified, the department will consider its impact and review whether an unscheduled revision is required.
+Scheduled revisions
+There are no scheduled revisions to the Indices of Deprivation 2025.
+Glossary
+Indices of Deprivation (
+IoD25
+)
+– covers a set of relative measures of deprivation for small areas (Lower-layer Super Output Areas) across England, based on 7 different domains of deprivation: Income Deprivation, Employment Deprivation, Education, Skills and Training Deprivation, Health and Disability, Crime, Barriers to Housing and Services and Living Environment Deprivation.
+Two supplementary indices are also available; the Income Deprivation Affecting Children Index (
+IDACI
+) and the Income Deprivation Affecting Older People Index (
+IDAOPI
+).
+The
+IMD25
+, domain indices and the supplementary indices, together with the higher area summaries, are collectively referred to as the IoD225.
+Index of Multiple Deprivation 2025 (
+IMD25
+)
+– combines information from the 7 domains to produce an overall relative measure of deprivation. The domains are combined using the following weights: Income Deprivation (22.5%), Employment Deprivation (22.5%), Education, Skills and Training Deprivation (13.5%), Health Deprivation and Disability (13.5%), Crime (9.3%), Barriers to Housing and Services (9.3%), Living Environment Deprivation (9.3%). The weights have been derived from consideration of the academic literature on poverty and deprivation, as well as consideration of the levels of robustness of the indicators. A fuller account is given in section 3  and Appendix G of the
+technical report
+.
+Income Deprivation Domain
+– measures the proportion of the population experiencing deprivation relating to low income. The definition of income deprivation used here includes people who are dependent upon the state for some form of means-tested benefit, and includes both those people that are out-of-work, and those that are in work but who have low earnings and are claiming a means tested benefit.
+Employment Deprivation Domain
+–measures the proportion of the working age population in an area involuntarily excluded from the labour market. This includes people who may want to work but are unable to do so due to unemployment, sickness or disability, or caring responsibilities.
+Education, Skills and Training Deprivation Domain
+– measures the lack of attainment and skills in the local population. The indicators fall into two sub-domains: one relating to children and young people and one relating to adult skills.
+Health Deprivation and Disability Domain
+– measures the risk of premature death and the impairment of quality of life through poor physical or mental health. The domain is comprised of four separate indicators measuring: illness and disability; premature mortality; acute morbidity; and mental health.
+Crime Domain
+– measures the risk of personal and material victimisation at local level.
+Barriers to Housing and Services Domain
+– measures the physical and financial accessibility of housing and local services. The indicators fall into two sub-domains: ‘geographical barriers’, which relates to the geographical (in)accessibility of key local services and amenities; and ‘wider barriers’ which relates to broader issues of accessibility, such to access to affordable housing and other important services.
+Living Environment Deprivation Domain
+– measures the quality of the local environment. The indicators fall into two sub-domains. The ‘indoors’ living environment measures the quality of housing; while the ‘outdoors’ living environment contains measures of air quality and road traffic accidents.
+Income Deprivation Affecting Children Index (
+IDACI
+)
+– measures the proportion of all children aged 0 to 15 living in income deprived families. Family is used here to indicate a ‘benefit unit’, that is the claimant, any partner and any dependent children for whom Child Benefit is received. This is one of two supplementary indices and is a sub-set of the Income Deprivation Domain.
+Income Deprivation Affecting Older People Index (
+IDAOPI
+)
+– measures the proportion of all those aged 60 or over who experience income deprivation. This is one of two supplementary indices and is a sub-set of the Income Deprivation Domain.
+Lower-Layer Super Output Areas (
+LSOAs
+)
+– small areas designed to be of a similar population size, with an average of approximately 1,500 residents or 650 households. There are 33,755
+LSOAs
+in England. They are a standard statistical geography and were produced by the Office for National Statistics for the reporting of small area statistics.
+LSOAs
+are referred to as ‘neighbourhoods’ throughout this release.
+Decile
+– calculated by ranking the 33,755 neighbourhoods in England from most deprived to least deprived and dividing them into 10 equal groups (i.e. each containing 3,375 or 3,376 neighbourhoods). These deciles range from the most deprived 10% of neighbourhoods nationally to the least deprived 10% of neighbourhoods nationally.
+Enquiries
+Release date:
+Thursday 30 October 2025
+Media enquiries:
+0303 444 1209 /
+NewsDesk@communities.gov.uk
+Lead statistician:
+Bowie Penney
+Statistical enquiries:
+indices.deprivation@communities.gov.uk
+Queries submitted to Statistical Enquiries will receive an automatic acknowledgement stating that the query has been received. The team will endeavour to respond to queries within 20 working days, and more quickly when possible. Complex queries may take longer to resolve. Where the answer to a query is contained within the auto response message, users may not receive a direct reply. Users are encouraged to review the guidance documents prior to emailing.
+The Indices of Deprivation draws upon the most relevant and available data at the time of its production and, as outlined above, they undergo a substantial range of quality assurance checks. Where queries relate to the perceived accuracy of the data that feeds into the Indices, it may not be possible to explore all concerns raised but the department will consider referring issues with specific data sources to the suppliers.
+Information on Official Statistics is available via the
+UK Statistics Authority website
+.
+Information about statistics at
+MHCLG
+is available via the
+Department’s website
+.
+Next release
+The Indices of Deprivation are typically updated every 5 years, but the dates of publication for future Indices have not yet been scheduled.
+Users can be kept informed of future updates, developments and how they can contribute their views by registering for emails alerts about the Indices. To register, email
+indices.deprivation@communities.gov.uk
+with ‘subscribe’ in the subject heading.
+Back to top

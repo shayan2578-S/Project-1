@@ -1,0 +1,154 @@
+{
+  "id": "686527814d73403e8f0a59c7a28b0c34_0",
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -6,
+          56
+        ],
+        [
+          2,
+          56
+        ],
+        [
+          2,
+          49.9
+        ],
+        [
+          -6,
+          49.9
+        ],
+        [
+          -6,
+          56
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "snippet": "Lookups",
+    "extent": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -6,
+            56
+          ],
+          [
+            2,
+            56
+          ],
+          [
+            2,
+            49.9
+          ],
+          [
+            -6,
+            49.9
+          ],
+          [
+            -6,
+            56
+          ]
+        ]
+      ]
+    },
+    "commentsEnabled": false,
+    "groupDesignations": null,
+    "access": "public",
+    "apiToken2ExpirationDate": -1,
+    "typeKeywords": [
+      "ArcGIS Server",
+      "Data",
+      "Feature Access",
+      "Feature Service",
+      "Metadata",
+      "Service",
+      "Singlelayer",
+      "Table",
+      "Hosted Service"
+    ],
+    "description": "<div style='background-color:rgb(255, 255, 255); clear:both; color:rgb(0, 0, 0); font-family:&quot;Segoe UI&quot;, &quot;Segoe UI Web&quot;, Arial, Verdana, sans-serif; font-size:12px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; margin:0px; overflow:visible; padding:0px; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;'><p style='background-color:transparent; color:windowtext; font-kerning:none; font-style:normal; font-weight:normal; margin:0px 0px 10.6667px; padding:0px; text-align:left; text-indent:0px;'><span style='font-family:Arial, Arial_EmbeddedFont, Arial_MSFontService, sans-serif; font-size:12pt;'><span style='font-variant-ligatures:none !important; line-height:20.5042px; margin:0px; padding:0px;'><strong>Please Note: </strong>This file updated on 26</span></span><span style='font-family:Arial, Arial_EmbeddedFont, Arial_MSFontService, sans-serif; font-size:9.5pt;'><span style='font-variant-ligatures:none !important; line-height:20.5042px; margin:0px; padding:0px;'><sup>th</sup></span></span><span style='font-family:Arial, Arial_EmbeddedFont, Arial_MSFontService, sans-serif; font-size:12pt;'><span style='font-variant-ligatures:none !important; line-height:20.5042px; margin:0px; padding:0px;'> August 2025 to correct ward/local authority district allocation for E01027305 - West Northamptonshire 048E which was incorrect. See further details on our dedicated </span></span><a target='_blank' href='https://geoportal.statistics.gov.uk/pages/notices' rel='nofollow ugc noopener noreferrer'><span style='font-family:Arial, Arial_EmbeddedFont, Arial_MSFontService, sans-serif; font-size:12pt;'><span style='font-variant-ligatures:none !important; line-height:20.5042px; margin:0px; padding:0px;'>notice</span></span></a><span style='font-family:Arial, Arial_EmbeddedFont, Arial_MSFontService, sans-serif; font-size:12pt;'><span style='font-variant-ligatures:none !important; line-height:20.5042px; margin:0px; padding:0px;'> </span><span style='box-shadow:rgb(66, 66, 66) -1px 0px 0px 0px !important; font-variant-ligatures:none !important; line-height:20.5042px; margin:0px; padding:0px;'>page.&nbsp;</span><span style='line-height:20.5042px; margin:0px; padding:0px;'>&nbsp;</span></span></p></div><div style='background-color:rgb(255, 255, 255); clear:both; color:rgb(0, 0, 0); font-family:&quot;Segoe UI&quot;, &quot;Segoe UI Web&quot;, Arial, Verdana, sans-serif; font-size:12px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; margin:0px; overflow:visible; padding:0px; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;'><p style='background-color:transparent; color:windowtext; font-kerning:none; font-style:normal; font-weight:normal; margin:0px 0px 10.6667px; padding:0px; text-align:left; text-indent:0px;'><span style='font-family:Arial, Arial_EmbeddedFont, Arial_MSFontService, sans-serif; font-size:12pt;'><span style='font-variant-ligatures:none !important; line-height:20.5042px; margin:0px; padding:0px;'>If you have downloaded this product before this date, please check your version and download the updated product. Apologies for any inconvenience caused. For further assistance, please don\u2019t hesitate to contact </span></span><a style='color:inherit; margin:0px; padding:0px; text-decoration:none;' href='mailto:ONS.Geography@ons.gov.uk' target='_blank' rel='nofollow ugc noopener noreferrer'><span style='color:rgb(5,99,193); font-family:Arial, Arial_EmbeddedFont, Arial_MSFontService, sans-serif; font-size:12pt;'><span style='font-variant-ligatures:none !important; line-height:20.5042px; margin:0px; padding:0px;'><u>ONS.Geography@ons.gov.uk</u></span></span></a><span style='font-family:Arial, Arial_EmbeddedFont, Arial_MSFontService, sans-serif; font-size:12pt;'><span style='font-variant-ligatures:none !important; line-height:20.5042px; margin:0px; padding:0px;'>.</span><span style='line-height:20.5042px; margin:0px; padding:0px;'>&nbsp;</span></span></p></div><p style='box-sizing:border-box; color:rgb(0, 0, 0); font-family:Lato, &quot;Avenir Next&quot;; font-size:18px; margin-bottom:10px; margin-top:0px;'>&nbsp;</p><p style='box-sizing:border-box; color:rgb(0, 0, 0); font-family:Lato, &quot;Avenir Next&quot;; font-size:18px; margin-bottom:10px; margin-top:0px;'>This file is a best fit lookup between 2021 lower layer super output areas, electoral wards/divisions and local authority districts in England and Wales as at 2nd May 2024&nbsp; (File Size - 2.7 MB)&nbsp;&nbsp;<br />Field Names - LSOA21CD, LSOA21NM, LSOA21NMW, WD24CD, WD24NM, WD24NMW, LAD24CD, LAD24NM, LAD24NMW</p><p style='box-sizing:border-box; color:rgb(0, 0, 0); font-family:Lato, &quot;Avenir Next&quot;; font-size:18px; margin-bottom:10px; margin-top:0px;'>Field Types - Text, Text, Text, Text, Text, Text, Text, Text, Text</p><p style='box-sizing:border-box; color:rgb(0, 0, 0); font-family:Lato, &quot;Avenir Next&quot;; font-size:18px; margin-bottom:10px; margin-top:0px;'>Field Lengths - 9, 40, 29, 9, 53, 45, 9, 35, 24</p><p>File updated to correct ward/local authority district allocation for E01027305 - West Northamptonshire 048E<br /><br /><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size:medium;'><font style='font-family:inherit;'>For more information and an overview of best-fitting follow this link -&nbsp;</font></span></p><p style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px; margin-bottom:0px; margin-top:0px;'>&nbsp;</p><div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><a style='color:rgb(0, 97, 155); font-family:inherit; text-decoration-line:none;' target='_blank' href='https://geoportal.statistics.gov.uk/datasets/f0aac7ccbfd04cda9eb03e353c613faa/about' rel='nofollow ugc noopener noreferrer'>https://geoportal.statistics.gov.uk/datasets/f0aac7ccbfd04cda9eb03e353c613faa/about</a></div>",
+    "licenseInfo": "<a href='https://www.ons.gov.uk/methodology/geography/licences' target='_blank' rel='nofollow ugc noopener noreferrer'>https://www.ons.gov.uk/methodology/geography/licences</a>",
+    "title": "LSOA (2021) to Electoral Ward (2024) to LAD (2024) Best Fit Lookup in EW",
+    "type": "Table",
+    "orgId": "ESMARspQHYMw9BZ9",
+    "screenshots": [],
+    "contentStatus": "public_authoritative",
+    "subInfo": 0,
+    "advancedSettings": null,
+    "appCategories": [],
+    "modified": 1762951604000,
+    "avgRating": 0,
+    "id": "686527814d73403e8f0a59c7a28b0c34_0",
+    "categories": [
+      "/Categories/ONS Geography Open Data"
+    ],
+    "spatialReference": null,
+    "numRatings": 0,
+    "owner": "ONSGeography_data",
+    "accessInformation": "Office for National Statistics",
+    "largeThumbnail": "largethumbnail/686527814d73403e8f0a59c7a28b0c34.png",
+    "lastViewed": 1762948800000,
+    "thumbnail": "thumbnail/686527814d73403e8f0a59c7a28b0c34.png",
+    "languages": [],
+    "created": 1719376264000,
+    "documentation": null,
+    "banner": null,
+    "classification": null,
+    "url": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/LSOA21_WD24_LAD24_EW_LU/FeatureServer",
+    "tags": [
+      "2024",
+      "LUP_BFT",
+      "LUP_LSOA_WD",
+      "LSOA",
+      "Lower Layer Super Output Areas",
+      "WD",
+      "Ward",
+      "Wards",
+      "LAD",
+      "Local Authority",
+      "Local Authority Districts",
+      "England and Wales",
+      "LSOA21",
+      "2021_Census",
+      "MAY_2024",
+      "LUP_LSOA_2021_WD"
+    ],
+    "numViews": 9686,
+    "numComments": 0,
+    "size": 8273920,
+    "listed": false,
+    "scoreCompleteness": 85,
+    "culture": "en-gb",
+    "industries": [],
+    "apiToken1ExpirationDate": -1,
+    "name": null,
+    "guid": null,
+    "proxyFilter": null,
+    "properties": {
+      "indexJobId": ""
+    },
+    "source": "Office for National Statistics",
+    "license": "custom"
+  },
+  "time": null,
+  "links": [
+    {
+      "rel": "self",
+      "type": "application/geo+json",
+      "title": "This document as GeoJSON",
+      "href": "https://geoportal.statistics.gov.uk/api/search/v1/collections/dataset/items/686527814d73403e8f0a59c7a28b0c34_0"
+    },
+    {
+      "rel": "collection",
+      "type": "application/json",
+      "title": "Dataset",
+      "href": "https://geoportal.statistics.gov.uk/api/search/v1/collections/dataset"
+    }
+  ]
+}

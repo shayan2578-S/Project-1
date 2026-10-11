@@ -1,0 +1,10 @@
+[project]
+name = "access-to-opportunity"
+version = "0.1.0"
+description = "Auditable descriptive analysis of neighbourhood transport accessibility in West Yorkshire"
+requires-python = ">=3.12,<3.13"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+addopts = "-ra"

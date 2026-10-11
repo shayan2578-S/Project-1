@@ -1,0 +1,32 @@
+# Landing pages supplied in the research brief. Direct file URLs must come
+# from retrieved pages/official metadata, not guessed URL templates.
+sources:
+  dft:
+    publisher: Department for Transport
+    title: Transport Connectivity Metrics
+    landing_page: https://www.gov.uk/government/publications/transport-connectivity-metric
+    required: true
+    select_pattern: '(?i)(connectivity|metric).*(xlsx|ods|csv|zip)|\.(xlsx|ods|csv|zip)(\?|$)'
+  census:
+    publisher: Office for National Statistics via Nomis
+    title: Census 2021 bulk downloads
+    landing_page: https://www.nomisweb.co.uk/census/2021/bulk
+    required: true
+    select_pattern: '(?i)ts(045|066|067|001|006|007|007a|007b|007c)\b'
+  imd:
+    publisher: Ministry of Housing, Communities and Local Government
+    title: English Indices of Deprivation 2025
+    landing_page: https://www.gov.uk/government/statistics/english-indices-of-deprivation-2025
+    required: true
+    # Inspect all file links; select files labelled scores/domains/income.
+    select_pattern: '(?i)(income|domain|score|file[-_ ]?7|file[-_ ]?5)'
+  ons:
+    publisher: Office for National Statistics
+    title: ONS Open Geography Portal
+    landing_page: https://geoportal.statistics.gov.uk/
+    required: true
+    select_pattern: '(?i)(lsoa|lower.layer.super.output|lookup|boundary|boundaries)'
+optional_sources:
+  bres: https://www.nomisweb.co.uk/datasets/newbres6pub
+  bus_open_data: https://www.gov.uk/guidance/find-and-use-bus-open-data
+  historical_jts: https://www.gov.uk/government/statistical-data-sets/journey-time-statistics-data-tables-jts

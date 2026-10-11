@@ -1,0 +1,22 @@
+title: "Access to Opportunity: Neighbourhood Transport Accessibility in Leeds, Bradford and Wakefield"
+geography_version: LSOA 2021
+# Verified against the authoritative ONS LSOA21-to-LAD24 lookup.
+districts:
+  E08000035: {name: Leeds, role: main}
+  E08000032: {name: Bradford, role: main}
+  E08000036: {name: Wakefield, role: comparison}
+priority:
+  # Share of the eligible comparison group at each adverse tail.
+  tail_fraction: 0.25
+  comparison_group: pooled
+  weights: {poor_access: 1, no_car: 1, income_need: 1}
+sensitivity:
+  tail_fractions: [0.2, 0.25, 0.3333333333333333]
+  comparison_groups: [pooled, district, main_reference]
+  weights:
+    equal: {poor_access: 1, no_car: 1, income_need: 1}
+    access_emphasis: {poor_access: 2, no_car: 1, income_need: 1}
+    need_emphasis: {poor_access: 1, no_car: 1, income_need: 2}
+peers:
+  quantile_bins: 3
+  minimum_group_size: 5

@@ -1,0 +1,136 @@
+Licences - Office for National Statistics
+Cookies on ons.gov.uk
+Cookies are small files stored on your device when you visit a website. We use some essential cookies to make this website work.
+We would like to set
+additional cookies
+to remember your settings and understand how you use the site. This helps us to improve our services.
+Accept additional cookies
+Reject additional cookies
+Manage settings
+You have accepted all additional cookies.
+You have rejected all additional cookies.
+You can
+change your cookie preferences
+at any time.
+Hide
+Skip to main content
+/methodology/geography/licences
+English (EN) |
+Cymraeg (CY)
+Release calendar
+Methodology
+Media
+About
+Blog
+Menu
+Search
+Home
+Business, industry and trade
+Business
+Changes to business
+Construction industry
+Digital economy
+International trade
+Manufacturing and production industry
+Retail industry
+Tourism industry
+Economy
+Economic output and productivity
+Environmental accounts
+Government, public sector and taxes
+Gross Domestic Product (GDP)
+Gross Value Added (GVA)
+Inflation and price indices
+Investments, pensions and trusts
+National accounts
+Regional accounts
+Employment and labour market
+People in work
+People not in work
+People, population and community
+Armed forces community
+Births, deaths and marriages
+Crime and justice
+Cultural identity
+Education and childcare
+Elections
+Health and social care
+Household characteristics
+Housing
+Leisure and tourism
+Measuring progress, well-being and beyond GDP
+Personal and household finances
+Population and migration
+Taking part in a survey?
+English (EN) |
+Cymraeg (CY)
+Search for a keyword(s) or time series ID
+Search
+Data and analysis from Census 2021
+Home
+Methodology
+Geography
+Licences
+Licences
+Third-party rights, licences and attribution/copyright statements that you need to use when reproducing our geographical material.
+Last updated:
+26 April 2022
+Terms and conditions of supply
+Under the terms of the Open Government Licence and UK Government Licensing Framework (launched 30 September 2010), if you wish to use or re-use ONS material, whether commercially or privately, you may do so freely without a specific application for a licence, subject to the conditions of the Open Government Licence and the Framework. If you are reproducing ONS content you must include a source accreditation to ONS.
+We create a number of products that include the intellectual property rights (IPR) of other organisations; you should be aware of third-party rights and any need for licences. In these cases you should use the appropriate attribution/copyright statement(s).
+You need the following licences for each category of product issued by us, complete with the appropriate attribution/copyright statement:
+Digital boundaries and reference maps:
+Digital boundary products and reference maps are supplied under the Open Government Licence. You must use the following copyright statements when you reproduce or use this material:
+Source: Office for National Statistics licensed under the Open Government Licence v.3.0
+Contains OS data © Crown copyright and database right [year]
+Lookups (excluding UPRN and postcode lookups)
+Lookup products are supplied under the Open Government Licence. You must use the following copyright statement when you reproduce or use this material:
+Source: Office for National Statistics licensed under the Open Government Licence v.3.0
+Postcode products (including postcode lookups)
+Our postcode products (derived from Code-Point® Open) are subject to the Open Government Licence.
+If you also use the Northern Ireland data (postcodes starting with “BT”), you need a separate licence for commercial use direct from Land and Property Services. We only issue a Northern Ireland End User Licence (for internal business use only) with the data. To download a copy, go to the “Download” section of this page. Use of the Northern Ireland data contained within the ONS postcode products constitutes acceptance of the Northern Ireland licensing terms and conditions.
+Copyright and reproduction
+You may re-use this information (not including logos or Northern Ireland data) free of charge in any format or medium, under the terms of the relevant data owners' licence. In addition, the following attribution statements must be acknowledged or displayed whenever the owners data is used:
+Contains OS data © Crown copyright and database right [year]
+Contains Royal Mail data © Royal Mail copyright and database right [year]
+Source: Office for National Statistics licensed under the Open Government Licence v.3.0
+UPRN products (including UPRN lookups)
+Our UPRN products (derived from AddressBase®) are subject to the Open Government Licence.
+The data in AddressBase® is provided by GeoPlace, a limited liability partnership between the Local Government Group and Ordnance Survey.
+Copyright and reproduction
+You may re-use this information (not including logos) free of charge in any format or medium, under the terms of the relevant data owners' licence. In addition, the following attribution statements must be acknowledged or displayed whenever the owners' data is used:
+Contains OS data © Crown copyright and database right [year]
+Contains Royal Mail data © Royal Mail copyright and Database right [year]
+Contains GeoPlace data © Local Government Information House Limited copyright and database right [year]
+Source: Office for National Statistics licensed under the Open Government Licence v.3.0
+You might also be interested in:
+Open Geography portal
+Land and Property Services
+Open Government Licence
+UK Government Licensing Framework
+Related downloads
+Northern Ireland End User Licence
+(103.4 kB doc)
+Footer links
+Help
+Accessibility
+Cookies
+Privacy
+Terms and conditions
+About ONS
+What we do
+Careers
+Contact us
+News
+Freedom of Information
+Connect with us
+X
+Instagram
+Facebook
+LinkedIn
+Consultations
+Discussion forums
+Email alerts
+All content is available under the
+Open Government Licence v3.0
+, except where otherwise stated

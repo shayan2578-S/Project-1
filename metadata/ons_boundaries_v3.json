@@ -1,0 +1,2518 @@
+{
+  "data": {
+    "id": "68515293204e43ca8ab56fa13ae8a547_0",
+    "type": "dataset",
+    "attributes": {
+      "errors": [],
+      "access": "public",
+      "additionalResources": [
+        {
+          "url": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BGC_V5/FeatureServer"
+        }
+      ],
+      "advancedQueryCapabilities": {
+        "supportsSqlExpression": true,
+        "supportsQueryWithResultType": true,
+        "supportsTranslations": false,
+        "supportsQueryRelatedPagination": true,
+        "supportedOperationsWithCacheHint": [
+          "query",
+          "queryTopFilter",
+          "queryAnalytics",
+          "queryAttachments",
+          "queryRelated",
+          "queryBins",
+          "queryPivot"
+        ],
+        "supportsQueryWithCacheHint": true,
+        "supportsQueryWithDatumTransformation": true,
+        "supportsCurrentUserQueries": true,
+        "supportsOutFieldSQLExpression": true,
+        "supportsDefaultSR": true,
+        "fullTextSearchCapabilities": {
+          "supportsStopWords": true,
+          "supportsOperator": true,
+          "supportsSearchOperator": true,
+          "supportsAccentSensitivity": true
+        },
+        "supportsQueryBins": true,
+        "supportsApproxPercentileStatistics": true,
+        "supportsQueryWithLodSR": false,
+        "supportsPaginationOnAggregatedQueries": true,
+        "supportsPagination": true,
+        "supportsMaxRecordCountFactor": true,
+        "supportsStatistics": true,
+        "supportsTrueCurve": true,
+        "supportsOrderBy": true,
+        "supportsReturningGeometryProperties": true,
+        "supportsDisjointSpatialRel": true,
+        "supportsFullTextSearch": true,
+        "supportsQueryWithDistance": true,
+        "supportsLod": true,
+        "supportsSpatialAggregationStatistics": true,
+        "supportsCountDistinct": true,
+        "supportedLodTypes": [
+          "geohash"
+        ],
+        "supportsAdvancedQueryRelated": true,
+        "supportsQueryAttachmentsCountOnly": true,
+        "supportsReturningQueryExtent": true,
+        "supportsTopFeaturesQuery": true,
+        "supportsReturningGeometryEnvelope": true,
+        "supportsDistinct": true,
+        "supportsReturningGeometryCentroid": true,
+        "supportsTimeRelation": true,
+        "supportsQueryAnalytic": true,
+        "supportsPercentileStatistics": true,
+        "supportedSpatialAggregationStatistics": [
+          "EnvelopeAggregate",
+          "CentroidAggregate",
+          "ConvexHullAggregate"
+        ],
+        "supportsHavingClause": true,
+        "supportsAggIds": true,
+        "supportsQueryWithCollation": true,
+        "supportsQueryPivot": true,
+        "supportsOutDistance": true,
+        "supportsISODOW": true,
+        "supportsISOWeek": true
+      },
+      "collection": [
+        "Dataset"
+      ],
+      "categories": [
+        "Boundaries - Census",
+        "2021",
+        "ONS Geography Open Data"
+      ],
+      "commentsEnabled": false,
+      "composeStatus": {
+        "retries": 0,
+        "pass": true,
+        "lastRetriedAt": 1791632485868,
+        "lastSuccessAt": 1791632485867
+      },
+      "composedAt": 1791632485867,
+      "content": "Feature Service",
+      "contentSecurityPolicy": null,
+      "contentStatus": "public_authoritative",
+      "created": 1720539022000,
+      "currentVersion": 12,
+      "description": "<p><span style='color:rgb(0,0,0); font-family:Verdana, Arial, Helvetica, sans-serif; font-size:14.4px;'>This file contains the digital vector boundaries for Lower layer Super Output Areas in England and Wales, as at 21 March 2021.</span><br /></p><div style='box-sizing:border-box; color:rgb(0, 0, 0); font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px; max-width:100%;'></div><div style='box-sizing:border-box; color:rgb(0, 0, 0); font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px; max-width:100%;'><span style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size:14.4px;'>The boundaries available are: (BGC) Generalised (20m) - clipped to the coastline (Mean High Water mark).</span><br /></div><div style='box-sizing:border-box; color:rgb(0, 0, 0); font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px; max-width:100%;'><div style='box-sizing:border-box; font-family:Lato, &quot;Avenir Next&quot;; max-width:100%;'><br /></div><div style='box-sizing:border-box; font-family:Lato, &quot;Avenir Next&quot;; max-width:100%;'><span style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size:14.4px;'>Contains both Ordnance Survey and ONS Intellectual Property Rights.</span></div><div style='box-sizing:border-box; font-family:Lato, &quot;Avenir Next&quot;; max-width:100%;'><br /></div><div style='box-sizing:border-box; font-family:Lato, &quot;Avenir Next&quot;; max-width:100%;'><span style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size:14.4px;'>File size: 79 MB</span></div><div style='box-sizing:border-box; font-family:Lato, &quot;Avenir Next&quot;; max-width:100%;'><br /></div><div style='box-sizing:border-box; font-family:Lato, &quot;Avenir Next&quot;; max-width:100%;'><span style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size:14.4px;'>Version amendments (V3) 14th July 2023: Additional Long/Lat/BNG_E/BNG_N coordinates added. Overlapping intersection repair maintenance. (V4) 26th April 2024: Minor slivers around Bristol foreshore corrected. (V5) 8th July 2024: NMW column added to attribute table.</span><br /></div><div style='box-sizing:border-box; font-family:Lato, &quot;Avenir Next&quot;; max-width:100%;'><span style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size:14.4px;'><br /></span></div></div><div><div>REST URL of Feature Access Service \u2013 <a href='https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BGC_V5/FeatureServer' target='_blank' rel='nofollow ugc noopener noreferrer'>https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BGC_V5/FeatureServer</a></div></div><div><br /></div><div></div><div>REST URL of WFS Server \u2013<a href='https://dservices1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/services/Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BGC_V5/WFSServer?service=wfs&amp;request=getcapabilities' target='_blank' rel='nofollow ugc noopener noreferrer'>https://dservices1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/services/Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BGC_V5/WFSServer?service=wfs&amp;request=getcapabilities</a><br /></div><div><br /></div><div></div><div>REST URL of Map Server \u2013<a href='https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BGC_V5/MapServer' target='_blank' rel='nofollow ugc noopener noreferrer'>https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BGC_V5/MapServer</a><br /></div>",
+      "displayField": "LSOA21CD",
+      "downloadable": true,
+      "enrichCoverage": "regional",
+      "enrichQuality": 91,
+      "extent": {
+        "coordinates": [
+          [
+            -6.4174,
+            49.8642
+          ],
+          [
+            2.0718,
+            55.7437
+          ]
+        ],
+        "type": "envelope"
+      },
+      "fieldNames": [
+        "FID",
+        "LSOA21CD",
+        "LSOA21NM",
+        "LSOA21NMW",
+        "BNG_E",
+        "BNG_N",
+        "LAT",
+        "LONG",
+        "Shape__Area",
+        "Shape__Length",
+        "GlobalID"
+      ],
+      "fields": [
+        {
+          "sqlType": "sqlTypeOther",
+          "nullable": false,
+          "editable": false,
+          "defaultValue": null,
+          "domain": null,
+          "name": "FID",
+          "alias": "FID",
+          "type": "esriFieldTypeOID"
+        },
+        {
+          "sqlType": "sqlTypeOther",
+          "nullable": true,
+          "editable": true,
+          "defaultValue": null,
+          "domain": null,
+          "name": "LSOA21CD",
+          "length": 9,
+          "alias": "LSOA21CD",
+          "type": "esriFieldTypeString"
+        },
+        {
+          "sqlType": "sqlTypeOther",
+          "nullable": true,
+          "editable": true,
+          "defaultValue": null,
+          "domain": null,
+          "name": "LSOA21NM",
+          "length": 40,
+          "alias": "LSOA21NM",
+          "type": "esriFieldTypeString"
+        },
+        {
+          "sqlType": "sqlTypeOther",
+          "nullable": true,
+          "editable": true,
+          "defaultValue": null,
+          "domain": null,
+          "name": "LSOA21NMW",
+          "length": 29,
+          "alias": "LSOA21NMW",
+          "type": "esriFieldTypeString"
+        },
+        {
+          "sqlType": "sqlTypeOther",
+          "nullable": true,
+          "editable": true,
+          "defaultValue": null,
+          "domain": null,
+          "name": "BNG_E",
+          "alias": "BNG_E",
+          "type": "esriFieldTypeInteger"
+        },
+        {
+          "sqlType": "sqlTypeOther",
+          "nullable": true,
+          "editable": true,
+          "defaultValue": null,
+          "domain": null,
+          "name": "BNG_N",
+          "alias": "BNG_N",
+          "type": "esriFieldTypeInteger"
+        },
+        {
+          "sqlType": "sqlTypeOther",
+          "nullable": true,
+          "editable": true,
+          "defaultValue": null,
+          "domain": null,
+          "name": "LAT",
+          "alias": "LAT",
+          "type": "esriFieldTypeSingle"
+        },
+        {
+          "sqlType": "sqlTypeOther",
+          "nullable": true,
+          "editable": true,
+          "defaultValue": null,
+          "domain": null,
+          "name": "LONG",
+          "alias": "LONG",
+          "type": "esriFieldTypeSingle"
+        },
+        {
+          "sqlType": "sqlTypeDouble",
+          "nullable": true,
+          "editable": false,
+          "defaultValue": null,
+          "domain": null,
+          "name": "Shape__Area",
+          "alias": "Shape__Area",
+          "type": "esriFieldTypeDouble"
+        },
+        {
+          "sqlType": "sqlTypeDouble",
+          "nullable": true,
+          "editable": false,
+          "defaultValue": null,
+          "domain": null,
+          "name": "Shape__Length",
+          "alias": "Shape__Length",
+          "type": "esriFieldTypeDouble"
+        },
+        {
+          "sqlType": "sqlTypeOther",
+          "nullable": false,
+          "editable": false,
+          "defaultValue": "NEWID() WITH VALUES",
+          "domain": null,
+          "name": "GlobalID",
+          "length": 38,
+          "alias": "GlobalID",
+          "type": "esriFieldTypeGlobalID"
+        }
+      ],
+      "geometryType": "esriGeometryPolygon",
+      "groupIds": [
+        "08656d18ae7b4878a3baae223027f9f1"
+      ],
+      "hasApi": true,
+      "hubType": "Feature Layer",
+      "id": "68515293204e43ca8ab56fa13ae8a547_0",
+      "itemId": "68515293204e43ca8ab56fa13ae8a547",
+      "itemModified": 1754900537000,
+      "itemExtent": [
+        [
+          -7.052829740606815,
+          49.864147119737304
+        ],
+        [
+          2.073863915020829,
+          55.81112088541446
+        ]
+      ],
+      "layer": {
+        "extent": {
+          "ymin": 5352.5999999996275,
+          "xmin": 82668.51999999955,
+          "ymax": 657539.4056000009,
+          "xmax": 655653.8500000001,
+          "spatialReference": {
+            "latestWkid": 27700,
+            "wkid": 27700
+          }
+        },
+        "supportedContingentValuesFormats": "JSON, PBF",
+        "guidFormat": "",
+        "supportsApplyEditsWithGlobalIds": true,
+        "maxRecordCount": 2000,
+        "infoInEstimates": [
+          "extent",
+          "count"
+        ],
+        "type": "Feature Layer",
+        "onlyAllowTrueCurveUpdatesByTrueCurveClients": false,
+        "hasStaticData": true,
+        "editingInfo": {
+          "lastEditDate": 1720540495250,
+          "schemaLastEditDate": 1720540495250,
+          "dataLastEditDate": 1720539905606
+        },
+        "supportsAttachmentsByUploadId": true,
+        "relationships": [],
+        "supportsAttachmentsResizing": true,
+        "id": 0,
+        "collation": {
+          "caseSensitive": false,
+          "accentSensitive": true,
+          "locale": "neutral"
+        },
+        "supportsStatistics": true,
+        "supportedExportFormats": "csv,shapefile,sqlite,geoPackage,filegdb,featureCollection,geojson,kml,excel,parquet",
+        "standardMaxRecordCount": 2000,
+        "isDataVersioned": false,
+        "hasGeometryProperties": true,
+        "templates": [
+          {
+            "name": "LSOA_2021_EW_BGC_V5",
+            "description": "",
+            "drawingTool": "esriFeatureEditToolPolygon",
+            "prototype": {
+              "attributes": {
+                "LSOA21CD": null,
+                "LSOA21NMW": null,
+                "BNG_E": null,
+                "BNG_N": null,
+                "LAT": null,
+                "LONG": null,
+                "LSOA21NM": null
+              }
+            }
+          }
+        ],
+        "supportsAdvancedQueries": true,
+        "supportsTilesAndBasicQueriesMode": true,
+        "currentVersion": 12,
+        "hasZ": false,
+        "advancedEditingCapabilities": {
+          "supportsAsyncApplyEdits": true,
+          "supportsApplyEditsbyUploadID": true,
+          "supportsTranslation": false,
+          "supportsReturnEditResults": true,
+          "supportsMaxTranslations": 10,
+          "supportedSqlFormatsInCalculate": [
+            "standard"
+          ],
+          "supportedApplyEditsUploadIDFormats": "JSON,PBF"
+        },
+        "supportsQuantizationEditMode": true,
+        "objectIdField": "FID",
+        "hasContingentValuesDefinition": false,
+        "name": "LSOA_2021_EW_BGC_V5",
+        "supportedCurveTypes": [
+          "esriGeometryCircularArc"
+        ],
+        "allowTrueCurvesUpdates": true,
+        "displayField": "LSOA21CD",
+        "supportsCalculate": true,
+        "fields": [
+          {
+            "sqlType": "sqlTypeOther",
+            "nullable": false,
+            "editable": false,
+            "defaultValue": null,
+            "domain": null,
+            "name": "FID",
+            "alias": "FID",
+            "type": "esriFieldTypeOID"
+          },
+          {
+            "sqlType": "sqlTypeOther",
+            "nullable": true,
+            "editable": true,
+            "defaultValue": null,
+            "domain": null,
+            "name": "LSOA21CD",
+            "length": 9,
+            "alias": "LSOA21CD",
+            "type": "esriFieldTypeString"
+          },
+          {
+            "sqlType": "sqlTypeOther",
+            "nullable": true,
+            "editable": true,
+            "defaultValue": null,
+            "domain": null,
+            "name": "LSOA21NM",
+            "length": 40,
+            "alias": "LSOA21NM",
+            "type": "esriFieldTypeString"
+          },
+          {
+            "sqlType": "sqlTypeOther",
+            "nullable": true,
+            "editable": true,
+            "defaultValue": null,
+            "domain": null,
+            "name": "LSOA21NMW",
+            "length": 29,
+            "alias": "LSOA21NMW",
+            "type": "esriFieldTypeString"
+          },
+          {
+            "sqlType": "sqlTypeOther",
+            "nullable": true,
+            "editable": true,
+            "defaultValue": null,
+            "domain": null,
+            "name": "BNG_E",
+            "alias": "BNG_E",
+            "type": "esriFieldTypeInteger"
+          },
+          {
+            "sqlType": "sqlTypeOther",
+            "nullable": true,
+            "editable": true,
+            "defaultValue": null,
+            "domain": null,
+            "name": "BNG_N",
+            "alias": "BNG_N",
+            "type": "esriFieldTypeInteger"
+          },
+          {
+            "sqlType": "sqlTypeOther",
+            "nullable": true,
+            "editable": true,
+            "defaultValue": null,
+            "domain": null,
+            "name": "LAT",
+            "alias": "LAT",
+            "type": "esriFieldTypeSingle"
+          },
+          {
+            "sqlType": "sqlTypeOther",
+            "nullable": true,
+            "editable": true,
+            "defaultValue": null,
+            "domain": null,
+            "name": "LONG",
+            "alias": "LONG",
+            "type": "esriFieldTypeSingle"
+          },
+          {
+            "sqlType": "sqlTypeDouble",
+            "nullable": true,
+            "editable": false,
+            "defaultValue": null,
+            "domain": null,
+            "name": "Shape__Area",
+            "alias": "Shape__Area",
+            "type": "esriFieldTypeDouble"
+          },
+          {
+            "sqlType": "sqlTypeDouble",
+            "nullable": true,
+            "editable": false,
+            "defaultValue": null,
+            "domain": null,
+            "name": "Shape__Length",
+            "alias": "Shape__Length",
+            "type": "esriFieldTypeDouble"
+          },
+          {
+            "sqlType": "sqlTypeOther",
+            "nullable": false,
+            "editable": false,
+            "defaultValue": "NEWID() WITH VALUES",
+            "domain": null,
+            "name": "GlobalID",
+            "length": 38,
+            "alias": "GlobalID",
+            "type": "esriFieldTypeGlobalID"
+          }
+        ],
+        "maxRecordCountFactor": 1,
+        "dateFieldsTimeReference": {
+          "timeZoneIANA": "Etc/UTC",
+          "respectsDaylightSaving": false,
+          "timeZone": "UTC"
+        },
+        "supportsFieldDescriptionProperty": true,
+        "hasM": false,
+        "allowGeometryUpdates": true,
+        "preferredTimeReference": null,
+        "useStandardizedQueries": true,
+        "globalIdField": "GlobalID",
+        "supportedConvertContentFormats": "LayerEditCollection,FeatureCollection",
+        "description": "",
+        "enableNullGeometry": false,
+        "supportedSpatialRelationships": [
+          "esriSpatialRelIntersects",
+          "esriSpatialRelContains",
+          "esriSpatialRelCrosses",
+          "esriSpatialRelEnvelopeIntersects",
+          "esriSpatialRelIndexIntersects",
+          "esriSpatialRelOverlaps",
+          "esriSpatialRelTouches",
+          "esriSpatialRelWithin",
+          "esriSpatialRelDisjoint",
+          "esriSpatialRelRelation"
+        ],
+        "geometryProperties": {
+          "shapeAreaFieldName": "Shape__Area",
+          "shapeLengthFieldName": "Shape__Length"
+        },
+        "supportsRollbackOnFailureParameter": true,
+        "supportsTruncate": false,
+        "standardMaxRecordCountNoGeometry": 32000,
+        "indexes": [
+          {
+            "indexType": "Attribute",
+            "name": "PK__LOWER_LA__C1BEA5A2EB22EA29",
+            "isUnique": true,
+            "description": "",
+            "fields": "FID",
+            "isAscending": true
+          },
+          {
+            "indexType": "Spatial",
+            "name": "user_1559.LOWER_LAYER_SUPER_OUTPUT_AREAS_DECEMBER_2021_BOUNDARIES_EW_BGC_V5_LSOA_2021_EW_BGC_V5_Shape_sidx",
+            "isUnique": false,
+            "description": "",
+            "fields": "Shape",
+            "isAscending": true
+          },
+          {
+            "indexType": "Attribute",
+            "name": "Shape__Area_Index",
+            "isUnique": false,
+            "description": "",
+            "fields": "Shape__Area",
+            "isAscending": true
+          },
+          {
+            "indexType": "Attribute",
+            "name": "Shape__Length_Index",
+            "isUnique": false,
+            "description": "",
+            "fields": "Shape__Length",
+            "isAscending": true
+          },
+          {
+            "indexType": "Attribute",
+            "name": "GlobalID_Index",
+            "isUnique": true,
+            "description": "",
+            "fields": "GlobalID",
+            "isAscending": false
+          }
+        ],
+        "supportedAppendSourceFilterFormats": "sqlite,geoPackage,shapefile,filegdb,featureService",
+        "htmlPopupType": "esriServerHTMLPopupTypeAsHTMLText",
+        "supportsReturningQueryGeometry": true,
+        "minScale": 0,
+        "hasAttachments": false,
+        "queryBinsCapabilities": {
+          "supportedNormalizationTypes": [
+            "boxCox",
+            "field",
+            "inverse",
+            "log",
+            "naturalLog",
+            "percentOfTotal",
+            "squareRoot"
+          ],
+          "supportsNormalization": true,
+          "supportsSnapToData": true,
+          "supportsFixedIntervalBin": true,
+          "supportsStackBy": true,
+          "supportsDateBin": true,
+          "supportsSplitBy": true,
+          "supportsReturnFullIntervalBin": true,
+          "supportsAsync": true,
+          "supportsFirstDayOfWeek": true,
+          "supportedStatisticTypes": [
+            "COUNT",
+            "SUM",
+            "AVG",
+            "VAR",
+            "STDDEV",
+            "MIN",
+            "MAX",
+            "PERCENTILE_CONT",
+            "PERCENTILE_DISC",
+            "APPROX_PERCENTILE_CONT",
+            "APPROX_PERCENTILE_DISC",
+            "CentroidAggregate",
+            "EnvelopeAggregate",
+            "ConvexHullAggregate"
+          ],
+          "supportsAutoIntervalBin": true,
+          "supportsFixedBoundariesBin": true,
+          "supportsReturnStackValueRange": true,
+          "supportsClassificationBin": true
+        },
+        "supportedConvertFileFormats": "JSON,PBF,Parquet",
+        "advancedQueryCapabilities": {
+          "supportsSqlExpression": true,
+          "supportsQueryWithResultType": true,
+          "supportsTranslations": false,
+          "supportsQueryRelatedPagination": true,
+          "supportedOperationsWithCacheHint": [
+            "query",
+            "queryTopFilter",
+            "queryAnalytics",
+            "queryAttachments",
+            "queryRelated",
+            "queryBins",
+            "queryPivot"
+          ],
+          "supportsQueryWithCacheHint": true,
+          "supportsQueryWithDatumTransformation": true,
+          "supportsCurrentUserQueries": true,
+          "supportsOutFieldSQLExpression": true,
+          "supportsDefaultSR": true,
+          "fullTextSearchCapabilities": {
+            "supportsStopWords": true,
+            "supportsOperator": true,
+            "supportsSearchOperator": true,
+            "supportsAccentSensitivity": true
+          },
+          "supportsQueryBins": true,
+          "supportsApproxPercentileStatistics": true,
+          "supportsQueryWithLodSR": false,
+          "supportsPaginationOnAggregatedQueries": true,
+          "supportsPagination": true,
+          "supportsMaxRecordCountFactor": true,
+          "supportsStatistics": true,
+          "supportsTrueCurve": true,
+          "supportsOrderBy": true,
+          "supportsReturningGeometryProperties": true,
+          "supportsDisjointSpatialRel": true,
+          "supportsFullTextSearch": true,
+          "supportsQueryWithDistance": true,
+          "supportsLod": true,
+          "supportsSpatialAggregationStatistics": true,
+          "supportsCountDistinct": true,
+          "supportedLodTypes": [
+            "geohash"
+          ],
+          "supportsAdvancedQueryRelated": true,
+          "supportsQueryAttachmentsCountOnly": true,
+          "supportsReturningQueryExtent": true,
+          "supportsTopFeaturesQuery": true,
+          "supportsReturningGeometryEnvelope": true,
+          "supportsDistinct": true,
+          "supportsReturningGeometryCentroid": true,
+          "supportsTimeRelation": true,
+          "supportsQueryAnalytic": true,
+          "supportsPercentileStatistics": true,
+          "supportedSpatialAggregationStatistics": [
+            "EnvelopeAggregate",
+            "CentroidAggregate",
+            "ConvexHullAggregate"
+          ],
+          "supportsHavingClause": true,
+          "supportsAggIds": true,
+          "supportsQueryWithCollation": true,
+          "supportsQueryPivot": true,
+          "supportsOutDistance": true,
+          "supportsISODOW": true,
+          "supportsISOWeek": true
+        },
+        "serviceItemId": "68515293204e43ca8ab56fa13ae8a547",
+        "supportsValidateSql": true,
+        "cacheMaxAge": 30,
+        "supportsCoordinatesQuantization": true,
+        "types": [],
+        "capabilities": "Query,Extract,ChangeTracking",
+        "supportsAppend": true,
+        "maxScale": 0,
+        "supportsExceedsLimitStatistics": true,
+        "supportedSyncDataOptions": 260,
+        "defaultVisibility": true,
+        "advancedQueryAnalyticCapabilities": {
+          "supportsAsync": true,
+          "supportsLinearRegression": true,
+          "supportsTrendlineRegression": true,
+          "supportsPercentileAnalytic": true
+        },
+        "hasMetadata": true,
+        "supportedAppendFormats": "sqlite,geoPackage,shapefile,filegdb,featureCollection,geojson,csv,excel,jsonl,featureService,pbf",
+        "uniqueIdField": {
+          "isSystemMaintained": true,
+          "name": "FID"
+        },
+        "tileMaxRecordCount": 4000,
+        "typeIdField": "",
+        "supportsASyncCalculate": true,
+        "supportedQueryFormats": "JSON, geoJSON, PBF",
+        "supportsMultiScaleGeometry": true,
+        "drawingInfo": {
+          "renderer": {
+            "symbol": {
+              "outline": {
+                "color": [
+                  110,
+                  110,
+                  110,
+                  255
+                ],
+                "width": 0.7,
+                "style": "esriSLSSolid",
+                "type": "esriSLS"
+              },
+              "color": [
+                232,
+                252,
+                207,
+                255
+              ],
+              "style": "esriSFSSolid",
+              "type": "esriSFS"
+            },
+            "type": "simple"
+          },
+          "scaleSymbols": true,
+          "transparency": 0,
+          "labelingInfo": null
+        },
+        "copyrightText": "",
+        "supportsColumnStoreIndex": true,
+        "supportsLayerOverrides": true,
+        "geometryType": "esriGeometryPolygon",
+        "supportedOperationsWithCollation": "query,addField,updateField",
+        "supportsContingentValues": true,
+        "supportsFieldGroups": true,
+        "supportedTrueCurvePbfFeatureEncodings": [
+          "esriCompressedShapeBuffer",
+          "esriDefault"
+        ],
+        "trueCurveSupportMode": "OGC",
+        "supportsEditingContingentValues": true,
+        "maxIdsCount": 1000000
+      },
+      "layers": [
+        {
+          "extent": {
+            "ymin": 5352.5999999996275,
+            "xmin": 82668.51999999955,
+            "ymax": 657539.4056000009,
+            "xmax": 655653.8500000001,
+            "spatialReference": {
+              "latestWkid": 27700,
+              "wkid": 27700
+            }
+          },
+          "supportedContingentValuesFormats": "JSON, PBF",
+          "guidFormat": "",
+          "supportsApplyEditsWithGlobalIds": true,
+          "maxRecordCount": 2000,
+          "infoInEstimates": [
+            "extent",
+            "count"
+          ],
+          "type": "Feature Layer",
+          "onlyAllowTrueCurveUpdatesByTrueCurveClients": false,
+          "hasStaticData": true,
+          "editingInfo": {
+            "lastEditDate": 1720540495250,
+            "schemaLastEditDate": 1720540495250,
+            "dataLastEditDate": 1720539905606
+          },
+          "supportsAttachmentsByUploadId": true,
+          "relationships": [],
+          "supportsEditingContingentValues": true,
+          "supportsAttachmentsResizing": true,
+          "id": 0,
+          "collation": {
+            "caseSensitive": false,
+            "accentSensitive": true,
+            "locale": "neutral"
+          },
+          "supportsStatistics": true,
+          "supportedExportFormats": "csv,shapefile,sqlite,geoPackage,filegdb,featureCollection,geojson,kml,excel,parquet",
+          "standardMaxRecordCount": 2000,
+          "isDataVersioned": false,
+          "hasGeometryProperties": true,
+          "templates": [
+            {
+              "name": "LSOA_2021_EW_BGC_V5",
+              "description": "",
+              "drawingTool": "esriFeatureEditToolPolygon",
+              "prototype": {
+                "attributes": {
+                  "LSOA21CD": null,
+                  "LSOA21NMW": null,
+                  "BNG_E": null,
+                  "BNG_N": null,
+                  "LAT": null,
+                  "LONG": null,
+                  "LSOA21NM": null
+                }
+              }
+            }
+          ],
+          "supportsAdvancedQueries": true,
+          "supportsTilesAndBasicQueriesMode": true,
+          "currentVersion": 12,
+          "hasZ": false,
+          "advancedEditingCapabilities": {
+            "supportsAsyncApplyEdits": true,
+            "supportsApplyEditsbyUploadID": true,
+            "supportsTranslation": false,
+            "supportsReturnEditResults": true,
+            "supportsMaxTranslations": 10,
+            "supportedSqlFormatsInCalculate": [
+              "standard"
+            ],
+            "supportedApplyEditsUploadIDFormats": "JSON,PBF"
+          },
+          "supportsQuantizationEditMode": true,
+          "objectIdField": "FID",
+          "hasContingentValuesDefinition": false,
+          "maxIdsCount": 1000000,
+          "name": "LSOA_2021_EW_BGC_V5",
+          "supportedCurveTypes": [
+            "esriGeometryCircularArc"
+          ],
+          "allowTrueCurvesUpdates": true,
+          "displayField": "LSOA21CD",
+          "supportsCalculate": true,
+          "fields": [
+            {
+              "sqlType": "sqlTypeOther",
+              "nullable": false,
+              "editable": false,
+              "defaultValue": null,
+              "domain": null,
+              "name": "FID",
+              "alias": "FID",
+              "type": "esriFieldTypeOID"
+            },
+            {
+              "sqlType": "sqlTypeOther",
+              "nullable": true,
+              "editable": true,
+              "defaultValue": null,
+              "domain": null,
+              "name": "LSOA21CD",
+              "length": 9,
+              "alias": "LSOA21CD",
+              "type": "esriFieldTypeString"
+            },
+            {
+              "sqlType": "sqlTypeOther",
+              "nullable": true,
+              "editable": true,
+              "defaultValue": null,
+              "domain": null,
+              "name": "LSOA21NM",
+              "length": 40,
+              "alias": "LSOA21NM",
+              "type": "esriFieldTypeString"
+            },
+            {
+              "sqlType": "sqlTypeOther",
+              "nullable": true,
+              "editable": true,
+              "defaultValue": null,
+              "domain": null,
+              "name": "LSOA21NMW",
+              "length": 29,
+              "alias": "LSOA21NMW",
+              "type": "esriFieldTypeString"
+            },
+            {
+              "sqlType": "sqlTypeOther",
+              "nullable": true,
+              "editable": true,
+              "defaultValue": null,
+              "domain": null,
+              "name": "BNG_E",
+              "alias": "BNG_E",
+              "type": "esriFieldTypeInteger"
+            },
+            {
+              "sqlType": "sqlTypeOther",
+              "nullable": true,
+              "editable": true,
+              "defaultValue": null,
+              "domain": null,
+              "name": "BNG_N",
+              "alias": "BNG_N",
+              "type": "esriFieldTypeInteger"
+            },
+            {
+              "sqlType": "sqlTypeOther",
+              "nullable": true,
+              "editable": true,
+              "defaultValue": null,
+              "domain": null,
+              "name": "LAT",
+              "alias": "LAT",
+              "type": "esriFieldTypeSingle"
+            },
+            {
+              "sqlType": "sqlTypeOther",
+              "nullable": true,
+              "editable": true,
+              "defaultValue": null,
+              "domain": null,
+              "name": "LONG",
+              "alias": "LONG",
+              "type": "esriFieldTypeSingle"
+            },
+            {
+              "sqlType": "sqlTypeDouble",
+              "nullable": true,
+              "editable": false,
+              "defaultValue": null,
+              "domain": null,
+              "name": "Shape__Area",
+              "alias": "Shape__Area",
+              "type": "esriFieldTypeDouble"
+            },
+            {
+              "sqlType": "sqlTypeDouble",
+              "nullable": true,
+              "editable": false,
+              "defaultValue": null,
+              "domain": null,
+              "name": "Shape__Length",
+              "alias": "Shape__Length",
+              "type": "esriFieldTypeDouble"
+            },
+            {
+              "sqlType": "sqlTypeOther",
+              "nullable": false,
+              "editable": false,
+              "defaultValue": "NEWID() WITH VALUES",
+              "domain": null,
+              "name": "GlobalID",
+              "length": 38,
+              "alias": "GlobalID",
+              "type": "esriFieldTypeGlobalID"
+            }
+          ],
+          "maxRecordCountFactor": 1,
+          "dateFieldsTimeReference": {
+            "timeZoneIANA": "Etc/UTC",
+            "respectsDaylightSaving": false,
+            "timeZone": "UTC"
+          },
+          "supportsFieldDescriptionProperty": true,
+          "hasM": false,
+          "allowGeometryUpdates": true,
+          "preferredTimeReference": null,
+          "useStandardizedQueries": true,
+          "globalIdField": "GlobalID",
+          "supportedConvertContentFormats": "LayerEditCollection,FeatureCollection",
+          "description": "",
+          "enableNullGeometry": false,
+          "supportedOperationsWithCollation": "query,addField,updateField",
+          "supportedSpatialRelationships": [
+            "esriSpatialRelIntersects",
+            "esriSpatialRelContains",
+            "esriSpatialRelCrosses",
+            "esriSpatialRelEnvelopeIntersects",
+            "esriSpatialRelIndexIntersects",
+            "esriSpatialRelOverlaps",
+            "esriSpatialRelTouches",
+            "esriSpatialRelWithin",
+            "esriSpatialRelDisjoint",
+            "esriSpatialRelRelation"
+          ],
+          "geometryProperties": {
+            "shapeAreaFieldName": "Shape__Area",
+            "shapeLengthFieldName": "Shape__Length"
+          },
+          "supportsRollbackOnFailureParameter": true,
+          "supportsTruncate": false,
+          "standardMaxRecordCountNoGeometry": 32000,
+          "indexes": [
+            {
+              "indexType": "Attribute",
+              "name": "PK__LOWER_LA__C1BEA5A2EB22EA29",
+              "isUnique": true,
+              "description": "",
+              "fields": "FID",
+              "isAscending": true
+            },
+            {
+              "indexType": "Spatial",
+              "name": "user_1559.LOWER_LAYER_SUPER_OUTPUT_AREAS_DECEMBER_2021_BOUNDARIES_EW_BGC_V5_LSOA_2021_EW_BGC_V5_Shape_sidx",
+              "isUnique": false,
+              "description": "",
+              "fields": "Shape",
+              "isAscending": true
+            },
+            {
+              "indexType": "Attribute",
+              "name": "Shape__Area_Index",
+              "isUnique": false,
+              "description": "",
+              "fields": "Shape__Area",
+              "isAscending": true
+            },
+            {
+              "indexType": "Attribute",
+              "name": "Shape__Length_Index",
+              "isUnique": false,
+              "description": "",
+              "fields": "Shape__Length",
+              "isAscending": true
+            },
+            {
+              "indexType": "Attribute",
+              "name": "GlobalID_Index",
+              "isUnique": true,
+              "description": "",
+              "fields": "GlobalID",
+              "isAscending": false
+            }
+          ],
+          "supportedAppendSourceFilterFormats": "sqlite,geoPackage,shapefile,filegdb,featureService",
+          "htmlPopupType": "esriServerHTMLPopupTypeAsHTMLText",
+          "supportsReturningQueryGeometry": true,
+          "minScale": 0,
+          "hasAttachments": false,
+          "queryBinsCapabilities": {
+            "supportsReturnStackValueRange": true,
+            "supportedNormalizationTypes": [
+              "boxCox",
+              "field",
+              "inverse",
+              "log",
+              "naturalLog",
+              "percentOfTotal",
+              "squareRoot"
+            ],
+            "supportsNormalization": true,
+            "supportsSnapToData": true,
+            "supportsFixedIntervalBin": true,
+            "supportsStackBy": true,
+            "supportsDateBin": true,
+            "supportsSplitBy": true,
+            "supportsClassificationBin": true,
+            "supportsReturnFullIntervalBin": true,
+            "supportsAsync": true,
+            "supportsFirstDayOfWeek": true,
+            "supportedStatisticTypes": [
+              "COUNT",
+              "SUM",
+              "AVG",
+              "VAR",
+              "STDDEV",
+              "MIN",
+              "MAX",
+              "PERCENTILE_CONT",
+              "PERCENTILE_DISC",
+              "APPROX_PERCENTILE_CONT",
+              "APPROX_PERCENTILE_DISC",
+              "CentroidAggregate",
+              "EnvelopeAggregate",
+              "ConvexHullAggregate"
+            ],
+            "supportsAutoIntervalBin": true,
+            "supportsFixedBoundariesBin": true
+          },
+          "supportedConvertFileFormats": "JSON,PBF,Parquet",
+          "advancedQueryCapabilities": {
+            "supportsSqlExpression": true,
+            "supportsQueryWithResultType": true,
+            "supportsTranslations": false,
+            "supportsQueryRelatedPagination": true,
+            "supportedOperationsWithCacheHint": [
+              "query",
+              "queryTopFilter",
+              "queryAnalytics",
+              "queryAttachments",
+              "queryRelated",
+              "queryBins",
+              "queryPivot"
+            ],
+            "supportsQueryWithCacheHint": true,
+            "supportsQueryWithDatumTransformation": true,
+            "supportsCurrentUserQueries": true,
+            "supportsAggIds": true,
+            "supportsOutFieldSQLExpression": true,
+            "supportsDefaultSR": true,
+            "fullTextSearchCapabilities": {
+              "supportsStopWords": true,
+              "supportsOperator": true,
+              "supportsSearchOperator": true,
+              "supportsAccentSensitivity": true
+            },
+            "supportsQueryBins": true,
+            "supportsQueryWithCollation": true,
+            "supportsQueryPivot": true,
+            "supportsApproxPercentileStatistics": true,
+            "supportsQueryWithLodSR": false,
+            "supportsPaginationOnAggregatedQueries": true,
+            "supportsPagination": true,
+            "supportsMaxRecordCountFactor": true,
+            "supportsStatistics": true,
+            "supportsOutDistance": true,
+            "supportsTrueCurve": true,
+            "supportsOrderBy": true,
+            "supportsReturningGeometryProperties": true,
+            "supportsDisjointSpatialRel": true,
+            "supportsFullTextSearch": true,
+            "supportsQueryWithDistance": true,
+            "supportsLod": true,
+            "supportsSpatialAggregationStatistics": true,
+            "supportsCountDistinct": true,
+            "supportedLodTypes": [
+              "geohash"
+            ],
+            "supportsAdvancedQueryRelated": true,
+            "supportsReturningQueryExtent": true,
+            "supportsISODOW": true,
+            "supportsTopFeaturesQuery": true,
+            "supportsReturningGeometryEnvelope": true,
+            "supportsDistinct": true,
+            "supportsReturningGeometryCentroid": true,
+            "supportsTimeRelation": true,
+            "supportsQueryAnalytic": true,
+            "supportsPercentileStatistics": true,
+            "supportedSpatialAggregationStatistics": [
+              "EnvelopeAggregate",
+              "CentroidAggregate",
+              "ConvexHullAggregate"
+            ],
+            "supportsISOWeek": true,
+            "supportsHavingClause": true
+          },
+          "serviceItemId": "68515293204e43ca8ab56fa13ae8a547",
+          "supportsValidateSql": true,
+          "cacheMaxAge": 30,
+          "supportsCoordinatesQuantization": true,
+          "types": [],
+          "capabilities": "Query,Extract,ChangeTracking",
+          "supportsAppend": true,
+          "maxScale": 0,
+          "supportsExceedsLimitStatistics": true,
+          "supportedSyncDataOptions": 260,
+          "supportsContingentValues": true,
+          "defaultVisibility": true,
+          "advancedQueryAnalyticCapabilities": {
+            "supportsAsync": true,
+            "supportsLinearRegression": true,
+            "supportsTrendlineRegression": true,
+            "supportsPercentileAnalytic": true
+          },
+          "supportedTrueCurvePbfFeatureEncodings": [
+            "esriCompressedShapeBuffer",
+            "esriDefault"
+          ],
+          "hasMetadata": true,
+          "supportedAppendFormats": "sqlite,geoPackage,shapefile,filegdb,featureCollection,geojson,csv,excel,jsonl,featureService,pbf",
+          "uniqueIdField": {
+            "isSystemMaintained": true,
+            "name": "FID"
+          },
+          "tileMaxRecordCount": 4000,
+          "supportsFieldGroups": true,
+          "typeIdField": "",
+          "supportsASyncCalculate": true,
+          "supportedQueryFormats": "JSON, geoJSON, PBF",
+          "supportsMultiScaleGeometry": true,
+          "trueCurveSupportMode": "OGC",
+          "drawingInfo": {
+            "renderer": {
+              "symbol": {
+                "outline": {
+                  "color": [
+                    110,
+                    110,
+                    110,
+                    255
+                  ],
+                  "width": 0.7,
+                  "style": "esriSLSSolid",
+                  "type": "esriSLS"
+                },
+                "color": [
+                  232,
+                  252,
+                  207,
+                  255
+                ],
+                "style": "esriSFSSolid",
+                "type": "esriSFS"
+              },
+              "type": "simple"
+            },
+            "scaleSymbols": true,
+            "transparency": 0,
+            "labelingInfo": null
+          },
+          "copyrightText": "",
+          "supportsColumnStoreIndex": true,
+          "supportsLayerOverrides": true,
+          "geometryType": "esriGeometryPolygon"
+        }
+      ],
+      "licenseInfo": "<a href='https://www.ons.gov.uk/methodology/geography/licences' target='_blank' rel='nofollow ugc noopener noreferrer'>https://www.ons.gov.uk/methodology/geography/licences</a>",
+      "maxRecordCount": 2000,
+      "metadata": {
+        "metadata": {
+          "mdLang": {
+            "languageCode": {
+              "@_value": "eng"
+            }
+          },
+          "mdContact": {
+            "rpCntInfo": {
+              "cntAddress": {
+                "eMailAdd": "ons.geography@ons.gov.uk"
+              }
+            },
+            "rpOrgName": "Office for National Statistics",
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
+          },
+          "mdDateSt": "2024-07-09",
+          "Esri": {
+            "ArcGISFormat": 1,
+            "CreaTime": 12163032,
+            "ArcGISProfile": "INSPIRE",
+            "ArcGISstyle": "INSPIRE Metadata Directive",
+            "ModDate": 20240709,
+            "CreaDate": 20221014,
+            "ModTime": 16513829,
+            "MapLyrSync": false,
+            "PublishStatus": "editor:esri.dijit.metadata.editor"
+          },
+          "mdTimeSt": "16:51:34.85",
+          "dqInfo": {
+            "dataLineage": {
+              "statement": "This product was produced by ONS Geography"
+            },
+            "dqScope": {
+              "scpLvl": {
+                "ScopeCd": {
+                  "@_value": "005"
+                }
+              }
+            },
+            "report": {
+              "measResult": {
+                "ConResult": {
+                  "conExpl": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:323:0011:0102:EN:PDF",
+                  "conSpec": {
+                    "date": {
+                      "pubDate": "2010-12-08T00:00:00"
+                    },
+                    "resTitle": "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                  },
+                  "conPass": 1
+                }
+              },
+              "@_type": "DQDomConsis"
+            }
+          },
+          "mdHrLv": {
+            "ScopeCd": {
+              "@_value": "005"
+            }
+          },
+          "dataIdInfo": {
+            "idAbs": "<p><span style='color:rgb(0,0,0); font-family:Verdana, Arial, Helvetica, sans-serif; font-size:14.4px;'>This file contains the digital vector boundaries for Lower layer Super Output Areas in England and Wales, as at 21 March 2021.</span><br /></p><div style='box-sizing:border-box; color:rgb(0, 0, 0); font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px; max-width:100%;'></div><div style='box-sizing:border-box; color:rgb(0, 0, 0); font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px; max-width:100%;'><span style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size:14.4px;'>The boundaries available are: (BGC) Generalised (20m) - clipped to the coastline (Mean High Water mark).</span><br /></div><div style='box-sizing:border-box; color:rgb(0, 0, 0); font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px; max-width:100%;'><div style='box-sizing:border-box; font-family:Lato, &quot;Avenir Next&quot;; max-width:100%;'><br /></div><div style='box-sizing:border-box; font-family:Lato, &quot;Avenir Next&quot;; max-width:100%;'><span style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size:14.4px;'>Contains both Ordnance Survey and ONS Intellectual Property Rights.</span></div><div style='box-sizing:border-box; font-family:Lato, &quot;Avenir Next&quot;; max-width:100%;'><br /></div><div style='box-sizing:border-box; font-family:Lato, &quot;Avenir Next&quot;; max-width:100%;'><span style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size:14.4px;'>File size: 79 MB</span></div><div style='box-sizing:border-box; font-family:Lato, &quot;Avenir Next&quot;; max-width:100%;'><br /></div><div style='box-sizing:border-box; font-family:Lato, &quot;Avenir Next&quot;; max-width:100%;'><span style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size:14.4px;'>Version amendments (V3) 14th July 2023: Additional Long/Lat/BNG_E/BNG_N coordinates added. Overlapping intersection repair maintenance. (V4) 26th April 2024: Minor slivers around Bristol foreshore corrected. (V5) 8th July 2024: NMW column added to attribute table.</span><br /></div><div style='box-sizing:border-box; font-family:Lato, &quot;Avenir Next&quot;; max-width:100%;'><span style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size:14.4px;'><br /></span></div></div><div><div>REST URL of Feature Access Service \u2013 <a href='https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BGC_V5/FeatureServer' target='_blank' rel='nofollow ugc noopener noreferrer'>https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BGC_V5/FeatureServer</a></div></div><div><br /></div><div></div><div>REST URL of WFS Server \u2013<a href='https://dservices1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/services/Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BGC_V5/WFSServer?service=wfs&amp;request=getcapabilities' target='_blank' rel='nofollow ugc noopener noreferrer'>https://dservices1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/services/Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BGC_V5/WFSServer?service=wfs&amp;request=getcapabilities</a><br /></div><div><br /></div><div></div><div>REST URL of Map Server \u2013<a href='https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BGC_V5/MapServer' target='_blank' rel='nofollow ugc noopener noreferrer'>https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BGC_V5/MapServer</a><br /></div>",
+            "idCredit": "Office for National Statistics",
+            "dataLang": {
+              "countryCode": {
+                "@_value": "GB"
+              },
+              "languageCode": {
+                "@_value": "eng"
+              }
+            },
+            "idPurp": "Census Boundaries",
+            "tpCat": [
+              {
+                "TopicCatCd": {
+                  "@_value": "003"
+                }
+              },
+              {
+                "TopicCatCd": {
+                  "@_value": "007"
+                }
+              },
+              {
+                "TopicCatCd": {
+                  "@_value": "013"
+                }
+              }
+            ],
+            "dataExt": {
+              "geoEle": {
+                "GeoBndBox": {
+                  "eastBL": 2,
+                  "southBL": 49.9,
+                  "northBL": 56,
+                  "westBL": -6
+                }
+              }
+            },
+            "idCitation": {
+              "date": {
+                "reviseDate": "2024-07-09T12:00:00"
+              },
+              "resTitle": "Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BGC_V5",
+              "citId": {
+                "identCode": "publication"
+              }
+            },
+            "themeKeys": {
+              "thesaName": {
+                "date": {
+                  "pubDate": "2008-06-01T00:00:00"
+                },
+                "resTitle": "GEMET - INSPIRE themes, version 1.0"
+              },
+              "keyword": "Administrative units"
+            },
+            "spatRpType": {
+              "SpatRepTypCd": {
+                "@_value": "001"
+              }
+            },
+            "dataChar": {
+              "CharSetCd": {
+                "@_value": "004"
+              }
+            },
+            "searchKeys": {
+              "keyword": [
+                "Boundaries",
+                "Census Boundaries",
+                "2021_Census",
+                "BDY_CEN",
+                2021,
+                "Lower Layer Super Output Areas",
+                "BDY_LSOA",
+                "England and Wales",
+                "DEC_2021"
+              ]
+            },
+            "idPoC": {
+              "rpCntInfo": {
+                "cntAddress": {
+                  "eMailAdd": "ons.geography@ons.gov.uk"
+                }
+              },
+              "rpOrgName": "Office for National Statistics",
+              "role": {
+                "RoleCd": {
+                  "@_value": "007"
+                }
+              }
+            },
+            "resConst": [
+              {
+                "LegConsts": {
+                  "useConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  },
+                  "othConsts": "Other Constraints",
+                  "inspireAccessUseConditions": {
+                    "ConditionsAccUseCd": {
+                      "@_value": "001"
+                    }
+                  }
+                }
+              },
+              {
+                "LegConsts": {
+                  "othConsts": "Other Constraints",
+                  "accessConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  },
+                  "inspirePublicAccessLimits": {
+                    "PublicAccessCd": {
+                      "@_value": "001"
+                    }
+                  }
+                }
+              },
+              {
+                "Consts": {
+                  "useLimit": "<a href='https://www.ons.gov.uk/methodology/geography/licences' target='_blank' rel='nofollow ugc noopener noreferrer'>https://www.ons.gov.uk/methodology/geography/licences</a>"
+                }
+              }
+            ]
+          },
+          "refSysInfo": {
+            "RefSystem": {
+              "refSysID": {
+                "identCode": {
+                  "@_code": "27700"
+                }
+              }
+            }
+          },
+          "mdChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
+          "mdFileID": "68515293204e43ca8ab56fa13ae8a547",
+          "distInfo": {
+            "distTranOps": {
+              "onLineSrc": {
+                "linkage": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BGC_V5/FeatureServer"
+              }
+            },
+            "distFormat": {
+              "formatVer": "Shapefile, CSV, SQLite Geodatabase, GeoPackage, File Geodatabase, Feature Collection, GeoJSON, Excel, WMS, WFS",
+              "formatName": "Boundary Products"
+            }
+          },
+          "@_xml:lang": "en"
+        },
+        "?xml": {
+          "@_standalone": "no",
+          "@_encoding": "UTF-8",
+          "@_version": "1.0"
+        }
+      },
+      "modified": 1720526400000,
+      "modifiedProvenance": "metadata.metadata.dataIdInfo.idCitation.date.reviseDate",
+      "name": "Lower layer Super Output Areas (December 2021) Boundaries EW BGC (V5)",
+      "objectIdField": "FID",
+      "openData": true,
+      "orgId": "ESMARspQHYMw9BZ9",
+      "orgName": "Office for National Statistics",
+      "organization": "Office for National Statistics",
+      "orgExtent": {
+        "ymin": 6170475.345804761,
+        "xmin": -1396709.996679961,
+        "ymax": 8766317.110977914,
+        "xmax": 447557.40368396445,
+        "spatialReference": {
+          "wkid": 102100
+        }
+      },
+      "orgContactEmail": "mailto:ons.geography@ons.gov.uk",
+      "owner": "ONSGeography_data",
+      "recordCount": 35672,
+      "region": "WO",
+      "searchDescription": "This file contains the digital vector boundaries for Lower layer Super Output Areas in England and Wales, as at 21 March 2021.The boundaries available are: (BGC) Generalised (20m) - clipped to the coastline (Mean High Water mark).Contains both Ordnance Survey and ONS Intellectual Property Rights.File size: 79 MBVersion amendments (V3) 14th July 2023: Additional Long/Lat/BNG_E/BNG_N coordinates added. Overlapping intersection repair maintenance. (V4) 26th April 2024: Minor slivers around Bristol foreshore corrected. (V5) 8th July 2024: NMW column added to attribute table. REST URL of Feature Access Service \u2013 https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BGC_V5/FeatureServer   REST URL of WFS Server \u2013https://dservices1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/services/Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BGC_V5/WFSServer?service=wfs&amp;request=getcapabilities   REST URL of Map Server \u2013https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BGC_V5/MapServer",
+      "sector": "National Government",
+      "server": {
+        "supportedContingentValuesFormats": "JSON, PBF",
+        "supportsApplyEditsWithGlobalIds": true,
+        "maxRecordCount": 2000,
+        "onlyAllowTrueCurveUpdatesByTrueCurveClients": true,
+        "supportsSharedDomains": true,
+        "hasStaticData": true,
+        "syncEnabled": false,
+        "hasChangeTrackingEnabledViews": true,
+        "tables": [],
+        "layerOverridesEnabled": true,
+        "layers": [
+          {
+            "subLayerIds": null,
+            "maxScale": 0,
+            "name": "LSOA_2021_EW_BGC_V5",
+            "defaultVisibility": true,
+            "id": 0,
+            "minScale": 0,
+            "type": "Feature Layer",
+            "parentLayerId": -1,
+            "geometryType": "esriGeometryPolygon"
+          }
+        ],
+        "spatialReference": {
+          "latestWkid": 27700,
+          "wkid": 27700
+        },
+        "fullExtent": {
+          "ymin": 5352.5999999996275,
+          "xmin": 82668.51999999955,
+          "ymax": 657539.4056000009,
+          "xmax": 655653.8500000001,
+          "spatialReference": {
+            "latestWkid": 27700,
+            "wkid": 27700
+          }
+        },
+        "supportedExportFormats": "csv,shapefile,sqlite,geoPackage,filegdb,featureCollection,geojson,kml,excel",
+        "xssPreventionInfo": {
+          "xssInputRule": "rejectInvalid",
+          "xssPreventionRule": "InputOnly",
+          "xssPreventionEnabled": true
+        },
+        "supportsDisconnectedEditing": false,
+        "extractChangesCapabilities": {
+          "supportsFeatureReturn": true,
+          "supportsReturnHasGeometryUpdates": false,
+          "supportsLayerQueries": true,
+          "supportsReturnAttachments": true,
+          "supportsReturnIdsOnly": true,
+          "supportsServerGens": true,
+          "supportsReturnDeletedFeatures": true,
+          "supportsFieldsToCompare": true,
+          "supportsGeometry": true,
+          "supportsReturnExtentOnly": true
+        },
+        "supportsTilesAndBasicQueriesMode": true,
+        "currentVersion": 12,
+        "hasSharedDomains": false,
+        "supportsWebHooks": true,
+        "advancedEditingCapabilities": {
+          "supportsAsyncApplyEdits": true,
+          "supportsApplyEditsbyUploadID": true,
+          "supportsSplit": false,
+          "supportsReturnEditResults": true,
+          "supportsReturnServiceEditsInSourceSR": false,
+          "supportedApplyEditsUploadIDFormats": "JSON,PBF"
+        },
+        "size": 58040320,
+        "initialExtent": {
+          "ymin": -27256.74028000032,
+          "xmin": 37201.96004312363,
+          "ymax": 690148.7458800001,
+          "xmax": 701120.4099568755,
+          "spatialReference": {
+            "latestWkid": 27700,
+            "wkid": 27700
+          }
+        },
+        "changeTrackingInfo": {
+          "lastSyncDate": 1720539905106,
+          "layerServerGens": [
+            {
+              "minServerGen": 14254161,
+              "serverGen": 14282420,
+              "id": 0
+            }
+          ]
+        },
+        "supportedCurveTypes": [
+          "esriGeometryCircularArc"
+        ],
+        "allowTrueCurvesUpdates": true,
+        "supportsTemporalLayers": true,
+        "editorTrackingInfo": {
+          "allowAnonymousToQuery": true,
+          "allowOthersToUpdate": true,
+          "allowAnonymousToUpdate": true,
+          "enableEditorTracking": false,
+          "allowOthersToQuery": true,
+          "allowOthersToDelete": true,
+          "enableOwnershipAccessControl": false,
+          "allowAnonymousToDelete": true
+        },
+        "allowGeometryUpdates": true,
+        "supportsQueryContingentValues": true,
+        "supportedFullTextLocales": [
+          "neutral",
+          "ar-SA",
+          "bg-BG",
+          "bn-IN",
+          "ca-ES",
+          "cs-CZ",
+          "da-DK",
+          "de-DE",
+          "el-GR",
+          "en-GB",
+          "en-US",
+          "es-ES",
+          "fr-FR",
+          "gu-IN",
+          "he-IL",
+          "hi-IN",
+          "hr-HR",
+          "id-ID",
+          "is-IS",
+          "it-IT",
+          "ja-JP",
+          "kn-IN",
+          "ko-KR",
+          "lt-LT",
+          "lv-LV",
+          "ml-IN",
+          "mr-IN",
+          "ms-MY",
+          "nb-NO",
+          "nl-NL",
+          "pa-IN",
+          "pl-PL",
+          "pt-BR",
+          "pt-PT",
+          "ro-RO",
+          "ru-RU",
+          "sk-SK",
+          "sl-SI",
+          "sr-Cyrl-CS",
+          "sr-Latn-CS",
+          "sv-SE",
+          "ta-IN",
+          "te-IN",
+          "th-TH",
+          "tr-TR",
+          "uk-UA",
+          "ur-PK",
+          "vi-VN",
+          "zh-CN",
+          "zh-HK",
+          "zh-MO",
+          "zh-SG",
+          "zh-TW"
+        ],
+        "supportedConvertContentFormats": "LayerEditCollection",
+        "description": "",
+        "units": "esriMeters",
+        "hasVersionedData": false,
+        "supportedConvertFileFormats": "JSON,PBF",
+        "supportsSharedTemplates": true,
+        "serviceItemId": "68515293204e43ca8ab56fa13ae8a547",
+        "capabilities": "Query,Extract,ChangeTracking",
+        "supportsTrueCurve": true,
+        "supportsAppend": true,
+        "supportsContingentValuesJson": 2,
+        "supportsReturnDeleteResults": true,
+        "supportsVCSProjection": false,
+        "supportedQueryFormats": "JSON",
+        "serviceDescription": "Boundaries",
+        "hasSharedTemplates": true,
+        "copyrightText": "",
+        "supportsLayerOverrides": true,
+        "supportedAppendCapabilities": "Features",
+        "supportedTrueCurvePbfFeatureEncodings": [
+          "esriCompressedShapeBuffer",
+          "esriDefault"
+        ],
+        "trueCurveSupportMode": "OGC",
+        "maxIdsCount": 1000000
+      },
+      "serverCapabilities": "Query,Extract,ChangeTracking",
+      "serviceSpatialReference": {
+        "latestWkid": 27700,
+        "wkid": 27700
+      },
+      "size": 82444288,
+      "slug": "ons::lower-layer-super-output-areas-december-2021-boundaries-ew-bgc-v5-2",
+      "source": "Office for National Statistics",
+      "sourceProvenance": "metadata.metadata.dataIdInfo.idPoC.rpOrgName",
+      "statistics": {
+        "objectid": {
+          "fid": {
+            "meta": {
+              "pass": true,
+              "missingStats": [],
+              "error": null
+            },
+            "statistics": {
+              "duration": 1078.1754650000366,
+              "values": {
+                "avg": 17836.5,
+                "min": 1,
+                "max": 35672,
+                "count": 35672,
+                "sum": 636263628
+              }
+            }
+          }
+        },
+        "string": {
+          "lsoa21nm": {
+            "meta": {
+              "pass": true,
+              "missingStats": [],
+              "error": null
+            },
+            "statistics": {
+              "duration": 3823.4886449999176,
+              "values": [
+                {
+                  "count": 1,
+                  "value": "Adur 001A"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 001B"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 001C"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 001D"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 001E"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 001F"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 002A"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 002B"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 002C"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 002D"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 002E"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 003A"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 003B"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 003C"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 003D"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 003E"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 004A"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 004B"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 004C"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 004D"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 004E"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 004F"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 004G"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 005A"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 005B"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 005C"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 005D"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 005E"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 006A"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 006B"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 006C"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 006D"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 006E"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 007A"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 007B"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 007C"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 007D"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 008A"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 008B"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 008C"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 008D"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 008E"
+                },
+                {
+                  "count": 1,
+                  "value": "Allerdale 001A"
+                },
+                {
+                  "count": 1,
+                  "value": "Allerdale 001B"
+                },
+                {
+                  "count": 1,
+                  "value": "Allerdale 001C"
+                },
+                {
+                  "count": 1,
+                  "value": "Allerdale 001D"
+                },
+                {
+                  "count": 1,
+                  "value": "Allerdale 001E"
+                },
+                {
+                  "count": 1,
+                  "value": "Allerdale 001F"
+                },
+                {
+                  "count": 1,
+                  "value": "Allerdale 001G"
+                },
+                {
+                  "count": 1,
+                  "value": "Allerdale 002A"
+                }
+              ],
+              "count": 2000,
+              "uniqueCount": 2000
+            }
+          },
+          "lsoa21nmw": {
+            "meta": {
+              "pass": true,
+              "missingStats": [],
+              "error": null
+            },
+            "statistics": {
+              "duration": 3863.2578100000974,
+              "values": [
+                {
+                  "count": 33755,
+                  "value": " "
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 001A"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 001B"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 001C"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 001D"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 002A"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 002B"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 002C"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 002D"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 002E"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 002F"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 003A"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 003B"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 003C"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 003D"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 003E"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 003F"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 004A"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 004B"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 004C"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 004D"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 004E"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 005B"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 005C"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 005D"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 005E"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 005F"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 005G"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 005H"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 006A"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 006C"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 006D"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 006E"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 006F"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 007A"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 007B"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 007C"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 007D"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 007E"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 007F"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 008A"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 008B"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 008C"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 008D"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 008E"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 009A"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 009B"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 009C"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 009D"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 009E"
+                }
+              ],
+              "count": 35672,
+              "uniqueCount": 1918
+            }
+          },
+          "lsoa21cd": {
+            "meta": {
+              "pass": true,
+              "missingStats": [],
+              "error": null
+            },
+            "statistics": {
+              "duration": 3854.4536940001417,
+              "values": [
+                {
+                  "count": 1,
+                  "value": "E01000001"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000002"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000003"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000005"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000006"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000007"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000008"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000009"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000011"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000012"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000013"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000014"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000015"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000016"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000017"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000018"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000019"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000020"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000021"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000022"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000024"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000025"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000027"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000028"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000029"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000030"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000031"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000032"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000033"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000034"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000035"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000036"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000037"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000038"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000039"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000040"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000041"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000042"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000043"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000044"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000045"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000046"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000049"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000050"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000051"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000052"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000053"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000054"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000055"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000056"
+                }
+              ],
+              "count": 2000,
+              "uniqueCount": 2000
+            }
+          }
+        },
+        "numeric": {
+          "shape__area": {
+            "meta": {
+              "pass": true,
+              "missingStats": [],
+              "error": null
+            },
+            "statistics": {
+              "duration": 1689.689381999895,
+              "values": {
+                "avg": 4239739.554428004,
+                "min": 8471.550170898438,
+                "max": 683822814.1304474,
+                "var": 214517908703148.88,
+                "count": 35672,
+                "sum": 151239989385.55576,
+                "stddev": 14646429.896160664
+              }
+            }
+          },
+          "bng_n": {
+            "meta": {
+              "pass": true,
+              "missingStats": [],
+              "error": null
+            },
+            "statistics": {
+              "duration": 1689.689381999895,
+              "values": {
+                "avg": 273331.54555393587,
+                "min": 11447,
+                "max": 654392,
+                "var": 15553844603.24953,
+                "count": 35672,
+                "sum": 9750282893,
+                "stddev": 124715.05363527505
+              }
+            }
+          },
+          "bng_e": {
+            "meta": {
+              "pass": true,
+              "missingStats": [],
+              "error": null
+            },
+            "statistics": {
+              "duration": 1689.689381999895,
+              "values": {
+                "avg": 446546.36838416685,
+                "min": 91327,
+                "max": 655206,
+                "var": 7987386767.936924,
+                "count": 35672,
+                "sum": 15929202053,
+                "stddev": 89372.18117477566
+              }
+            }
+          },
+          "shape__length": {
+            "meta": {
+              "pass": true,
+              "missingStats": [],
+              "error": null
+            },
+            "statistics": {
+              "duration": 1689.689381999895,
+              "values": {
+                "avg": 8275.658319367167,
+                "min": 455.7505085027154,
+                "max": 182884.51919047663,
+                "var": 125604527.51398452,
+                "count": 35672,
+                "sum": 295209283.5684656,
+                "stddev": 11207.342571456647
+              }
+            }
+          },
+          "lat": {
+            "meta": {
+              "pass": true,
+              "missingStats": [],
+              "error": null
+            },
+            "statistics": {
+              "duration": 1689.689381999895,
+              "values": {
+                "avg": 52.3488779272245,
+                "min": 49.92333,
+                "max": 55.78284,
+                "var": 1.2669390832101897,
+                "count": 35672,
+                "sum": 1867389.1734199524,
+                "stddev": 1.1255838854613145
+              }
+            }
+          },
+          "long": {
+            "meta": {
+              "pass": true,
+              "missingStats": [],
+              "error": null
+            },
+            "statistics": {
+              "duration": 1689.689381999895,
+              "values": {
+                "avg": -1.324807834238775,
+                "min": -6.30217,
+                "max": 1.757176,
+                "var": 1.6776722533437909,
+                "count": 35672,
+                "sum": -47258.54506296558,
+                "stddev": 1.2952498806577017
+              }
+            }
+          }
+        }
+      },
+      "structuredLicense": {
+        "type": "custom",
+        "url": "https://www.ons.gov.uk/methodology/geography/licences"
+      },
+      "license": "custom",
+      "supportedQueryFormats": "JSON, geoJSON, PBF",
+      "supportsAdvancedQueries": true,
+      "tags": [
+        "Boundaries",
+        "Census Boundaries",
+        "2021_Census",
+        "BDY_CEN",
+        "2021",
+        "Lower Layer Super Output Areas",
+        "BDY_LSOA",
+        "England and Wales",
+        "DEC_2021"
+      ],
+      "thumbnail": "thumbnail/68515293204e43ca8ab56fa13ae8a547.png",
+      "thumbnailUrl": "thumbnail/68515293204e43ca8ab56fa13ae8a547.png",
+      "type": "Feature Layer",
+      "typeCategories": [
+        "Dataset"
+      ],
+      "typeKeywords": [
+        "ArcGIS Server",
+        "Data",
+        "Feature Access",
+        "Feature Service",
+        "Metadata",
+        "Service",
+        "Singlelayer",
+        "Hosted Service"
+      ],
+      "url": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Lower_layer_Super_Output_Areas_December_2021_Boundaries_EW_BGC_V5/FeatureServer/0",
+      "useStandardizedQueries": true,
+      "validExtent": true,
+      "xFrameOptions": null,
+      "boundary": {
+        "provenance": "item",
+        "center": [
+          -2.489482912792993,
+          52.83763400257588
+        ],
+        "geometry": {
+          "type": "polygon",
+          "rings": [
+            [
+              [
+                -7.052829740606815,
+                55.81112088541446
+              ],
+              [
+                2.073863915020829,
+                55.81112088541446
+              ],
+              [
+                2.073863915020829,
+                49.864147119737304
+              ],
+              [
+                -7.052829740606815,
+                49.864147119737304
+              ],
+              [
+                -7.052829740606815,
+                55.81112088541446
+              ]
+            ]
+          ],
+          "spatialReference": {
+            "wkid": 4326
+          }
+        },
+        "setBy": null
+      },
+      "snippet": "Census Boundaries",
+      "culture": "en-gb"
+    },
+    "links": {
+      "self": "https://geoportal.statistics.gov.uk/api/v3/datasets/68515293204e43ca8ab56fa13ae8a547_0",
+      "rawEs": "https://geoportal.statistics.gov.uk/api/es/datasets/68515293204e43ca8ab56fa13ae8a547_0",
+      "itemPage": "https://www.arcgis.com/home/item.html?id=68515293204e43ca8ab56fa13ae8a547",
+      "esriRest": "https://www.arcgis.com/sharing/content/items/68515293204e43ca8ab56fa13ae8a547?f=json"
+    },
+    "meta": {
+      "highlights": {},
+      "matchedFields": []
+    }
+  },
+  "meta": {
+    "apiRoot": "https://geoportal.statistics.gov.uk/api/v3/",
+    "resourceRoot": "https://geoportal.statistics.gov.uk/api/v3/datasets",
+    "request": "https://geoportal.statistics.gov.uk/api/v3/datasets/68515293204e43ca8ab56fa13ae8a547_0"
+  }
+}

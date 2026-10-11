@@ -1,0 +1,3307 @@
+{
+  "data": {
+    "id": "686527814d73403e8f0a59c7a28b0c34_0",
+    "type": "dataset",
+    "attributes": {
+      "errors": [],
+      "access": "public",
+      "additionalResources": [
+        {
+          "url": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/LSOA21_WD24_LAD24_EW_LU/FeatureServer"
+        }
+      ],
+      "advancedQueryCapabilities": {
+        "supportsSqlExpression": true,
+        "supportsQueryWithResultType": true,
+        "supportsTranslations": false,
+        "supportsQueryRelatedPagination": true,
+        "supportedOperationsWithCacheHint": [
+          "query",
+          "queryTopFilter",
+          "queryAnalytics",
+          "queryAttachments",
+          "queryRelated",
+          "queryBins",
+          "queryPivot"
+        ],
+        "supportsQueryWithCacheHint": true,
+        "supportsQueryWithDatumTransformation": true,
+        "supportsCurrentUserQueries": true,
+        "supportsAggIds": true,
+        "supportsOutFieldSQLExpression": true,
+        "supportsDefaultSR": true,
+        "fullTextSearchCapabilities": {
+          "supportsStopWords": true,
+          "supportsOperator": true,
+          "supportsSearchOperator": true,
+          "supportsAccentSensitivity": true
+        },
+        "supportsQueryBins": true,
+        "supportsQueryWithCollation": true,
+        "supportsQueryPivot": true,
+        "supportsApproxPercentileStatistics": true,
+        "supportsQueryWithLodSR": false,
+        "supportsPaginationOnAggregatedQueries": true,
+        "supportsPagination": true,
+        "supportsMaxRecordCountFactor": true,
+        "supportsStatistics": true,
+        "supportsOrderBy": true,
+        "supportsFullTextSearch": true,
+        "supportsQueryWithDistance": true,
+        "supportsLod": true,
+        "supportsSpatialAggregationStatistics": true,
+        "supportsCountDistinct": true,
+        "supportedLodTypes": [
+          "geohash"
+        ],
+        "supportsAdvancedQueryRelated": true,
+        "supportsReturningQueryExtent": false,
+        "supportsISODOW": true,
+        "supportsTopFeaturesQuery": true,
+        "supportsReturningGeometryEnvelope": true,
+        "supportsDistinct": true,
+        "supportsReturningGeometryCentroid": false,
+        "supportsTimeRelation": true,
+        "supportsQueryAnalytic": true,
+        "supportsPercentileStatistics": true,
+        "supportedSpatialAggregationStatistics": [
+          "EnvelopeAggregate",
+          "CentroidAggregate",
+          "ConvexHullAggregate"
+        ],
+        "supportsISOWeek": true,
+        "supportsHavingClause": true
+      },
+      "collection": [
+        "Dataset"
+      ],
+      "categories": [
+        "ONS Geography Open Data"
+      ],
+      "commentsEnabled": false,
+      "composeStatus": {
+        "retries": 0,
+        "pass": true,
+        "lastRetriedAt": 1791632569534,
+        "lastSuccessAt": 1791632569533
+      },
+      "composedAt": 1791632569532,
+      "content": "Feature Service",
+      "contentSecurityPolicy": null,
+      "contentStatus": "public_authoritative",
+      "created": 1719376264000,
+      "currentVersion": 12,
+      "description": "<div style='background-color:rgb(255, 255, 255); clear:both; color:rgb(0, 0, 0); font-family:&quot;Segoe UI&quot;, &quot;Segoe UI Web&quot;, Arial, Verdana, sans-serif; font-size:12px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; margin:0px; overflow:visible; padding:0px; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;'><p style='background-color:transparent; color:windowtext; font-kerning:none; font-style:normal; font-weight:normal; margin:0px 0px 10.6667px; padding:0px; text-align:left; text-indent:0px;'><span style='font-family:Arial, Arial_EmbeddedFont, Arial_MSFontService, sans-serif; font-size:12pt;'><span style='font-variant-ligatures:none !important; line-height:20.5042px; margin:0px; padding:0px;'><strong>Please Note: </strong>This file updated on 26</span></span><span style='font-family:Arial, Arial_EmbeddedFont, Arial_MSFontService, sans-serif; font-size:9.5pt;'><span style='font-variant-ligatures:none !important; line-height:20.5042px; margin:0px; padding:0px;'><sup>th</sup></span></span><span style='font-family:Arial, Arial_EmbeddedFont, Arial_MSFontService, sans-serif; font-size:12pt;'><span style='font-variant-ligatures:none !important; line-height:20.5042px; margin:0px; padding:0px;'> August 2025 to correct ward/local authority district allocation for E01027305 - West Northamptonshire 048E which was incorrect. See further details on our dedicated </span></span><a target='_blank' href='https://geoportal.statistics.gov.uk/pages/notices' rel='nofollow ugc noopener noreferrer'><span style='font-family:Arial, Arial_EmbeddedFont, Arial_MSFontService, sans-serif; font-size:12pt;'><span style='font-variant-ligatures:none !important; line-height:20.5042px; margin:0px; padding:0px;'>notice</span></span></a><span style='font-family:Arial, Arial_EmbeddedFont, Arial_MSFontService, sans-serif; font-size:12pt;'><span style='font-variant-ligatures:none !important; line-height:20.5042px; margin:0px; padding:0px;'> </span><span style='box-shadow:rgb(66, 66, 66) -1px 0px 0px 0px !important; font-variant-ligatures:none !important; line-height:20.5042px; margin:0px; padding:0px;'>page.&nbsp;</span><span style='line-height:20.5042px; margin:0px; padding:0px;'>&nbsp;</span></span></p></div><div style='background-color:rgb(255, 255, 255); clear:both; color:rgb(0, 0, 0); font-family:&quot;Segoe UI&quot;, &quot;Segoe UI Web&quot;, Arial, Verdana, sans-serif; font-size:12px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; margin:0px; overflow:visible; padding:0px; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;'><p style='background-color:transparent; color:windowtext; font-kerning:none; font-style:normal; font-weight:normal; margin:0px 0px 10.6667px; padding:0px; text-align:left; text-indent:0px;'><span style='font-family:Arial, Arial_EmbeddedFont, Arial_MSFontService, sans-serif; font-size:12pt;'><span style='font-variant-ligatures:none !important; line-height:20.5042px; margin:0px; padding:0px;'>If you have downloaded this product before this date, please check your version and download the updated product. Apologies for any inconvenience caused. For further assistance, please don\u2019t hesitate to contact </span></span><a style='color:inherit; margin:0px; padding:0px; text-decoration:none;' href='mailto:ONS.Geography@ons.gov.uk' target='_blank' rel='nofollow ugc noopener noreferrer'><span style='color:rgb(5,99,193); font-family:Arial, Arial_EmbeddedFont, Arial_MSFontService, sans-serif; font-size:12pt;'><span style='font-variant-ligatures:none !important; line-height:20.5042px; margin:0px; padding:0px;'><u>ONS.Geography@ons.gov.uk</u></span></span></a><span style='font-family:Arial, Arial_EmbeddedFont, Arial_MSFontService, sans-serif; font-size:12pt;'><span style='font-variant-ligatures:none !important; line-height:20.5042px; margin:0px; padding:0px;'>.</span><span style='line-height:20.5042px; margin:0px; padding:0px;'>&nbsp;</span></span></p></div><p style='box-sizing:border-box; color:rgb(0, 0, 0); font-family:Lato, &quot;Avenir Next&quot;; font-size:18px; margin-bottom:10px; margin-top:0px;'>&nbsp;</p><p style='box-sizing:border-box; color:rgb(0, 0, 0); font-family:Lato, &quot;Avenir Next&quot;; font-size:18px; margin-bottom:10px; margin-top:0px;'>This file is a best fit lookup between 2021 lower layer super output areas, electoral wards/divisions and local authority districts in England and Wales as at 2nd May 2024&nbsp; (File Size - 2.7 MB)&nbsp;&nbsp;<br />Field Names - LSOA21CD, LSOA21NM, LSOA21NMW, WD24CD, WD24NM, WD24NMW, LAD24CD, LAD24NM, LAD24NMW</p><p style='box-sizing:border-box; color:rgb(0, 0, 0); font-family:Lato, &quot;Avenir Next&quot;; font-size:18px; margin-bottom:10px; margin-top:0px;'>Field Types - Text, Text, Text, Text, Text, Text, Text, Text, Text</p><p style='box-sizing:border-box; color:rgb(0, 0, 0); font-family:Lato, &quot;Avenir Next&quot;; font-size:18px; margin-bottom:10px; margin-top:0px;'>Field Lengths - 9, 40, 29, 9, 53, 45, 9, 35, 24</p><p>File updated to correct ward/local authority district allocation for E01027305 - West Northamptonshire 048E<br /><br /><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size:medium;'><font style='font-family:inherit;'>For more information and an overview of best-fitting follow this link -&nbsp;</font></span></p><p style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px; margin-bottom:0px; margin-top:0px;'>&nbsp;</p><div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><a style='color:rgb(0, 97, 155); font-family:inherit; text-decoration-line:none;' target='_blank' href='https://geoportal.statistics.gov.uk/datasets/f0aac7ccbfd04cda9eb03e353c613faa/about' rel='nofollow ugc noopener noreferrer'>https://geoportal.statistics.gov.uk/datasets/f0aac7ccbfd04cda9eb03e353c613faa/about</a></div>",
+      "displayField": "",
+      "downloadable": true,
+      "enrichCoverage": "regional",
+      "enrichQuality": 91,
+      "extent": {
+        "coordinates": [
+          [
+            -6,
+            49.9
+          ],
+          [
+            2,
+            56
+          ]
+        ],
+        "type": "envelope"
+      },
+      "fieldNames": [
+        "LSOA21CD",
+        "LSOA21NM",
+        "LSOA21NMW",
+        "WD24CD",
+        "WD24NM",
+        "WD24NMW",
+        "LAD24CD",
+        "LAD24NM",
+        "LAD24NMW",
+        "ObjectId"
+      ],
+      "fields": [
+        {
+          "sqlType": "sqlTypeNVarchar",
+          "actualType": "nvarchar",
+          "nullable": true,
+          "editable": true,
+          "defaultValue": null,
+          "domain": null,
+          "name": "LSOA21CD",
+          "length": 4000,
+          "alias": "LSOA21CD",
+          "type": "esriFieldTypeString"
+        },
+        {
+          "sqlType": "sqlTypeNVarchar",
+          "actualType": "nvarchar",
+          "nullable": true,
+          "editable": true,
+          "defaultValue": null,
+          "domain": null,
+          "name": "LSOA21NM",
+          "length": 4000,
+          "alias": "LSOA21NM",
+          "type": "esriFieldTypeString"
+        },
+        {
+          "sqlType": "sqlTypeNVarchar",
+          "actualType": "nvarchar",
+          "nullable": true,
+          "editable": true,
+          "defaultValue": null,
+          "domain": null,
+          "name": "LSOA21NMW",
+          "length": 4000,
+          "alias": "LSOA21NMW",
+          "type": "esriFieldTypeString"
+        },
+        {
+          "sqlType": "sqlTypeNVarchar",
+          "actualType": "nvarchar",
+          "nullable": true,
+          "editable": true,
+          "defaultValue": null,
+          "domain": null,
+          "name": "WD24CD",
+          "length": 4000,
+          "alias": "WD24CD",
+          "type": "esriFieldTypeString"
+        },
+        {
+          "sqlType": "sqlTypeNVarchar",
+          "actualType": "nvarchar",
+          "nullable": true,
+          "editable": true,
+          "defaultValue": null,
+          "domain": null,
+          "name": "WD24NM",
+          "length": 4000,
+          "alias": "WD24NM",
+          "type": "esriFieldTypeString"
+        },
+        {
+          "sqlType": "sqlTypeNVarchar",
+          "actualType": "nvarchar",
+          "nullable": true,
+          "editable": true,
+          "defaultValue": null,
+          "domain": null,
+          "name": "WD24NMW",
+          "length": 4000,
+          "alias": "WD24NMW",
+          "type": "esriFieldTypeString"
+        },
+        {
+          "sqlType": "sqlTypeNVarchar",
+          "actualType": "nvarchar",
+          "nullable": true,
+          "editable": true,
+          "defaultValue": null,
+          "domain": null,
+          "name": "LAD24CD",
+          "length": 4000,
+          "alias": "LAD24CD",
+          "type": "esriFieldTypeString"
+        },
+        {
+          "sqlType": "sqlTypeNVarchar",
+          "actualType": "nvarchar",
+          "nullable": true,
+          "editable": true,
+          "defaultValue": null,
+          "domain": null,
+          "name": "LAD24NM",
+          "length": 4000,
+          "alias": "LAD24NM",
+          "type": "esriFieldTypeString"
+        },
+        {
+          "sqlType": "sqlTypeNVarchar",
+          "actualType": "nvarchar",
+          "nullable": true,
+          "editable": true,
+          "defaultValue": null,
+          "domain": null,
+          "name": "LAD24NMW",
+          "length": 4000,
+          "alias": "LAD24NMW",
+          "type": "esriFieldTypeString"
+        },
+        {
+          "sqlType": "sqlTypeInteger",
+          "actualType": "int",
+          "nullable": false,
+          "editable": false,
+          "defaultValue": null,
+          "domain": null,
+          "name": "ObjectId",
+          "alias": "ObjectId",
+          "type": "esriFieldTypeOID"
+        }
+      ],
+      "groupIds": [
+        "08656d18ae7b4878a3baae223027f9f1"
+      ],
+      "hasApi": true,
+      "hubType": "Table",
+      "id": "686527814d73403e8f0a59c7a28b0c34_0",
+      "itemId": "686527814d73403e8f0a59c7a28b0c34",
+      "itemModified": 1762951604000,
+      "itemExtent": [
+        [
+          -6,
+          49.9
+        ],
+        [
+          2,
+          56
+        ]
+      ],
+      "layer": {
+        "supportedContingentValuesFormats": "JSON, PBF",
+        "guidFormat": "",
+        "supportsApplyEditsWithGlobalIds": false,
+        "maxRecordCount": 1000,
+        "infoInEstimates": [
+          "count"
+        ],
+        "type": "Table",
+        "hasStaticData": true,
+        "editingInfo": {
+          "lastEditDate": 1759900327428,
+          "schemaLastEditDate": 1759900327428,
+          "dataLastEditDate": 1759900327428
+        },
+        "supportsAttachmentsByUploadId": true,
+        "relationships": [],
+        "supportsAttachmentsResizing": true,
+        "id": 0,
+        "collation": {
+          "caseSensitive": false,
+          "accentSensitive": true,
+          "locale": "neutral"
+        },
+        "supportsStatistics": true,
+        "supportedExportFormats": "csv,shapefile,sqlite,geoPackage,filegdb,featureCollection,geojson,kml,excel,parquet",
+        "standardMaxRecordCount": 32000,
+        "isDataVersioned": false,
+        "templates": [],
+        "supportsAdvancedQueries": true,
+        "supportsTilesAndBasicQueriesMode": true,
+        "currentVersion": 12,
+        "hasZ": false,
+        "advancedEditingCapabilities": {
+          "supportsAsyncApplyEdits": true,
+          "supportsApplyEditsbyUploadID": true,
+          "supportsTranslation": false,
+          "supportsReturnEditResults": true,
+          "supportsMaxTranslations": 10,
+          "supportedSqlFormatsInCalculate": [
+            "standard"
+          ],
+          "supportedApplyEditsUploadIDFormats": "JSON,PBF"
+        },
+        "supportsQuantizationEditMode": true,
+        "objectIdField": "ObjectId",
+        "hasContingentValuesDefinition": false,
+        "name": "LSOA21_WD24_LAD24_EW_LU",
+        "displayField": "",
+        "supportsCalculate": true,
+        "fields": [
+          {
+            "sqlType": "sqlTypeNVarchar",
+            "actualType": "nvarchar",
+            "nullable": true,
+            "editable": true,
+            "defaultValue": null,
+            "domain": null,
+            "name": "LSOA21CD",
+            "length": 4000,
+            "alias": "LSOA21CD",
+            "type": "esriFieldTypeString"
+          },
+          {
+            "sqlType": "sqlTypeNVarchar",
+            "actualType": "nvarchar",
+            "nullable": true,
+            "editable": true,
+            "defaultValue": null,
+            "domain": null,
+            "name": "LSOA21NM",
+            "length": 4000,
+            "alias": "LSOA21NM",
+            "type": "esriFieldTypeString"
+          },
+          {
+            "sqlType": "sqlTypeNVarchar",
+            "actualType": "nvarchar",
+            "nullable": true,
+            "editable": true,
+            "defaultValue": null,
+            "domain": null,
+            "name": "LSOA21NMW",
+            "length": 4000,
+            "alias": "LSOA21NMW",
+            "type": "esriFieldTypeString"
+          },
+          {
+            "sqlType": "sqlTypeNVarchar",
+            "actualType": "nvarchar",
+            "nullable": true,
+            "editable": true,
+            "defaultValue": null,
+            "domain": null,
+            "name": "WD24CD",
+            "length": 4000,
+            "alias": "WD24CD",
+            "type": "esriFieldTypeString"
+          },
+          {
+            "sqlType": "sqlTypeNVarchar",
+            "actualType": "nvarchar",
+            "nullable": true,
+            "editable": true,
+            "defaultValue": null,
+            "domain": null,
+            "name": "WD24NM",
+            "length": 4000,
+            "alias": "WD24NM",
+            "type": "esriFieldTypeString"
+          },
+          {
+            "sqlType": "sqlTypeNVarchar",
+            "actualType": "nvarchar",
+            "nullable": true,
+            "editable": true,
+            "defaultValue": null,
+            "domain": null,
+            "name": "WD24NMW",
+            "length": 4000,
+            "alias": "WD24NMW",
+            "type": "esriFieldTypeString"
+          },
+          {
+            "sqlType": "sqlTypeNVarchar",
+            "actualType": "nvarchar",
+            "nullable": true,
+            "editable": true,
+            "defaultValue": null,
+            "domain": null,
+            "name": "LAD24CD",
+            "length": 4000,
+            "alias": "LAD24CD",
+            "type": "esriFieldTypeString"
+          },
+          {
+            "sqlType": "sqlTypeNVarchar",
+            "actualType": "nvarchar",
+            "nullable": true,
+            "editable": true,
+            "defaultValue": null,
+            "domain": null,
+            "name": "LAD24NM",
+            "length": 4000,
+            "alias": "LAD24NM",
+            "type": "esriFieldTypeString"
+          },
+          {
+            "sqlType": "sqlTypeNVarchar",
+            "actualType": "nvarchar",
+            "nullable": true,
+            "editable": true,
+            "defaultValue": null,
+            "domain": null,
+            "name": "LAD24NMW",
+            "length": 4000,
+            "alias": "LAD24NMW",
+            "type": "esriFieldTypeString"
+          },
+          {
+            "sqlType": "sqlTypeInteger",
+            "actualType": "int",
+            "nullable": false,
+            "editable": false,
+            "defaultValue": null,
+            "domain": null,
+            "name": "ObjectId",
+            "alias": "ObjectId",
+            "type": "esriFieldTypeOID"
+          }
+        ],
+        "maxRecordCountFactor": 1,
+        "dateFieldsTimeReference": {
+          "timeZoneIANA": "Etc/UTC",
+          "respectsDaylightSaving": false,
+          "timeZone": "UTC"
+        },
+        "supportsFieldDescriptionProperty": true,
+        "hasM": false,
+        "allowGeometryUpdates": true,
+        "preferredTimeReference": null,
+        "useStandardizedQueries": true,
+        "globalIdField": "",
+        "supportedConvertContentFormats": "LayerEditCollection,FeatureCollection",
+        "description": "",
+        "supportedOperationsWithCollation": "query,addField,updateField",
+        "supportsRollbackOnFailureParameter": true,
+        "supportsTruncate": false,
+        "indexes": [
+          {
+            "indexType": "Attribute",
+            "name": "PK__LSOA21_W__9A61929178F6C1C0",
+            "isUnique": true,
+            "description": "clustered, unique, primary key",
+            "fields": "ObjectId",
+            "isAscending": true
+          }
+        ],
+        "supportedAppendSourceFilterFormats": "sqlite,geoPackage,shapefile,filegdb,featureService",
+        "htmlPopupType": "esriServerHTMLPopupTypeNone",
+        "hasAttachments": false,
+        "queryBinsCapabilities": {
+          "supportsReturnStackValueRange": true,
+          "supportedNormalizationTypes": [
+            "boxCox",
+            "field",
+            "inverse",
+            "log",
+            "naturalLog",
+            "percentOfTotal",
+            "squareRoot"
+          ],
+          "supportsNormalization": true,
+          "supportsSnapToData": true,
+          "supportsFixedIntervalBin": true,
+          "supportsStackBy": true,
+          "supportsDateBin": true,
+          "supportsSplitBy": true,
+          "supportsClassificationBin": true,
+          "supportsReturnFullIntervalBin": true,
+          "supportsAsync": true,
+          "supportsFirstDayOfWeek": true,
+          "supportedStatisticTypes": [
+            "COUNT",
+            "SUM",
+            "AVG",
+            "VAR",
+            "STDDEV",
+            "MIN",
+            "MAX",
+            "PERCENTILE_CONT",
+            "PERCENTILE_DISC",
+            "APPROX_PERCENTILE_CONT",
+            "APPROX_PERCENTILE_DISC",
+            "CentroidAggregate",
+            "EnvelopeAggregate",
+            "ConvexHullAggregate"
+          ],
+          "supportsAutoIntervalBin": true,
+          "supportsFixedBoundariesBin": true
+        },
+        "supportedConvertFileFormats": "JSON,PBF,Parquet",
+        "advancedQueryCapabilities": {
+          "supportsSqlExpression": true,
+          "supportsQueryWithResultType": true,
+          "supportsTranslations": false,
+          "supportsQueryRelatedPagination": true,
+          "supportedOperationsWithCacheHint": [
+            "query",
+            "queryTopFilter",
+            "queryAnalytics",
+            "queryAttachments",
+            "queryRelated",
+            "queryBins",
+            "queryPivot"
+          ],
+          "supportsQueryWithCacheHint": true,
+          "supportsQueryWithDatumTransformation": true,
+          "supportsCurrentUserQueries": true,
+          "supportsAggIds": true,
+          "supportsOutFieldSQLExpression": true,
+          "supportsDefaultSR": true,
+          "fullTextSearchCapabilities": {
+            "supportsStopWords": true,
+            "supportsOperator": true,
+            "supportsSearchOperator": true,
+            "supportsAccentSensitivity": true
+          },
+          "supportsQueryBins": true,
+          "supportsQueryWithCollation": true,
+          "supportsQueryPivot": true,
+          "supportsApproxPercentileStatistics": true,
+          "supportsQueryWithLodSR": false,
+          "supportsPaginationOnAggregatedQueries": true,
+          "supportsPagination": true,
+          "supportsMaxRecordCountFactor": true,
+          "supportsStatistics": true,
+          "supportsOrderBy": true,
+          "supportsFullTextSearch": true,
+          "supportsQueryWithDistance": true,
+          "supportsLod": true,
+          "supportsSpatialAggregationStatistics": true,
+          "supportsCountDistinct": true,
+          "supportedLodTypes": [
+            "geohash"
+          ],
+          "supportsAdvancedQueryRelated": true,
+          "supportsReturningQueryExtent": false,
+          "supportsISODOW": true,
+          "supportsTopFeaturesQuery": true,
+          "supportsReturningGeometryEnvelope": true,
+          "supportsDistinct": true,
+          "supportsReturningGeometryCentroid": false,
+          "supportsTimeRelation": true,
+          "supportsQueryAnalytic": true,
+          "supportsPercentileStatistics": true,
+          "supportedSpatialAggregationStatistics": [
+            "EnvelopeAggregate",
+            "CentroidAggregate",
+            "ConvexHullAggregate"
+          ],
+          "supportsISOWeek": true,
+          "supportsHavingClause": true
+        },
+        "serviceItemId": "686527814d73403e8f0a59c7a28b0c34",
+        "supportsValidateSql": true,
+        "cacheMaxAge": 30,
+        "supportsCoordinatesQuantization": true,
+        "types": [],
+        "capabilities": "Query",
+        "supportsAppend": true,
+        "supportsExceedsLimitStatistics": true,
+        "supportedSyncDataOptions": 260,
+        "supportsContingentValues": true,
+        "defaultVisibility": true,
+        "advancedQueryAnalyticCapabilities": {
+          "supportsAsync": true,
+          "supportsLinearRegression": true,
+          "supportsTrendlineRegression": true,
+          "supportsPercentileAnalytic": true
+        },
+        "supportedAppendFormats": "sqlite,geoPackage,shapefile,filegdb,featureCollection,geojson,csv,excel,jsonl,featureService,pbf",
+        "uniqueIdField": {
+          "isSystemMaintained": true,
+          "name": "ObjectId"
+        },
+        "tileMaxRecordCount": 8000,
+        "supportsFieldGroups": true,
+        "typeIdField": "",
+        "supportsASyncCalculate": true,
+        "supportedQueryFormats": "JSON, geoJSON, PBF",
+        "copyrightText": "",
+        "supportsColumnStoreIndex": true,
+        "supportsLayerOverrides": true,
+        "supportsEditingContingentValues": true,
+        "maxIdsCount": 1000000
+      },
+      "layers": [
+        {
+          "supportedContingentValuesFormats": "JSON, PBF",
+          "guidFormat": "",
+          "supportsApplyEditsWithGlobalIds": false,
+          "maxRecordCount": 1000,
+          "infoInEstimates": [
+            "count"
+          ],
+          "type": "Table",
+          "hasStaticData": true,
+          "editingInfo": {
+            "lastEditDate": 1759900327428,
+            "schemaLastEditDate": 1759900327428,
+            "dataLastEditDate": 1759900327428
+          },
+          "supportsAttachmentsByUploadId": true,
+          "relationships": [],
+          "supportsEditingContingentValues": true,
+          "supportsAttachmentsResizing": true,
+          "id": 0,
+          "collation": {
+            "caseSensitive": false,
+            "accentSensitive": true,
+            "locale": "neutral"
+          },
+          "supportsStatistics": true,
+          "supportedExportFormats": "csv,shapefile,sqlite,geoPackage,filegdb,featureCollection,geojson,kml,excel,parquet",
+          "standardMaxRecordCount": 32000,
+          "isDataVersioned": false,
+          "templates": [],
+          "supportsAdvancedQueries": true,
+          "supportsTilesAndBasicQueriesMode": true,
+          "currentVersion": 12,
+          "hasZ": false,
+          "advancedEditingCapabilities": {
+            "supportsAsyncApplyEdits": true,
+            "supportsApplyEditsbyUploadID": true,
+            "supportsTranslation": false,
+            "supportsReturnEditResults": true,
+            "supportsMaxTranslations": 10,
+            "supportedSqlFormatsInCalculate": [
+              "standard"
+            ],
+            "supportedApplyEditsUploadIDFormats": "JSON,PBF"
+          },
+          "supportsQuantizationEditMode": true,
+          "objectIdField": "ObjectId",
+          "hasContingentValuesDefinition": false,
+          "maxIdsCount": 1000000,
+          "name": "LSOA21_WD24_LAD24_EW_LU",
+          "displayField": "",
+          "supportsCalculate": true,
+          "fields": [
+            {
+              "sqlType": "sqlTypeNVarchar",
+              "actualType": "nvarchar",
+              "nullable": true,
+              "editable": true,
+              "defaultValue": null,
+              "domain": null,
+              "name": "LSOA21CD",
+              "length": 4000,
+              "alias": "LSOA21CD",
+              "type": "esriFieldTypeString"
+            },
+            {
+              "sqlType": "sqlTypeNVarchar",
+              "actualType": "nvarchar",
+              "nullable": true,
+              "editable": true,
+              "defaultValue": null,
+              "domain": null,
+              "name": "LSOA21NM",
+              "length": 4000,
+              "alias": "LSOA21NM",
+              "type": "esriFieldTypeString"
+            },
+            {
+              "sqlType": "sqlTypeNVarchar",
+              "actualType": "nvarchar",
+              "nullable": true,
+              "editable": true,
+              "defaultValue": null,
+              "domain": null,
+              "name": "LSOA21NMW",
+              "length": 4000,
+              "alias": "LSOA21NMW",
+              "type": "esriFieldTypeString"
+            },
+            {
+              "sqlType": "sqlTypeNVarchar",
+              "actualType": "nvarchar",
+              "nullable": true,
+              "editable": true,
+              "defaultValue": null,
+              "domain": null,
+              "name": "WD24CD",
+              "length": 4000,
+              "alias": "WD24CD",
+              "type": "esriFieldTypeString"
+            },
+            {
+              "sqlType": "sqlTypeNVarchar",
+              "actualType": "nvarchar",
+              "nullable": true,
+              "editable": true,
+              "defaultValue": null,
+              "domain": null,
+              "name": "WD24NM",
+              "length": 4000,
+              "alias": "WD24NM",
+              "type": "esriFieldTypeString"
+            },
+            {
+              "sqlType": "sqlTypeNVarchar",
+              "actualType": "nvarchar",
+              "nullable": true,
+              "editable": true,
+              "defaultValue": null,
+              "domain": null,
+              "name": "WD24NMW",
+              "length": 4000,
+              "alias": "WD24NMW",
+              "type": "esriFieldTypeString"
+            },
+            {
+              "sqlType": "sqlTypeNVarchar",
+              "actualType": "nvarchar",
+              "nullable": true,
+              "editable": true,
+              "defaultValue": null,
+              "domain": null,
+              "name": "LAD24CD",
+              "length": 4000,
+              "alias": "LAD24CD",
+              "type": "esriFieldTypeString"
+            },
+            {
+              "sqlType": "sqlTypeNVarchar",
+              "actualType": "nvarchar",
+              "nullable": true,
+              "editable": true,
+              "defaultValue": null,
+              "domain": null,
+              "name": "LAD24NM",
+              "length": 4000,
+              "alias": "LAD24NM",
+              "type": "esriFieldTypeString"
+            },
+            {
+              "sqlType": "sqlTypeNVarchar",
+              "actualType": "nvarchar",
+              "nullable": true,
+              "editable": true,
+              "defaultValue": null,
+              "domain": null,
+              "name": "LAD24NMW",
+              "length": 4000,
+              "alias": "LAD24NMW",
+              "type": "esriFieldTypeString"
+            },
+            {
+              "sqlType": "sqlTypeInteger",
+              "actualType": "int",
+              "nullable": false,
+              "editable": false,
+              "defaultValue": null,
+              "domain": null,
+              "name": "ObjectId",
+              "alias": "ObjectId",
+              "type": "esriFieldTypeOID"
+            }
+          ],
+          "maxRecordCountFactor": 1,
+          "dateFieldsTimeReference": {
+            "timeZoneIANA": "Etc/UTC",
+            "respectsDaylightSaving": false,
+            "timeZone": "UTC"
+          },
+          "supportsFieldDescriptionProperty": true,
+          "hasM": false,
+          "allowGeometryUpdates": true,
+          "preferredTimeReference": null,
+          "useStandardizedQueries": true,
+          "globalIdField": "",
+          "supportedConvertContentFormats": "LayerEditCollection,FeatureCollection",
+          "description": "",
+          "supportedOperationsWithCollation": "query,addField,updateField",
+          "supportsRollbackOnFailureParameter": true,
+          "supportsTruncate": false,
+          "indexes": [
+            {
+              "indexType": "Attribute",
+              "name": "PK__LSOA21_W__9A61929178F6C1C0",
+              "isUnique": true,
+              "description": "clustered, unique, primary key",
+              "fields": "ObjectId",
+              "isAscending": true
+            }
+          ],
+          "supportedAppendSourceFilterFormats": "sqlite,geoPackage,shapefile,filegdb,featureService",
+          "htmlPopupType": "esriServerHTMLPopupTypeNone",
+          "hasAttachments": false,
+          "queryBinsCapabilities": {
+            "supportsReturnStackValueRange": true,
+            "supportedNormalizationTypes": [
+              "boxCox",
+              "field",
+              "inverse",
+              "log",
+              "naturalLog",
+              "percentOfTotal",
+              "squareRoot"
+            ],
+            "supportsNormalization": true,
+            "supportsSnapToData": true,
+            "supportsFixedIntervalBin": true,
+            "supportsStackBy": true,
+            "supportsDateBin": true,
+            "supportsSplitBy": true,
+            "supportsClassificationBin": true,
+            "supportsReturnFullIntervalBin": true,
+            "supportsAsync": true,
+            "supportsFirstDayOfWeek": true,
+            "supportedStatisticTypes": [
+              "COUNT",
+              "SUM",
+              "AVG",
+              "VAR",
+              "STDDEV",
+              "MIN",
+              "MAX",
+              "PERCENTILE_CONT",
+              "PERCENTILE_DISC",
+              "APPROX_PERCENTILE_CONT",
+              "APPROX_PERCENTILE_DISC",
+              "CentroidAggregate",
+              "EnvelopeAggregate",
+              "ConvexHullAggregate"
+            ],
+            "supportsAutoIntervalBin": true,
+            "supportsFixedBoundariesBin": true
+          },
+          "supportedConvertFileFormats": "JSON,PBF,Parquet",
+          "advancedQueryCapabilities": {
+            "supportsSqlExpression": true,
+            "supportsQueryWithResultType": true,
+            "supportsTranslations": false,
+            "supportsQueryRelatedPagination": true,
+            "supportedOperationsWithCacheHint": [
+              "query",
+              "queryTopFilter",
+              "queryAnalytics",
+              "queryAttachments",
+              "queryRelated",
+              "queryBins",
+              "queryPivot"
+            ],
+            "supportsQueryWithCacheHint": true,
+            "supportsQueryWithDatumTransformation": true,
+            "supportsCurrentUserQueries": true,
+            "supportsAggIds": true,
+            "supportsOutFieldSQLExpression": true,
+            "supportsDefaultSR": true,
+            "fullTextSearchCapabilities": {
+              "supportsStopWords": true,
+              "supportsOperator": true,
+              "supportsSearchOperator": true,
+              "supportsAccentSensitivity": true
+            },
+            "supportsQueryBins": true,
+            "supportsQueryWithCollation": true,
+            "supportsQueryPivot": true,
+            "supportsApproxPercentileStatistics": true,
+            "supportsQueryWithLodSR": false,
+            "supportsPaginationOnAggregatedQueries": true,
+            "supportsPagination": true,
+            "supportsMaxRecordCountFactor": true,
+            "supportsStatistics": true,
+            "supportsOrderBy": true,
+            "supportsFullTextSearch": true,
+            "supportsQueryWithDistance": true,
+            "supportsLod": true,
+            "supportsSpatialAggregationStatistics": true,
+            "supportsCountDistinct": true,
+            "supportedLodTypes": [
+              "geohash"
+            ],
+            "supportsAdvancedQueryRelated": true,
+            "supportsReturningQueryExtent": false,
+            "supportsISODOW": true,
+            "supportsTopFeaturesQuery": true,
+            "supportsReturningGeometryEnvelope": true,
+            "supportsDistinct": true,
+            "supportsReturningGeometryCentroid": false,
+            "supportsTimeRelation": true,
+            "supportsQueryAnalytic": true,
+            "supportsPercentileStatistics": true,
+            "supportedSpatialAggregationStatistics": [
+              "EnvelopeAggregate",
+              "CentroidAggregate",
+              "ConvexHullAggregate"
+            ],
+            "supportsISOWeek": true,
+            "supportsHavingClause": true
+          },
+          "serviceItemId": "686527814d73403e8f0a59c7a28b0c34",
+          "supportsValidateSql": true,
+          "cacheMaxAge": 30,
+          "supportsCoordinatesQuantization": true,
+          "types": [],
+          "capabilities": "Query",
+          "supportsAppend": true,
+          "supportsExceedsLimitStatistics": true,
+          "supportedSyncDataOptions": 260,
+          "supportsContingentValues": true,
+          "defaultVisibility": true,
+          "advancedQueryAnalyticCapabilities": {
+            "supportsAsync": true,
+            "supportsLinearRegression": true,
+            "supportsTrendlineRegression": true,
+            "supportsPercentileAnalytic": true
+          },
+          "supportedAppendFormats": "sqlite,geoPackage,shapefile,filegdb,featureCollection,geojson,csv,excel,jsonl,featureService,pbf",
+          "uniqueIdField": {
+            "isSystemMaintained": true,
+            "name": "ObjectId"
+          },
+          "tileMaxRecordCount": 8000,
+          "supportsFieldGroups": true,
+          "typeIdField": "",
+          "supportsASyncCalculate": true,
+          "supportedQueryFormats": "JSON, geoJSON, PBF",
+          "copyrightText": "",
+          "supportsColumnStoreIndex": true,
+          "supportsLayerOverrides": true
+        }
+      ],
+      "licenseInfo": "<a href='https://www.ons.gov.uk/methodology/geography/licences' target='_blank' rel='nofollow ugc noopener noreferrer'>https://www.ons.gov.uk/methodology/geography/licences</a>",
+      "maxRecordCount": 1000,
+      "metadata": {
+        "metadata": {
+          "mdLang": {
+            "languageCode": {
+              "@_value": "eng"
+            }
+          },
+          "mdContact": {
+            "rpCntInfo": {
+              "cntAddress": {
+                "eMailAdd": "ons.geography@ons.gov.uk"
+              }
+            },
+            "rpOrgName": "Office for National Statistics",
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
+          },
+          "mdDateSt": "2024-06-26",
+          "Esri": {
+            "ArcGISFormat": 1,
+            "CreaTime": "12:16:30.32",
+            "ArcGISstyle": "INSPIRE Metadata Directive",
+            "ArcGISProfile": "INSPIRE",
+            "ModDate": "2024-06-26",
+            "CreaDate": "2022-10-14",
+            "ModTime": "05:36:54.18",
+            "MapLyrSync": false,
+            "PublishStatus": "editor:esri.dijit.metadata.editor"
+          },
+          "mdTimeSt": "05:35:43.34",
+          "dqInfo": {
+            "dataLineage": {
+              "statement": "This product was produced by ONS Geography"
+            },
+            "dqScope": {
+              "scpLvl": {
+                "ScopeCd": {
+                  "@_value": "005"
+                }
+              }
+            },
+            "report": {
+              "measResult": {
+                "ConResult": {
+                  "conExpl": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:323:0011:0102:EN:PDF",
+                  "conPass": 1,
+                  "conSpec": {
+                    "date": {
+                      "pubDate": "2010-12-08"
+                    },
+                    "resTitle": [
+                      "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services",
+                      "COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services"
+                    ]
+                  }
+                }
+              },
+              "@_type": "DQDomConsis"
+            }
+          },
+          "mdHrLv": {
+            "ScopeCd": {
+              "@_value": "005"
+            }
+          },
+          "dataIdInfo": {
+            "idAbs": "<div style='background-color:rgb(255, 255, 255); clear:both; color:rgb(0, 0, 0); font-family:&quot;Segoe UI&quot;, &quot;Segoe UI Web&quot;, Arial, Verdana, sans-serif; font-size:12px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; margin:0px; overflow:visible; padding:0px; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;'><p style='background-color:transparent; color:windowtext; font-kerning:none; font-style:normal; font-weight:normal; margin:0px 0px 10.6667px; padding:0px; text-align:left; text-indent:0px;'><span style='font-family:Arial, Arial_EmbeddedFont, Arial_MSFontService, sans-serif; font-size:12pt;'><span style='font-variant-ligatures:none !important; line-height:20.5042px; margin:0px; padding:0px;'><strong>Please Note: </strong>This file updated on 26</span></span><span style='font-family:Arial, Arial_EmbeddedFont, Arial_MSFontService, sans-serif; font-size:9.5pt;'><span style='font-variant-ligatures:none !important; line-height:20.5042px; margin:0px; padding:0px;'><sup>th</sup></span></span><span style='font-family:Arial, Arial_EmbeddedFont, Arial_MSFontService, sans-serif; font-size:12pt;'><span style='font-variant-ligatures:none !important; line-height:20.5042px; margin:0px; padding:0px;'> August 2025 to correct ward/local authority district allocation for E01027305 - West Northamptonshire 048E which was incorrect. See further details on our dedicated </span></span><a target='_blank' href='https://geoportal.statistics.gov.uk/pages/notices' rel='nofollow ugc noopener noreferrer'><span style='font-family:Arial, Arial_EmbeddedFont, Arial_MSFontService, sans-serif; font-size:12pt;'><span style='font-variant-ligatures:none !important; line-height:20.5042px; margin:0px; padding:0px;'>notice</span></span></a><span style='font-family:Arial, Arial_EmbeddedFont, Arial_MSFontService, sans-serif; font-size:12pt;'><span style='font-variant-ligatures:none !important; line-height:20.5042px; margin:0px; padding:0px;'> </span><span style='box-shadow:rgb(66, 66, 66) -1px 0px 0px 0px !important; font-variant-ligatures:none !important; line-height:20.5042px; margin:0px; padding:0px;'>page.&nbsp;</span><span style='line-height:20.5042px; margin:0px; padding:0px;'>&nbsp;</span></span></p></div><div style='background-color:rgb(255, 255, 255); clear:both; color:rgb(0, 0, 0); font-family:&quot;Segoe UI&quot;, &quot;Segoe UI Web&quot;, Arial, Verdana, sans-serif; font-size:12px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; margin:0px; overflow:visible; padding:0px; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;'><p style='background-color:transparent; color:windowtext; font-kerning:none; font-style:normal; font-weight:normal; margin:0px 0px 10.6667px; padding:0px; text-align:left; text-indent:0px;'><span style='font-family:Arial, Arial_EmbeddedFont, Arial_MSFontService, sans-serif; font-size:12pt;'><span style='font-variant-ligatures:none !important; line-height:20.5042px; margin:0px; padding:0px;'>If you have downloaded this product before this date, please check your version and download the updated product. Apologies for any inconvenience caused. For further assistance, please don\u2019t hesitate to contact </span></span><a style='color:inherit; margin:0px; padding:0px; text-decoration:none;' href='mailto:ONS.Geography@ons.gov.uk' target='_blank' rel='nofollow ugc noopener noreferrer'><span style='color:rgb(5,99,193); font-family:Arial, Arial_EmbeddedFont, Arial_MSFontService, sans-serif; font-size:12pt;'><span style='font-variant-ligatures:none !important; line-height:20.5042px; margin:0px; padding:0px;'><u>ONS.Geography@ons.gov.uk</u></span></span></a><span style='font-family:Arial, Arial_EmbeddedFont, Arial_MSFontService, sans-serif; font-size:12pt;'><span style='font-variant-ligatures:none !important; line-height:20.5042px; margin:0px; padding:0px;'>.</span><span style='line-height:20.5042px; margin:0px; padding:0px;'>&nbsp;</span></span></p></div><p style='box-sizing:border-box; color:rgb(0, 0, 0); font-family:Lato, &quot;Avenir Next&quot;; font-size:18px; margin-bottom:10px; margin-top:0px;'>&nbsp;</p><p style='box-sizing:border-box; color:rgb(0, 0, 0); font-family:Lato, &quot;Avenir Next&quot;; font-size:18px; margin-bottom:10px; margin-top:0px;'>This file is a best fit lookup between 2021 lower layer super output areas, electoral wards/divisions and local authority districts in England and Wales as at 2nd May 2024&nbsp; (File Size - 2.7 MB)&nbsp;&nbsp;<br />Field Names - LSOA21CD, LSOA21NM, LSOA21NMW, WD24CD, WD24NM, WD24NMW, LAD24CD, LAD24NM, LAD24NMW</p><p style='box-sizing:border-box; color:rgb(0, 0, 0); font-family:Lato, &quot;Avenir Next&quot;; font-size:18px; margin-bottom:10px; margin-top:0px;'>Field Types - Text, Text, Text, Text, Text, Text, Text, Text, Text</p><p style='box-sizing:border-box; color:rgb(0, 0, 0); font-family:Lato, &quot;Avenir Next&quot;; font-size:18px; margin-bottom:10px; margin-top:0px;'>Field Lengths - 9, 40, 29, 9, 53, 45, 9, 35, 24</p><p>File updated to correct ward/local authority district allocation for E01027305 - West Northamptonshire 048E<br /><br /><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size:medium;'><font style='font-family:inherit;'>For more information and an overview of best-fitting follow this link -&nbsp;</font></span></p><p style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px; margin-bottom:0px; margin-top:0px;'>&nbsp;</p><div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><a style='color:rgb(0, 97, 155); font-family:inherit; text-decoration-line:none;' target='_blank' href='https://geoportal.statistics.gov.uk/datasets/f0aac7ccbfd04cda9eb03e353c613faa/about' rel='nofollow ugc noopener noreferrer'>https://geoportal.statistics.gov.uk/datasets/f0aac7ccbfd04cda9eb03e353c613faa/about</a></div>",
+            "idCredit": "Office for National Statistics",
+            "dataLang": {
+              "countryCode": {
+                "@_value": "GB"
+              },
+              "languageCode": {
+                "@_value": "eng"
+              }
+            },
+            "idPurp": "LSOA (2021) Best-fit Lookup",
+            "tpCat": [
+              {
+                "TopicCatCd": {
+                  "@_value": "003"
+                }
+              },
+              {
+                "TopicCatCd": {
+                  "@_value": "007"
+                }
+              },
+              {
+                "TopicCatCd": {
+                  "@_value": "013"
+                }
+              }
+            ],
+            "dataExt": {
+              "geoEle": {
+                "GeoBndBox": {
+                  "eastBL": 2,
+                  "southBL": 49.9,
+                  "northBL": 56,
+                  "westBL": -6
+                }
+              }
+            },
+            "idCitation": {
+              "date": {
+                "pubDate": "2024-06-26",
+                "createDate": "2024-05-02"
+              },
+              "resTitle": "LSOA (2021) to Electoral Ward (2024) to LAD (2024) Best Fit Lookup in EW",
+              "citId": {
+                "identCode": "686527814d73403e8f0a59c7a28b0c34"
+              }
+            },
+            "themeKeys": {
+              "thesaName": {
+                "date": {
+                  "pubDate": "2008-06-01"
+                },
+                "resTitle": "GEMET - INSPIRE themes, version 1.0"
+              },
+              "keyword": [
+                2024,
+                "LUP_BFT",
+                "LUP_LSOA_WD",
+                "LSOA",
+                "Lower Layer Super Output Areas",
+                "WD",
+                "Ward",
+                "Wards",
+                "LAD",
+                "Local Authority",
+                "Local Authority Districts",
+                "England and Wales",
+                "LSOA21",
+                "2021_Census",
+                "MAY_2024"
+              ]
+            },
+            "spatRpType": {
+              "SpatRepTypCd": {
+                "@_value": "003"
+              }
+            },
+            "dataChar": {
+              "CharSetCd": {
+                "@_value": "004"
+              }
+            },
+            "searchKeys": {
+              "keyword": [
+                2024,
+                "LUP_BFT",
+                "LUP_LSOA_WD",
+                "LSOA",
+                "Lower Layer Super Output Areas",
+                "WD",
+                "Ward",
+                "Wards",
+                "LAD",
+                "Local Authority",
+                "Local Authority Districts",
+                "England and Wales",
+                "LSOA21",
+                "2021_Census",
+                "MAY_2024",
+                "LUP_LSOA_2021_WD"
+              ]
+            },
+            "idPoC": {
+              "rpCntInfo": {
+                "cntAddress": {
+                  "eMailAdd": "ons.geography@ons.gov.uk"
+                }
+              },
+              "rpOrgName": "Office for National Statistics",
+              "role": {
+                "RoleCd": {
+                  "@_value": "007"
+                }
+              }
+            },
+            "resConst": [
+              {
+                "Consts": {
+                  "useLimit": "<a href='https://www.ons.gov.uk/methodology/geography/licences' target='_blank' rel='nofollow ugc noopener noreferrer'>https://www.ons.gov.uk/methodology/geography/licences</a>"
+                }
+              },
+              {
+                "LegConsts": {
+                  "othConsts": "Other Constraints",
+                  "accessConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  },
+                  "inspirePublicAccessLimits": {
+                    "PublicAccessCd": {
+                      "@_value": "001"
+                    }
+                  }
+                }
+              },
+              {
+                "LegConsts": {
+                  "useConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  },
+                  "othConsts": "Other Constraints",
+                  "inspireAccessUseConditions": {
+                    "ConditionsAccUseCd": {
+                      "@_value": "001"
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          "refSysInfo": {
+            "RefSystem": {
+              "refSysID": {
+                "identCode": {
+                  "@_code": "27700"
+                }
+              }
+            }
+          },
+          "mdChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
+          "mdFileID": "686527814d73403e8f0a59c7a28b0c34",
+          "distInfo": {
+            "distTranOps": {
+              "onLineSrc": {
+                "linkage": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/LSOA21_WD24_LAD24_EW_LU/FeatureServer"
+              }
+            },
+            "distFormat": {
+              "formatVer": "CSV",
+              "formatName": "CSV"
+            }
+          },
+          "@_xml:lang": "en"
+        },
+        "?xml": {
+          "@_standalone": "no",
+          "@_encoding": "UTF-8",
+          "@_version": "1.0"
+        }
+      },
+      "modified": 1759900327428,
+      "modifiedProvenance": "layer.editingInfo.lastEditDate",
+      "name": "LSOA (2021) to Electoral Ward (2024) to LAD (2024) Best Fit Lookup in EW",
+      "objectIdField": "ObjectId",
+      "openData": true,
+      "orgId": "ESMARspQHYMw9BZ9",
+      "orgName": "Office for National Statistics",
+      "organization": "Office for National Statistics",
+      "orgExtent": {
+        "ymin": 6170475.345804761,
+        "xmin": -1396709.996679961,
+        "ymax": 8766317.110977914,
+        "xmax": 447557.40368396445,
+        "spatialReference": {
+          "wkid": 102100
+        }
+      },
+      "orgContactEmail": "mailto:ons.geography@ons.gov.uk",
+      "owner": "ONSGeography_data",
+      "recordCount": 35672,
+      "region": "WO",
+      "searchDescription": "Please Note: This file updated on 26th August 2025 to correct ward/local authority district allocation for E01027305 - West Northamptonshire 048E which was incorrect. See further details on our dedicated notice page.\u00a0\u00a0If you have downloaded this product before this date, please check your version and download the updated product. Apologies for any inconvenience caused. For further assistance, please don\u2019t hesitate to contact ONS.Geography@ons.gov.uk.\u00a0\u00a0This file is a best fit lookup between 2021 lower layer super output areas, electoral wards/divisions and local authority districts in England and Wales as at 2nd May 2024\u00a0 (File Size - 2.7 MB)\u00a0\u00a0Field Names - LSOA21CD, LSOA21NM, LSOA21NMW, WD24CD, WD24NM, WD24NMW, LAD24CD, LAD24NM, LAD24NMWField Types - Text, Text, Text, Text, Text, Text, Text, Text, TextField Lengths - 9, 40, 29, 9, 53, 45, 9, 35, 24 File updated to correct ward/local authority district allocation for E01027305 - West Northamptonshire 048EFor more information and an overview of best-fitting follow this link -\u00a0\u00a0https://geoportal.statistics.gov.uk/datasets/f0aac7ccbfd04cda9eb03e353c613faa/about",
+      "sector": "National Government",
+      "server": {
+        "supportedContingentValuesFormats": "JSON, PBF",
+        "allowGeometryUpdates": true,
+        "supportsQueryContingentValues": true,
+        "supportedFullTextLocales": [
+          "neutral",
+          "ar-SA",
+          "bg-BG",
+          "bn-IN",
+          "ca-ES",
+          "cs-CZ",
+          "da-DK",
+          "de-DE",
+          "el-GR",
+          "en-GB",
+          "en-US",
+          "es-ES",
+          "fr-FR",
+          "gu-IN",
+          "he-IL",
+          "hi-IN",
+          "hr-HR",
+          "id-ID",
+          "is-IS",
+          "it-IT",
+          "ja-JP",
+          "kn-IN",
+          "ko-KR",
+          "lt-LT",
+          "lv-LV",
+          "ml-IN",
+          "mr-IN",
+          "ms-MY",
+          "nb-NO",
+          "nl-NL",
+          "pa-IN",
+          "pl-PL",
+          "pt-BR",
+          "pt-PT",
+          "ro-RO",
+          "ru-RU",
+          "sk-SK",
+          "sl-SI",
+          "sr-Cyrl-CS",
+          "sr-Latn-CS",
+          "sv-SE",
+          "ta-IN",
+          "te-IN",
+          "th-TH",
+          "tr-TR",
+          "uk-UA",
+          "ur-PK",
+          "vi-VN",
+          "zh-CN",
+          "zh-HK",
+          "zh-MO",
+          "zh-SG",
+          "zh-TW"
+        ],
+        "supportsApplyEditsWithGlobalIds": false,
+        "maxRecordCount": 1000,
+        "supportedConvertContentFormats": "LayerEditCollection",
+        "description": "",
+        "units": "esriMeters",
+        "onlyAllowTrueCurveUpdatesByTrueCurveClients": false,
+        "supportsSharedDomains": true,
+        "hasStaticData": true,
+        "syncEnabled": false,
+        "tables": [
+          {
+            "subLayerIds": null,
+            "maxScale": 0,
+            "name": "LSOA21_WD24_LAD24_EW_LU",
+            "defaultVisibility": true,
+            "id": 0,
+            "minScale": 0,
+            "parentLayerId": -1
+          }
+        ],
+        "hasVersionedData": false,
+        "layerOverridesEnabled": true,
+        "layers": [],
+        "supportedConvertFileFormats": "JSON,PBF",
+        "supportsSharedTemplates": true,
+        "serviceItemId": "686527814d73403e8f0a59c7a28b0c34",
+        "fullExtent": null,
+        "supportedExportFormats": "csv,shapefile,sqlite,geoPackage,filegdb,featureCollection,geojson,kml,excel",
+        "capabilities": "Query",
+        "supportsTrueCurve": true,
+        "supportsAppend": true,
+        "xssPreventionInfo": {
+          "xssInputRule": "rejectInvalid",
+          "xssPreventionRule": "InputOnly",
+          "xssPreventionEnabled": true
+        },
+        "supportsDisconnectedEditing": false,
+        "supportsContingentValuesJson": 2,
+        "supportsTilesAndBasicQueriesMode": true,
+        "supportsReturnDeleteResults": true,
+        "currentVersion": 12,
+        "hasSharedDomains": false,
+        "supportsWebHooks": true,
+        "supportsVCSProjection": false,
+        "advancedEditingCapabilities": {
+          "supportsAsyncApplyEdits": true,
+          "supportsApplyEditsbyUploadID": true,
+          "supportsSplit": false,
+          "supportsReturnEditResults": true,
+          "supportsReturnServiceEditsInSourceSR": false,
+          "supportedApplyEditsUploadIDFormats": "JSON,PBF"
+        },
+        "supportedQueryFormats": "JSON",
+        "size": 8273920,
+        "initialExtent": null,
+        "supportedCurveTypes": [
+          "esriGeometryCircularArc"
+        ],
+        "allowTrueCurvesUpdates": true,
+        "supportsTemporalLayers": true,
+        "serviceDescription": "",
+        "editorTrackingInfo": {
+          "allowAnonymousToQuery": true,
+          "allowOthersToUpdate": true,
+          "allowAnonymousToUpdate": true,
+          "enableEditorTracking": false,
+          "allowOthersToQuery": true,
+          "allowOthersToDelete": false,
+          "enableOwnershipAccessControl": false,
+          "allowAnonymousToDelete": true
+        },
+        "hasSharedTemplates": true,
+        "copyrightText": "",
+        "supportsLayerOverrides": true,
+        "supportedAppendCapabilities": "Features",
+        "supportedTrueCurvePbfFeatureEncodings": [
+          "esriCompressedShapeBuffer",
+          "esriDefault"
+        ],
+        "trueCurveSupportMode": "OGC",
+        "maxIdsCount": 1000000
+      },
+      "serverCapabilities": "Query",
+      "size": 8273920,
+      "slug": "ons::lsoa-2021-to-electoral-ward-2024-to-lad-2024-best-fit-lookup-in-ew",
+      "source": "Office for National Statistics",
+      "sourceProvenance": "metadata.metadata.dataIdInfo.idPoC.rpOrgName",
+      "statistics": {
+        "string": {
+          "lsoa21nm": {
+            "meta": {
+              "pass": true,
+              "missingStats": [],
+              "error": null
+            },
+            "statistics": {
+              "duration": 251.44197399995755,
+              "values": [
+                {
+                  "count": 1,
+                  "value": "Adur 001A"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 001B"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 001C"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 001D"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 001E"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 001F"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 002A"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 002B"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 002C"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 002D"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 002E"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 003A"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 003B"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 003C"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 003D"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 003E"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 004A"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 004B"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 004C"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 004D"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 004E"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 004F"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 004G"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 005A"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 005B"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 005C"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 005D"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 005E"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 006A"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 006B"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 006C"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 006D"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 006E"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 007A"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 007B"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 007C"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 007D"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 008A"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 008B"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 008C"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 008D"
+                },
+                {
+                  "count": 1,
+                  "value": "Adur 008E"
+                },
+                {
+                  "count": 1,
+                  "value": "Allerdale 001A"
+                },
+                {
+                  "count": 1,
+                  "value": "Allerdale 001B"
+                },
+                {
+                  "count": 1,
+                  "value": "Allerdale 001C"
+                },
+                {
+                  "count": 1,
+                  "value": "Allerdale 001D"
+                },
+                {
+                  "count": 1,
+                  "value": "Allerdale 001E"
+                },
+                {
+                  "count": 1,
+                  "value": "Allerdale 001F"
+                },
+                {
+                  "count": 1,
+                  "value": "Allerdale 001G"
+                },
+                {
+                  "count": 1,
+                  "value": "Allerdale 002A"
+                }
+              ],
+              "count": 1000,
+              "uniqueCount": 1000
+            }
+          },
+          "wd24nm": {
+            "meta": {
+              "pass": true,
+              "missingStats": [],
+              "error": null
+            },
+            "statistics": {
+              "duration": 183.45801599998958,
+              "values": [
+                {
+                  "count": 101,
+                  "value": "Castle"
+                },
+                {
+                  "count": 84,
+                  "value": "Park"
+                },
+                {
+                  "count": 77,
+                  "value": "Central"
+                },
+                {
+                  "count": 70,
+                  "value": "Abbey"
+                },
+                {
+                  "count": 63,
+                  "value": "Town"
+                },
+                {
+                  "count": 57,
+                  "value": "St Mary's"
+                },
+                {
+                  "count": 41,
+                  "value": "Manor"
+                },
+                {
+                  "count": 40,
+                  "value": "Victoria"
+                },
+                {
+                  "count": 32,
+                  "value": "Belmont"
+                },
+                {
+                  "count": 30,
+                  "value": "St Michael's"
+                },
+                {
+                  "count": 30,
+                  "value": "Trinity"
+                },
+                {
+                  "count": 28,
+                  "value": "St John's"
+                },
+                {
+                  "count": 28,
+                  "value": "Woodside"
+                },
+                {
+                  "count": 27,
+                  "value": "Heaton"
+                },
+                {
+                  "count": 26,
+                  "value": "Nelson"
+                },
+                {
+                  "count": 25,
+                  "value": "Heath"
+                },
+                {
+                  "count": 25,
+                  "value": "Westgate"
+                },
+                {
+                  "count": 23,
+                  "value": "City"
+                },
+                {
+                  "count": 23,
+                  "value": "Highfield"
+                },
+                {
+                  "count": 22,
+                  "value": "Church"
+                },
+                {
+                  "count": 22,
+                  "value": "Kingswood"
+                },
+                {
+                  "count": 22,
+                  "value": "Normanton"
+                },
+                {
+                  "count": 22,
+                  "value": "Old Town"
+                },
+                {
+                  "count": 22,
+                  "value": "Upton"
+                },
+                {
+                  "count": 22,
+                  "value": "Woodlands"
+                },
+                {
+                  "count": 21,
+                  "value": "College"
+                },
+                {
+                  "count": 21,
+                  "value": "Mile End"
+                },
+                {
+                  "count": 21,
+                  "value": "St Peter's"
+                },
+                {
+                  "count": 21,
+                  "value": "Vauxhall"
+                },
+                {
+                  "count": 20,
+                  "value": "Bridge"
+                },
+                {
+                  "count": 20,
+                  "value": "Manor Park"
+                },
+                {
+                  "count": 20,
+                  "value": "Radford"
+                },
+                {
+                  "count": 20,
+                  "value": "St Andrews"
+                },
+                {
+                  "count": 20,
+                  "value": "St Thomas"
+                },
+                {
+                  "count": 19,
+                  "value": "Clifton"
+                },
+                {
+                  "count": 19,
+                  "value": "Hendon"
+                },
+                {
+                  "count": 19,
+                  "value": "Middleton Park"
+                },
+                {
+                  "count": 19,
+                  "value": "Milton"
+                },
+                {
+                  "count": 19,
+                  "value": "Walton"
+                },
+                {
+                  "count": 19,
+                  "value": "Woodhouse"
+                },
+                {
+                  "count": 18,
+                  "value": "Aston"
+                },
+                {
+                  "count": 18,
+                  "value": "Broughton"
+                },
+                {
+                  "count": 18,
+                  "value": "Edgware"
+                },
+                {
+                  "count": 18,
+                  "value": "Headingley & Hyde Park"
+                },
+                {
+                  "count": 18,
+                  "value": "Kenton"
+                },
+                {
+                  "count": 18,
+                  "value": "Northwood"
+                },
+                {
+                  "count": 18,
+                  "value": "Queen's Park"
+                },
+                {
+                  "count": 18,
+                  "value": "Queensbury"
+                },
+                {
+                  "count": 18,
+                  "value": "Richmond"
+                },
+                {
+                  "count": 18,
+                  "value": "St Peters"
+                }
+              ],
+              "count": 11160,
+              "uniqueCount": 1000
+            }
+          },
+          "lsoa21nmw": {
+            "meta": {
+              "pass": true,
+              "missingStats": [],
+              "error": null
+            },
+            "statistics": {
+              "duration": 189.72657299996354,
+              "values": [
+                {
+                  "count": 1,
+                  "value": "Abertawe 001A"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 001B"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 001C"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 001D"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 002A"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 002B"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 002C"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 002D"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 002E"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 002F"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 003A"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 003B"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 003C"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 003D"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 003E"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 003F"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 004A"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 004B"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 004C"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 004D"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 004E"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 005B"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 005C"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 005D"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 005E"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 005F"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 005G"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 005H"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 006A"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 006C"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 006D"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 006E"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 006F"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 007A"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 007B"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 007C"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 007D"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 007E"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 007F"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 008A"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 008B"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 008C"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 008D"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 008E"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 009A"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 009B"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 009C"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 009D"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 009E"
+                },
+                {
+                  "count": 1,
+                  "value": "Abertawe 009F"
+                }
+              ],
+              "count": 1000,
+              "uniqueCount": 1000
+            }
+          },
+          "wd24cd": {
+            "meta": {
+              "pass": true,
+              "missingStats": [],
+              "error": null
+            },
+            "statistics": {
+              "duration": 231.7102560000494,
+              "values": [
+                {
+                  "count": 19,
+                  "value": "E05011404"
+                },
+                {
+                  "count": 18,
+                  "value": "E05011397"
+                },
+                {
+                  "count": 17,
+                  "value": "E05011387"
+                },
+                {
+                  "count": 17,
+                  "value": "E05011394"
+                },
+                {
+                  "count": 17,
+                  "value": "E05011399"
+                },
+                {
+                  "count": 17,
+                  "value": "E05011400"
+                },
+                {
+                  "count": 16,
+                  "value": "E05011409"
+                },
+                {
+                  "count": 16,
+                  "value": "E05011411"
+                },
+                {
+                  "count": 16,
+                  "value": "E05012647"
+                },
+                {
+                  "count": 16,
+                  "value": "E05012648"
+                },
+                {
+                  "count": 16,
+                  "value": "E05012842"
+                },
+                {
+                  "count": 15,
+                  "value": "E05011118"
+                },
+                {
+                  "count": 15,
+                  "value": "E05011123"
+                },
+                {
+                  "count": 15,
+                  "value": "E05011138"
+                },
+                {
+                  "count": 15,
+                  "value": "E05011151"
+                },
+                {
+                  "count": 15,
+                  "value": "E05011168"
+                },
+                {
+                  "count": 15,
+                  "value": "E05011170"
+                },
+                {
+                  "count": 15,
+                  "value": "E05011391"
+                },
+                {
+                  "count": 15,
+                  "value": "E05011406"
+                },
+                {
+                  "count": 15,
+                  "value": "E05011549"
+                },
+                {
+                  "count": 14,
+                  "value": "E05001226"
+                },
+                {
+                  "count": 14,
+                  "value": "E05001228"
+                },
+                {
+                  "count": 14,
+                  "value": "E05009318"
+                },
+                {
+                  "count": 14,
+                  "value": "E05010747"
+                },
+                {
+                  "count": 14,
+                  "value": "E05010860"
+                },
+                {
+                  "count": 14,
+                  "value": "E05010868"
+                },
+                {
+                  "count": 14,
+                  "value": "E05010870"
+                },
+                {
+                  "count": 14,
+                  "value": "E05010875"
+                },
+                {
+                  "count": 14,
+                  "value": "E05010879"
+                },
+                {
+                  "count": 14,
+                  "value": "E05011144"
+                },
+                {
+                  "count": 14,
+                  "value": "E05011150"
+                },
+                {
+                  "count": 14,
+                  "value": "E05011152"
+                },
+                {
+                  "count": 14,
+                  "value": "E05011154"
+                },
+                {
+                  "count": 14,
+                  "value": "E05011173"
+                },
+                {
+                  "count": 14,
+                  "value": "E05011184"
+                },
+                {
+                  "count": 14,
+                  "value": "E05011384"
+                },
+                {
+                  "count": 14,
+                  "value": "E05011385"
+                },
+                {
+                  "count": 14,
+                  "value": "E05011388"
+                },
+                {
+                  "count": 14,
+                  "value": "E05011389"
+                },
+                {
+                  "count": 14,
+                  "value": "E05011395"
+                },
+                {
+                  "count": 14,
+                  "value": "E05011401"
+                },
+                {
+                  "count": 14,
+                  "value": "E05011403"
+                },
+                {
+                  "count": 14,
+                  "value": "E05011410"
+                },
+                {
+                  "count": 14,
+                  "value": "E05011413"
+                },
+                {
+                  "count": 14,
+                  "value": "E05011414"
+                },
+                {
+                  "count": 14,
+                  "value": "E05011547"
+                },
+                {
+                  "count": 14,
+                  "value": "E05012841"
+                },
+                {
+                  "count": 14,
+                  "value": "E05013831"
+                },
+                {
+                  "count": 13,
+                  "value": "E05001222"
+                },
+                {
+                  "count": 13,
+                  "value": "E05001223"
+                }
+              ],
+              "count": 9723,
+              "uniqueCount": 1000
+            }
+          },
+          "lsoa21cd": {
+            "meta": {
+              "pass": true,
+              "missingStats": [],
+              "error": null
+            },
+            "statistics": {
+              "duration": 180.57609900005627,
+              "values": [
+                {
+                  "count": 1,
+                  "value": "E01000001"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000002"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000003"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000005"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000006"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000007"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000008"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000009"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000011"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000012"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000013"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000014"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000015"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000016"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000017"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000018"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000019"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000020"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000021"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000022"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000024"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000025"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000027"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000028"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000029"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000030"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000031"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000032"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000033"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000034"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000035"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000036"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000037"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000038"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000039"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000040"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000041"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000042"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000043"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000044"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000045"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000046"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000049"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000050"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000051"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000052"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000053"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000054"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000055"
+                },
+                {
+                  "count": 1,
+                  "value": "E01000056"
+                }
+              ],
+              "count": 1000,
+              "uniqueCount": 1000
+            }
+          },
+          "wd24nmw": {
+            "meta": {
+              "pass": true,
+              "missingStats": [],
+              "error": null
+            },
+            "statistics": {
+              "duration": 149.2871280000545,
+              "values": [
+                {
+                  "count": 13,
+                  "value": "Grangetown"
+                },
+                {
+                  "count": 12,
+                  "value": "Caerau"
+                },
+                {
+                  "count": 11,
+                  "value": "Plasnewydd"
+                },
+                {
+                  "count": 11,
+                  "value": "Treforys"
+                },
+                {
+                  "count": 10,
+                  "value": "Cathays"
+                },
+                {
+                  "count": 10,
+                  "value": "Treganna"
+                },
+                {
+                  "count": 10,
+                  "value": "Trel\u00e1i"
+                },
+                {
+                  "count": 10,
+                  "value": "Trowbridge"
+                },
+                {
+                  "count": 10,
+                  "value": "Yr Eglwys Newydd a Thongwynlais"
+                },
+                {
+                  "count": 9,
+                  "value": "Llansamlet"
+                },
+                {
+                  "count": 9,
+                  "value": "Llyswyry"
+                },
+                {
+                  "count": 9,
+                  "value": "Pentwyn"
+                },
+                {
+                  "count": 9,
+                  "value": "Sgeti"
+                },
+                {
+                  "count": 9,
+                  "value": "Uplands"
+                },
+                {
+                  "count": 9,
+                  "value": "Y Sblot"
+                },
+                {
+                  "count": 8,
+                  "value": "Butetown"
+                },
+                {
+                  "count": 8,
+                  "value": "Cyncoed"
+                },
+                {
+                  "count": 8,
+                  "value": "Glanyrafon"
+                },
+                {
+                  "count": 8,
+                  "value": "Pen-y-lan"
+                },
+                {
+                  "count": 8,
+                  "value": "Penyrheol"
+                },
+                {
+                  "count": 8,
+                  "value": "Y Mynydd Bychan"
+                },
+                {
+                  "count": 8,
+                  "value": "Y Tyllgoed"
+                },
+                {
+                  "count": 7,
+                  "value": "Gorseinon a Phenyrheol"
+                },
+                {
+                  "count": 7,
+                  "value": "Llanilltud Fawr"
+                },
+                {
+                  "count": 7,
+                  "value": "Llanisien"
+                },
+                {
+                  "count": 7,
+                  "value": "Llanrhymni"
+                },
+                {
+                  "count": 7,
+                  "value": "Llys-faen a'r Ddraenen"
+                },
+                {
+                  "count": 7,
+                  "value": "Parc Tredegar a Maerun"
+                },
+                {
+                  "count": 7,
+                  "value": "Penderi"
+                },
+                {
+                  "count": 7,
+                  "value": "Pontprennau a Phentref Llaneirwg"
+                },
+                {
+                  "count": 7,
+                  "value": "Rhiwbeina"
+                },
+                {
+                  "count": 7,
+                  "value": "Y Castell"
+                },
+                {
+                  "count": 6,
+                  "value": "Aberaman"
+                },
+                {
+                  "count": 6,
+                  "value": "Aberbargod a Bargod"
+                },
+                {
+                  "count": 6,
+                  "value": "Allt-yr-ynn"
+                },
+                {
+                  "count": 6,
+                  "value": "Alway"
+                },
+                {
+                  "count": 6,
+                  "value": "Beddau a Thyn-y-nant"
+                },
+                {
+                  "count": 6,
+                  "value": "Betws"
+                },
+                {
+                  "count": 6,
+                  "value": "Bryntirion, Trelales a Merthyr Mawr"
+                },
+                {
+                  "count": 6,
+                  "value": "Cadog"
+                },
+                {
+                  "count": 6,
+                  "value": "Caerllion"
+                },
+                {
+                  "count": 6,
+                  "value": "Canol Pen-y-bont ar Ogwr"
+                },
+                {
+                  "count": 6,
+                  "value": "Clydach"
+                },
+                {
+                  "count": 6,
+                  "value": "Coety Uchaf"
+                },
+                {
+                  "count": 6,
+                  "value": "Dyfnant a Chil\u00e2"
+                },
+                {
+                  "count": 6,
+                  "value": "Gaer"
+                },
+                {
+                  "count": 6,
+                  "value": "Gogledd a De Tref Caerfyrddin"
+                },
+                {
+                  "count": 6,
+                  "value": "Gorllewin Aberd\u00e2r a Llwydcoed"
+                },
+                {
+                  "count": 6,
+                  "value": "Illtud"
+                },
+                {
+                  "count": 6,
+                  "value": "Llandaf"
+                }
+              ],
+              "count": 1917,
+              "uniqueCount": 741
+            }
+          },
+          "lad24cd": {
+            "meta": {
+              "pass": true,
+              "missingStats": [],
+              "error": null
+            },
+            "statistics": {
+              "duration": 178.9576100000413,
+              "values": [
+                {
+                  "count": 659,
+                  "value": "E08000025"
+                },
+                {
+                  "count": 488,
+                  "value": "E08000035"
+                },
+                {
+                  "count": 379,
+                  "value": "E06000065"
+                },
+                {
+                  "count": 343,
+                  "value": "E08000019"
+                },
+                {
+                  "count": 339,
+                  "value": "E06000066"
+                },
+                {
+                  "count": 336,
+                  "value": "E06000052"
+                },
+                {
+                  "count": 334,
+                  "value": "E06000060"
+                },
+                {
+                  "count": 330,
+                  "value": "E06000047"
+                },
+                {
+                  "count": 312,
+                  "value": "E08000032"
+                },
+                {
+                  "count": 307,
+                  "value": "E06000054"
+                },
+                {
+                  "count": 302,
+                  "value": "E08000012"
+                },
+                {
+                  "count": 295,
+                  "value": "E08000003"
+                },
+                {
+                  "count": 268,
+                  "value": "E06000023"
+                },
+                {
+                  "count": 260,
+                  "value": "E08000034"
+                },
+                {
+                  "count": 244,
+                  "value": "E06000049"
+                },
+                {
+                  "count": 240,
+                  "value": "E06000058"
+                },
+                {
+                  "count": 238,
+                  "value": "E06000062"
+                },
+                {
+                  "count": 229,
+                  "value": "E09000008"
+                },
+                {
+                  "count": 223,
+                  "value": "E06000059"
+                },
+                {
+                  "count": 222,
+                  "value": "E06000050"
+                },
+                {
+                  "count": 220,
+                  "value": "E09000003"
+                },
+                {
+                  "count": 218,
+                  "value": "W06000015"
+                },
+                {
+                  "count": 215,
+                  "value": "E08000036"
+                },
+                {
+                  "count": 213,
+                  "value": "E06000011"
+                },
+                {
+                  "count": 209,
+                  "value": "E08000015"
+                },
+                {
+                  "count": 205,
+                  "value": "E06000061"
+                },
+                {
+                  "count": 203,
+                  "value": "E08000026"
+                },
+                {
+                  "count": 203,
+                  "value": "E08000027"
+                },
+                {
+                  "count": 200,
+                  "value": "E06000016"
+                },
+                {
+                  "count": 200,
+                  "value": "E06000057"
+                },
+                {
+                  "count": 200,
+                  "value": "E08000010"
+                },
+                {
+                  "count": 199,
+                  "value": "E08000017"
+                },
+                {
+                  "count": 199,
+                  "value": "E09000006"
+                },
+                {
+                  "count": 199,
+                  "value": "E09000009"
+                },
+                {
+                  "count": 198,
+                  "value": "E06000051"
+                },
+                {
+                  "count": 191,
+                  "value": "E08000007"
+                },
+                {
+                  "count": 191,
+                  "value": "E08000014"
+                },
+                {
+                  "count": 190,
+                  "value": "E08000028"
+                },
+                {
+                  "count": 186,
+                  "value": "E09000032"
+                },
+                {
+                  "count": 185,
+                  "value": "E08000024"
+                },
+                {
+                  "count": 185,
+                  "value": "E09000025"
+                },
+                {
+                  "count": 183,
+                  "value": "E09000010"
+                },
+                {
+                  "count": 181,
+                  "value": "E09000005"
+                },
+                {
+                  "count": 181,
+                  "value": "E09000022"
+                },
+                {
+                  "count": 180,
+                  "value": "E08000021"
+                },
+                {
+                  "count": 179,
+                  "value": "E06000018"
+                },
+                {
+                  "count": 177,
+                  "value": "E06000063"
+                },
+                {
+                  "count": 177,
+                  "value": "E08000001"
+                },
+                {
+                  "count": 175,
+                  "value": "E06000025"
+                },
+                {
+                  "count": 175,
+                  "value": "E06000056"
+                }
+              ],
+              "count": 35672,
+              "uniqueCount": 318
+            }
+          },
+          "lad24nmw": {
+            "meta": {
+              "pass": true,
+              "missingStats": [],
+              "error": null
+            },
+            "statistics": {
+              "duration": 174.269895000034,
+              "values": [
+                {
+                  "count": 218,
+                  "value": "Caerdydd"
+                },
+                {
+                  "count": 153,
+                  "value": "Rhondda Cynon Taf"
+                },
+                {
+                  "count": 150,
+                  "value": "Abertawe"
+                },
+                {
+                  "count": 111,
+                  "value": "Sir Gaerfyrddin"
+                },
+                {
+                  "count": 110,
+                  "value": "Caerffili"
+                },
+                {
+                  "count": 100,
+                  "value": "Casnewydd"
+                },
+                {
+                  "count": 92,
+                  "value": "Sir y Fflint"
+                },
+                {
+                  "count": 91,
+                  "value": "Pen-y-bont ar Ogwr"
+                },
+                {
+                  "count": 90,
+                  "value": "Castell-nedd Port Talbot"
+                },
+                {
+                  "count": 84,
+                  "value": "Wrecsam"
+                },
+                {
+                  "count": 82,
+                  "value": "Bro Morgannwg"
+                },
+                {
+                  "count": 79,
+                  "value": "Powys"
+                },
+                {
+                  "count": 71,
+                  "value": "Conwy"
+                },
+                {
+                  "count": 71,
+                  "value": "Gwynedd"
+                },
+                {
+                  "count": 71,
+                  "value": "Sir Benfro"
+                },
+                {
+                  "count": 60,
+                  "value": "Torfaen"
+                },
+                {
+                  "count": 58,
+                  "value": "Sir Ddinbych"
+                },
+                {
+                  "count": 58,
+                  "value": "Sir Fynwy"
+                },
+                {
+                  "count": 46,
+                  "value": "Blaenau Gwent"
+                },
+                {
+                  "count": 45,
+                  "value": "Ceredigion"
+                },
+                {
+                  "count": 41,
+                  "value": "Ynys M\u00f4n"
+                },
+                {
+                  "count": 36,
+                  "value": "Merthyr Tudful"
+                }
+              ],
+              "count": 1917,
+              "uniqueCount": 22
+            }
+          },
+          "lad24nm": {
+            "meta": {
+              "pass": true,
+              "missingStats": [],
+              "error": null
+            },
+            "statistics": {
+              "duration": 141.2732669999823,
+              "values": [
+                {
+                  "count": 659,
+                  "value": "Birmingham"
+                },
+                {
+                  "count": 488,
+                  "value": "Leeds"
+                },
+                {
+                  "count": 379,
+                  "value": "North Yorkshire"
+                },
+                {
+                  "count": 343,
+                  "value": "Sheffield"
+                },
+                {
+                  "count": 339,
+                  "value": "Somerset"
+                },
+                {
+                  "count": 336,
+                  "value": "Cornwall"
+                },
+                {
+                  "count": 334,
+                  "value": "Buckinghamshire"
+                },
+                {
+                  "count": 330,
+                  "value": "County Durham"
+                },
+                {
+                  "count": 312,
+                  "value": "Bradford"
+                },
+                {
+                  "count": 307,
+                  "value": "Wiltshire"
+                },
+                {
+                  "count": 302,
+                  "value": "Liverpool"
+                },
+                {
+                  "count": 295,
+                  "value": "Manchester"
+                },
+                {
+                  "count": 268,
+                  "value": "Bristol, City of"
+                },
+                {
+                  "count": 260,
+                  "value": "Kirklees"
+                },
+                {
+                  "count": 244,
+                  "value": "Cheshire East"
+                },
+                {
+                  "count": 240,
+                  "value": "Bournemouth, Christchurch and Poole"
+                },
+                {
+                  "count": 238,
+                  "value": "West Northamptonshire"
+                },
+                {
+                  "count": 229,
+                  "value": "Croydon"
+                },
+                {
+                  "count": 223,
+                  "value": "Dorset"
+                },
+                {
+                  "count": 222,
+                  "value": "Cheshire West and Chester"
+                },
+                {
+                  "count": 220,
+                  "value": "Barnet"
+                },
+                {
+                  "count": 218,
+                  "value": "Cardiff"
+                },
+                {
+                  "count": 215,
+                  "value": "Wakefield"
+                },
+                {
+                  "count": 213,
+                  "value": "East Riding of Yorkshire"
+                },
+                {
+                  "count": 209,
+                  "value": "Wirral"
+                },
+                {
+                  "count": 205,
+                  "value": "North Northamptonshire"
+                },
+                {
+                  "count": 203,
+                  "value": "Coventry"
+                },
+                {
+                  "count": 203,
+                  "value": "Dudley"
+                },
+                {
+                  "count": 200,
+                  "value": "Leicester"
+                },
+                {
+                  "count": 200,
+                  "value": "Northumberland"
+                },
+                {
+                  "count": 200,
+                  "value": "Wigan"
+                },
+                {
+                  "count": 199,
+                  "value": "Bromley"
+                },
+                {
+                  "count": 199,
+                  "value": "Doncaster"
+                },
+                {
+                  "count": 199,
+                  "value": "Ealing"
+                },
+                {
+                  "count": 198,
+                  "value": "Shropshire"
+                },
+                {
+                  "count": 191,
+                  "value": "Sefton"
+                },
+                {
+                  "count": 191,
+                  "value": "Stockport"
+                },
+                {
+                  "count": 190,
+                  "value": "Sandwell"
+                },
+                {
+                  "count": 186,
+                  "value": "Wandsworth"
+                },
+                {
+                  "count": 185,
+                  "value": "Newham"
+                },
+                {
+                  "count": 185,
+                  "value": "Sunderland"
+                },
+                {
+                  "count": 183,
+                  "value": "Enfield"
+                },
+                {
+                  "count": 181,
+                  "value": "Brent"
+                },
+                {
+                  "count": 181,
+                  "value": "Lambeth"
+                },
+                {
+                  "count": 180,
+                  "value": "Newcastle upon Tyne"
+                },
+                {
+                  "count": 179,
+                  "value": "Nottingham"
+                },
+                {
+                  "count": 177,
+                  "value": "Bolton"
+                },
+                {
+                  "count": 177,
+                  "value": "Cumberland"
+                },
+                {
+                  "count": 175,
+                  "value": "Central Bedfordshire"
+                },
+                {
+                  "count": 175,
+                  "value": "Lewisham"
+                }
+              ],
+              "count": 35672,
+              "uniqueCount": 318
+            }
+          }
+        },
+        "objectid": {
+          "objectid": {
+            "meta": {
+              "pass": true,
+              "missingStats": [],
+              "error": null
+            },
+            "statistics": {
+              "duration": 99.28043799998704,
+              "values": {
+                "avg": 17836.5,
+                "min": 1,
+                "max": 35672,
+                "count": 35672,
+                "sum": 636263628
+              }
+            }
+          }
+        }
+      },
+      "structuredLicense": {
+        "type": "custom",
+        "url": "https://www.ons.gov.uk/methodology/geography/licences"
+      },
+      "license": "custom",
+      "supportedQueryFormats": "JSON, geoJSON, PBF",
+      "supportsAdvancedQueries": true,
+      "tags": [
+        "2024",
+        "LUP_BFT",
+        "LUP_LSOA_WD",
+        "LSOA",
+        "Lower Layer Super Output Areas",
+        "WD",
+        "Ward",
+        "Wards",
+        "LAD",
+        "Local Authority",
+        "Local Authority Districts",
+        "England and Wales",
+        "LSOA21",
+        "2021_Census",
+        "MAY_2024",
+        "LUP_LSOA_2021_WD"
+      ],
+      "thumbnail": "thumbnail/686527814d73403e8f0a59c7a28b0c34.png",
+      "thumbnailUrl": "thumbnail/686527814d73403e8f0a59c7a28b0c34.png",
+      "type": "Table",
+      "typeCategories": [
+        "Dataset"
+      ],
+      "typeKeywords": [
+        "ArcGIS Server",
+        "Data",
+        "Feature Access",
+        "Feature Service",
+        "Metadata",
+        "Service",
+        "Singlelayer",
+        "Table",
+        "Hosted Service"
+      ],
+      "url": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/LSOA21_WD24_LAD24_EW_LU/FeatureServer/0",
+      "useStandardizedQueries": true,
+      "validExtent": true,
+      "xFrameOptions": null,
+      "boundary": {
+        "provenance": "item",
+        "center": [
+          -2,
+          52.95
+        ],
+        "geometry": {
+          "type": "polygon",
+          "rings": [
+            [
+              [
+                -6,
+                56
+              ],
+              [
+                2,
+                56
+              ],
+              [
+                2,
+                49.9
+              ],
+              [
+                -6,
+                49.9
+              ],
+              [
+                -6,
+                56
+              ]
+            ]
+          ],
+          "spatialReference": {
+            "wkid": 4326
+          }
+        },
+        "setBy": null
+      },
+      "snippet": "Lookups",
+      "culture": "en-gb"
+    },
+    "links": {
+      "self": "https://geoportal.statistics.gov.uk/api/v3/datasets/686527814d73403e8f0a59c7a28b0c34_0",
+      "rawEs": "https://geoportal.statistics.gov.uk/api/es/datasets/686527814d73403e8f0a59c7a28b0c34_0",
+      "itemPage": "https://www.arcgis.com/home/item.html?id=686527814d73403e8f0a59c7a28b0c34",
+      "esriRest": "https://www.arcgis.com/sharing/content/items/686527814d73403e8f0a59c7a28b0c34?f=json"
+    },
+    "meta": {
+      "highlights": {},
+      "matchedFields": []
+    }
+  },
+  "meta": {
+    "apiRoot": "https://geoportal.statistics.gov.uk/api/v3/",
+    "resourceRoot": "https://geoportal.statistics.gov.uk/api/v3/datasets",
+    "request": "https://geoportal.statistics.gov.uk/api/v3/datasets/686527814d73403e8f0a59c7a28b0c34_0"
+  }
+}

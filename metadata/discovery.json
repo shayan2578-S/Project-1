@@ -1,0 +1,2116 @@
+{
+  "dft": {
+    "title": "Transport connectivity metric - GOV.UK",
+    "page_dates_not_data_reference_periods": [],
+    "links": [
+      {
+        "url": "https://www.gov.uk/help/cookies",
+        "text": "change your cookie settings",
+        "context": "You can change your cookie settings at any time.",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/government/publications/transport-connectivity-metric#content",
+        "text": "Skip to main content",
+        "context": "Cookies on GOV.UK We use some essential cookies to make this website work. We\u2019d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use cookies set by other sites to help us deliver content from their services. You have accepted additional cookies. You can change your cookie settings at any time. You have rejected additional cookies. You can change your cookie settings at any time. Accept additional cookies Reject additional cookies View cookies Hide cookie message Skip to main content GOV.UK Navigation menu Menu Menu Services and information Benefits Births, death, marriages and care Business and self-employed Childcare and parenting Citizenship and living in the UK Crime, justice and the law Disabled people Driving and transport Education and learning Employing people Environment and countryside Housing and local services Money and tax Passports, travel and living abroad Visas and immigration Working, jobs and pensions Government activity Departments Departments, agencies and public bodies News News stories, speeches, letters and notices Guidance and regulation Detailed guidance, regulations and rules Research and statistics Reports, analysis and official statistics Policy papers and consultations Consultations and strategy Transparency Data, Freedom of Information releases and corporate reports Search GOV.UK \u00d7 Search GOV.UK Search Search GOV.UK Search Home Transport Transport planning Guidance Transport connectivity metric The connectivity metric measures a person's ability to reach employment, ",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/",
+        "text": "GOV.UK",
+        "context": "GOV.UK",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/browse",
+        "text": "Menu",
+        "context": "Menu Menu",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/browse/benefits",
+        "text": "Benefits",
+        "context": "Benefits",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/browse/births-deaths-marriages",
+        "text": "Births, death, marriages and care",
+        "context": "Births, death, marriages and care",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/browse/business",
+        "text": "Business and self-employed",
+        "context": "Business and self-employed",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/browse/childcare-parenting",
+        "text": "Childcare and parenting",
+        "context": "Childcare and parenting",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/browse/citizenship",
+        "text": "Citizenship and living in the UK",
+        "context": "Citizenship and living in the UK",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/browse/justice",
+        "text": "Crime, justice and the law",
+        "context": "Crime, justice and the law",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/browse/disabilities",
+        "text": "Disabled people",
+        "context": "Disabled people",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/browse/driving",
+        "text": "Driving and transport",
+        "context": "Driving and transport",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/browse/education",
+        "text": "Education and learning",
+        "context": "Education and learning",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/browse/employing-people",
+        "text": "Employing people",
+        "context": "Employing people",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/browse/environment-countryside",
+        "text": "Environment and countryside",
+        "context": "Environment and countryside",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/browse/housing-local-services",
+        "text": "Housing and local services",
+        "context": "Housing and local services",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/browse/tax",
+        "text": "Money and tax",
+        "context": "Money and tax",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/browse/abroad",
+        "text": "Passports, travel and living abroad",
+        "context": "Passports, travel and living abroad",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/browse/visas-immigration",
+        "text": "Visas and immigration",
+        "context": "Visas and immigration",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/browse/working",
+        "text": "Working, jobs and pensions",
+        "context": "Working, jobs and pensions",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/government/organisations",
+        "text": "Departments",
+        "context": "Departments Departments, agencies and public bodies",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/search/news-and-communications",
+        "text": "News",
+        "context": "News News stories, speeches, letters and notices",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/search/guidance-and-regulation",
+        "text": "Guidance and regulation",
+        "context": "Guidance and regulation Detailed guidance, regulations and rules",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/search/research-and-statistics",
+        "text": "Research and statistics",
+        "context": "Research and statistics Reports, analysis and official statistics",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/search/policy-papers-and-consultations",
+        "text": "Policy papers and consultations",
+        "context": "Policy papers and consultations Consultations and strategy",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/search/transparency-and-freedom-of-information-releases",
+        "text": "Transparency",
+        "context": "Transparency Data, Freedom of Information releases and corporate reports",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/search",
+        "text": "Search GOV.UK",
+        "context": "Search GOV.UK \u00d7 Search GOV.UK",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/transport",
+        "text": "Transport",
+        "context": "Transport",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/transport/transport-planning",
+        "text": "Transport planning",
+        "context": "Transport planning",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "text": "Department for Transport",
+        "context": "Department for Transport",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/government/publications/transport-connectivity-metric/transport-connectivity-metric",
+        "text": "",
+        "context": "",
+        "is_file": false
+      },
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/68c966fc07d9e92bc5517b80/connectivity_metrics_2025.ods",
+        "text": "",
+        "context": "",
+        "is_file": true
+      },
+      {
+        "url": "https://www.gov.uk/guidance/using-open-document-formats-odf-in-your-organisation",
+        "text": "OpenDocument",
+        "context": "This file is in an OpenDocument format",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/contact/govuk",
+        "text": "Maybe",
+        "context": "Maybe",
+        "is_file": false
+      },
+      {
+        "url": "https://www.smartsurvey.co.uk/s/gov-uk-banner/?c=no-js",
+        "text": "Please fill in this survey (opens in a new tab and requires JavaScript )",
+        "context": "To help us improve GOV.UK, we\u2019d like to know more about your visit today. Please fill in this survey (opens in a new tab and requires JavaScript ) .",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/government/how-government-works",
+        "text": "How government works",
+        "context": "How government works",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/government/get-involved",
+        "text": "Get involved",
+        "context": "Get involved",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/help",
+        "text": "Help",
+        "context": "Help",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/help/privacy-notice",
+        "text": "Privacy",
+        "context": "Privacy",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/help/accessibility-statement",
+        "text": "Accessibility statement",
+        "context": "Accessibility statement",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/contact",
+        "text": "Contact",
+        "context": "Contact",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/help/terms-conditions",
+        "text": "Terms and conditions",
+        "context": "Terms and conditions",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/cymraeg",
+        "text": "Rhestr o Wasanaethau Cymraeg",
+        "context": "Rhestr o Wasanaethau Cymraeg",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "text": "Government Digital Service",
+        "context": "Government Digital Service",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "text": "Open Government Licence v3.0",
+        "context": "All content is available under the Open Government Licence v3.0 , except where otherwise stated",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/crown-copyright/",
+        "text": "\u00a9 Crown copyright",
+        "context": "\u00a9 Crown copyright",
+        "is_file": false
+      }
+    ],
+    "licence_links": [
+      {
+        "url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "text": "Open Government Licence v3.0",
+        "context": "All content is available under the Open Government Licence v3.0 , except where otherwise stated",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/crown-copyright/",
+        "text": "\u00a9 Crown copyright",
+        "context": "\u00a9 Crown copyright",
+        "is_file": false
+      }
+    ],
+    "candidate_downloads": [
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/68c966fc07d9e92bc5517b80/connectivity_metrics_2025.ods",
+        "text": "",
+        "context": "",
+        "is_file": true
+      }
+    ],
+    "status": "page_inspected"
+  },
+  "census": {
+    "title": "Census 2021 Bulk - Nomis - Official Census and Labour Market Statistics",
+    "page_dates_not_data_reference_periods": [],
+    "links": [
+      {
+        "url": "https://www.nomisweb.co.uk/home/cookies.asp",
+        "text": "View cookie policy",
+        "context": "We use cookies to ensure you get the best experience on our website and to remember if you've accepted cookies. Accept Cookies Decline Cookies View cookie policy",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/census/2021/bulk#content-anchor",
+        "text": "Skip to content",
+        "context": "Skip to content Skip to accessibility help",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/home/accessibility.asp",
+        "text": "Skip to accessibility help",
+        "context": "Skip to content Skip to accessibility help",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/",
+        "text": "nomis",
+        "context": "nomis",
+        "is_file": false
+      },
+      {
+        "url": "https://www.ons.gov.uk",
+        "text": "",
+        "context": "Search term",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/home/profiles.asp",
+        "text": "Reports",
+        "context": "Reports Area reports Local Area Report (district/county and smaller areas) Local Authority Profile (district/county areas) Regional and National Profile Combined Authority Profile 2024 Parliamentary Constituencies Profile 2011 Ward Profile Topic reports Employment by occupation (SOC2020) by sex Occupation (SOC2020) by sex, employment status and full/part-time Temporary and permanent employees by sex and broad occupation (SOC2020) Employment by broad occupation (SOC2020) for part-time workers Broad occupation (SOC2020) by sex, employment status and full/part-time time-series",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/reports/localarea",
+        "text": "Local Area Report (district/county and smaller areas)",
+        "context": "Local Area Report (district/county and smaller areas)",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/reports/lmp/lad/contents.aspx",
+        "text": "Local Authority Profile (district/county areas)",
+        "context": "Local Authority Profile (district/county areas)",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/reports/lmp/gor/contents.aspx",
+        "text": "Regional and National Profile",
+        "context": "Regional and National Profile",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/reports/lmp/comb/contents.aspx",
+        "text": "Combined Authority Profile",
+        "context": "Combined Authority Profile",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/reports/lmp/wpca24/contents.aspx",
+        "text": "2024 Parliamentary Constituencies Profile",
+        "context": "2024 Parliamentary Constituencies Profile",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/reports/lmp/ward2011/contents.aspx",
+        "text": "2011 Ward Profile",
+        "context": "2011 Ward Profile",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/datasets/aps218/reports/employment-by-occupation",
+        "text": "Employment by occupation (SOC2020) by sex",
+        "context": "Employment by occupation (SOC2020) by sex",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/datasets/aps218/reports/employment-by-status-and-occupation",
+        "text": "Occupation (SOC2020) by sex, employment status and full/part-time",
+        "context": "Occupation (SOC2020) by sex, employment status and full/part-time",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/datasets/aps218/reports/employment-by-temp-workers",
+        "text": "Temporary and permanent employees by sex and broad occupation (SOC2020)",
+        "context": "Temporary and permanent employees by sex and broad occupation (SOC2020)",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/datasets/aps218/reports/employment-by-part-time-workers",
+        "text": "Employment by broad occupation (SOC2020) for part-time workers",
+        "context": "Employment by broad occupation (SOC2020) for part-time workers",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/datasets/aps218/reports/employment-by-sex-by-ftpt-by-emp-self",
+        "text": "Broad occupation (SOC2020) by sex, employment status and full/part-time time-series",
+        "context": "Broad occupation (SOC2020) by sex, employment status and full/part-time time-series",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/sources",
+        "text": "Data Sources",
+        "context": "Data Sources Annual Civil Service Employment Survey Annual Population Survey/Labour Force Survey Annual Survey of Hours and Earnings Business Register and Employment Survey Census Claimant Count DWP Benefits Housing Economic output and productivity Jobs Density Jobseekers Allowance Life Events Population Estimates/Projections Regional Accounts UK Business Counts Workforce Jobs",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/sources/acses",
+        "text": "Annual Civil Service Employment Survey",
+        "context": "Annual Civil Service Employment Survey",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/sources/aps",
+        "text": "Annual Population Survey/Labour Force Survey",
+        "context": "Annual Population Survey/Labour Force Survey",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/sources/ashe",
+        "text": "Annual Survey of Hours and Earnings",
+        "context": "Annual Survey of Hours and Earnings",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/sources/bres",
+        "text": "Business Register and Employment Survey",
+        "context": "Business Register and Employment Survey",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/sources/census",
+        "text": "Census",
+        "context": "Census",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/sources/cc",
+        "text": "Claimant Count",
+        "context": "Claimant Count",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/sources/dwp",
+        "text": "DWP Benefits",
+        "context": "DWP Benefits",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/sources/housing",
+        "text": "Housing",
+        "context": "Housing",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/sources/eop",
+        "text": "Economic output and productivity",
+        "context": "Economic output and productivity",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/sources/jd",
+        "text": "Jobs Density",
+        "context": "Jobs Density",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/sources/jsa",
+        "text": "Jobseekers Allowance",
+        "context": "Jobseekers Allowance",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/sources/life",
+        "text": "Life Events",
+        "context": "Life Events",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/sources/pest",
+        "text": "Population Estimates/Projections",
+        "context": "Population Estimates/Projections",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/sources/ra",
+        "text": "Regional Accounts",
+        "context": "Regional Accounts",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/sources/ukbc",
+        "text": "UK Business Counts",
+        "context": "UK Business Counts",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/sources/wfj",
+        "text": "Workforce Jobs",
+        "context": "Workforce Jobs",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/sources/census_2021",
+        "text": "2021 Census",
+        "context": "2021 Census",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/sources/census_2011",
+        "text": "2011 Census",
+        "context": "2011 Census",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/sources/census_2001",
+        "text": "2001 Census",
+        "context": "2001 Census",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/sources/census_1991",
+        "text": "1991 Census",
+        "context": "1991 Census",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/sources/census_1981",
+        "text": "1981 Census",
+        "context": "1981 Census",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/sources/census_1961",
+        "text": "1961 Census",
+        "context": "1961 Census",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/sources/census_1951",
+        "text": "1951 Census",
+        "context": "1951 Census",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/sources/census_1931",
+        "text": "1931 Census",
+        "context": "1931 Census",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/sources/census_1921",
+        "text": "1921 Census",
+        "context": "1921 Census",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/home/contacts.asp",
+        "text": "Contact us",
+        "context": "Contact us",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/myaccount/overview.asp",
+        "text": "Sign-in",
+        "context": "Sign-in My account You're not signed in Sign-in New to Nomis? You can use most parts of this site without registering. Register Benefits of registering",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/login/login.asp",
+        "text": "Sign-in",
+        "context": "Sign-in",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/myaccount/userjoin.asp",
+        "text": "Register",
+        "context": "Register",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/home/register.asp",
+        "text": "Benefits of registering",
+        "context": "Benefits of registering",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/census/2021/census_2021_bulk",
+        "text": "Topic Summaries Bulk",
+        "context": "Topic Summaries Bulk",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/census/2021/census_2021st_bulk",
+        "text": "Non-UK Born Short-term Residents Bulk",
+        "context": "Non-UK Born Short-term Residents Bulk",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts001.zip",
+        "text": "census2021-ts001.zip",
+        "context": "census2021-ts001.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts001-extra.zip",
+        "text": "census2021-ts001-extra.zip",
+        "context": "census2021-ts001-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts002.zip",
+        "text": "census2021-ts002.zip",
+        "context": "census2021-ts002.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts002-extra.zip",
+        "text": "census2021-ts002-extra.zip",
+        "context": "census2021-ts002-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts003.zip",
+        "text": "census2021-ts003.zip",
+        "context": "census2021-ts003.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts003-extra.zip",
+        "text": "census2021-ts003-extra.zip",
+        "context": "census2021-ts003-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts004.zip",
+        "text": "census2021-ts004.zip",
+        "context": "census2021-ts004.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts004-extra.zip",
+        "text": "census2021-ts004-extra.zip",
+        "context": "census2021-ts004-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts005.zip",
+        "text": "census2021-ts005.zip",
+        "context": "census2021-ts005.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts005-extra.zip",
+        "text": "census2021-ts005-extra.zip",
+        "context": "census2021-ts005-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts006.zip",
+        "text": "census2021-ts006.zip",
+        "context": "census2021-ts006.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts006-extra.zip",
+        "text": "census2021-ts006-extra.zip",
+        "context": "census2021-ts006-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts007.zip",
+        "text": "census2021-ts007.zip",
+        "context": "census2021-ts007.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts007-extra.zip",
+        "text": "census2021-ts007-extra.zip",
+        "context": "census2021-ts007-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts007a.zip",
+        "text": "census2021-ts007a.zip",
+        "context": "census2021-ts007a.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts008.zip",
+        "text": "census2021-ts008.zip",
+        "context": "census2021-ts008.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts008-extra.zip",
+        "text": "census2021-ts008-extra.zip",
+        "context": "census2021-ts008-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts009.zip",
+        "text": "census2021-ts009.zip",
+        "context": "census2021-ts009.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts010.zip",
+        "text": "census2021-ts010.zip",
+        "context": "census2021-ts010.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts010-extra.zip",
+        "text": "census2021-ts010-extra.zip",
+        "context": "census2021-ts010-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts011.zip",
+        "text": "census2021-ts011.zip",
+        "context": "census2021-ts011.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts011-extra.zip",
+        "text": "census2021-ts011-extra.zip",
+        "context": "census2021-ts011-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts012.zip",
+        "text": "census2021-ts012.zip",
+        "context": "census2021-ts012.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts013.zip",
+        "text": "census2021-ts013.zip",
+        "context": "census2021-ts013.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts013-extra.zip",
+        "text": "census2021-ts013-extra.zip",
+        "context": "census2021-ts013-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts015.zip",
+        "text": "census2021-ts015.zip",
+        "context": "census2021-ts015.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts015-extra.zip",
+        "text": "census2021-ts015-extra.zip",
+        "context": "census2021-ts015-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts016.zip",
+        "text": "census2021-ts016.zip",
+        "context": "census2021-ts016.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts016-extra.zip",
+        "text": "census2021-ts016-extra.zip",
+        "context": "census2021-ts016-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts017.zip",
+        "text": "census2021-ts017.zip",
+        "context": "census2021-ts017.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts017-extra.zip",
+        "text": "census2021-ts017-extra.zip",
+        "context": "census2021-ts017-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts018.zip",
+        "text": "census2021-ts018.zip",
+        "context": "census2021-ts018.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts018-extra.zip",
+        "text": "census2021-ts018-extra.zip",
+        "context": "census2021-ts018-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts019.zip",
+        "text": "census2021-ts019.zip",
+        "context": "census2021-ts019.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts019-extra.zip",
+        "text": "census2021-ts019-extra.zip",
+        "context": "census2021-ts019-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts020.zip",
+        "text": "census2021-ts020.zip",
+        "context": "census2021-ts020.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts020-extra.zip",
+        "text": "census2021-ts020-extra.zip",
+        "context": "census2021-ts020-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts041.zip",
+        "text": "census2021-ts041.zip",
+        "context": "census2021-ts041.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts041-extra.zip",
+        "text": "census2021-ts041-extra.zip",
+        "context": "census2021-ts041-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts071.zip",
+        "text": "census2021-ts071.zip",
+        "context": "census2021-ts071.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts071-extra.zip",
+        "text": "census2021-ts071-extra.zip",
+        "context": "census2021-ts071-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts072.zip",
+        "text": "census2021-ts072.zip",
+        "context": "census2021-ts072.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts072-extra.zip",
+        "text": "census2021-ts072-extra.zip",
+        "context": "census2021-ts072-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts073.zip",
+        "text": "census2021-ts073.zip",
+        "context": "census2021-ts073.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts073-extra.zip",
+        "text": "census2021-ts073-extra.zip",
+        "context": "census2021-ts073-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts074.zip",
+        "text": "census2021-ts074.zip",
+        "context": "census2021-ts074.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts074-extra.zip",
+        "text": "census2021-ts074-extra.zip",
+        "context": "census2021-ts074-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts021.zip",
+        "text": "census2021-ts021.zip",
+        "context": "census2021-ts021.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts021-extra.zip",
+        "text": "census2021-ts021-extra.zip",
+        "context": "census2021-ts021-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts022.zip",
+        "text": "census2021-ts022.zip",
+        "context": "census2021-ts022.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts022-extra.zip",
+        "text": "census2021-ts022-extra.zip",
+        "context": "census2021-ts022-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts023.zip",
+        "text": "census2021-ts023.zip",
+        "context": "census2021-ts023.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts023-extra.zip",
+        "text": "census2021-ts023-extra.zip",
+        "context": "census2021-ts023-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts024.zip",
+        "text": "census2021-ts024.zip",
+        "context": "census2021-ts024.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts025.zip",
+        "text": "census2021-ts025.zip",
+        "context": "census2021-ts025.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts025-extra.zip",
+        "text": "census2021-ts025-extra.zip",
+        "context": "census2021-ts025-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts026.zip",
+        "text": "census2021-ts026.zip",
+        "context": "census2021-ts026.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts026-extra.zip",
+        "text": "census2021-ts026-extra.zip",
+        "context": "census2021-ts026-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts027.zip",
+        "text": "census2021-ts027.zip",
+        "context": "census2021-ts027.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts027-extra.zip",
+        "text": "census2021-ts027-extra.zip",
+        "context": "census2021-ts027-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts028.zip",
+        "text": "census2021-ts028.zip",
+        "context": "census2021-ts028.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts028-extra.zip",
+        "text": "census2021-ts028-extra.zip",
+        "context": "census2021-ts028-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts029.zip",
+        "text": "census2021-ts029.zip",
+        "context": "census2021-ts029.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts029-extra.zip",
+        "text": "census2021-ts029-extra.zip",
+        "context": "census2021-ts029-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts030.zip",
+        "text": "census2021-ts030.zip",
+        "context": "census2021-ts030.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts030-extra.zip",
+        "text": "census2021-ts030-extra.zip",
+        "context": "census2021-ts030-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts031.zip",
+        "text": "census2021-ts031.zip",
+        "context": "census2021-ts031.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts031-extra.zip",
+        "text": "census2021-ts031-extra.zip",
+        "context": "census2021-ts031-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts075.zip",
+        "text": "census2021-ts075.zip",
+        "context": "census2021-ts075.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts075-extra.zip",
+        "text": "census2021-ts075-extra.zip",
+        "context": "census2021-ts075-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts032.zip",
+        "text": "census2021-ts032.zip",
+        "context": "census2021-ts032.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts032-extra.zip",
+        "text": "census2021-ts032-extra.zip",
+        "context": "census2021-ts032-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts033.zip",
+        "text": "census2021-ts033.zip",
+        "context": "census2021-ts033.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts033-extra.zip",
+        "text": "census2021-ts033-extra.zip",
+        "context": "census2021-ts033-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts034.zip",
+        "text": "census2021-ts034.zip",
+        "context": "census2021-ts034.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts034-extra.zip",
+        "text": "census2021-ts034-extra.zip",
+        "context": "census2021-ts034-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts035.zip",
+        "text": "census2021-ts035.zip",
+        "context": "census2021-ts035.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts035-extra.zip",
+        "text": "census2021-ts035-extra.zip",
+        "context": "census2021-ts035-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts036.zip",
+        "text": "census2021-ts036.zip",
+        "context": "census2021-ts036.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts036-extra.zip",
+        "text": "census2021-ts036-extra.zip",
+        "context": "census2021-ts036-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts076.zip",
+        "text": "census2021-ts076.zip",
+        "context": "census2021-ts076.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts058.zip",
+        "text": "census2021-ts058.zip",
+        "context": "census2021-ts058.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts058-extra.zip",
+        "text": "census2021-ts058-extra.zip",
+        "context": "census2021-ts058-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts059.zip",
+        "text": "census2021-ts059.zip",
+        "context": "census2021-ts059.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts059-extra.zip",
+        "text": "census2021-ts059-extra.zip",
+        "context": "census2021-ts059-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts060.zip",
+        "text": "census2021-ts060.zip",
+        "context": "census2021-ts060.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts060-extra.zip",
+        "text": "census2021-ts060-extra.zip",
+        "context": "census2021-ts060-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts061.zip",
+        "text": "census2021-ts061.zip",
+        "context": "census2021-ts061.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts061-extra.zip",
+        "text": "census2021-ts061-extra.zip",
+        "context": "census2021-ts061-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts062.zip",
+        "text": "census2021-ts062.zip",
+        "context": "census2021-ts062.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts062-extra.zip",
+        "text": "census2021-ts062-extra.zip",
+        "context": "census2021-ts062-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts063.zip",
+        "text": "census2021-ts063.zip",
+        "context": "census2021-ts063.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts063-extra.zip",
+        "text": "census2021-ts063-extra.zip",
+        "context": "census2021-ts063-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts064.zip",
+        "text": "census2021-ts064.zip",
+        "context": "census2021-ts064.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts064-extra.zip",
+        "text": "census2021-ts064-extra.zip",
+        "context": "census2021-ts064-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts065.zip",
+        "text": "census2021-ts065.zip",
+        "context": "census2021-ts065.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts065-extra.zip",
+        "text": "census2021-ts065-extra.zip",
+        "context": "census2021-ts065-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts066.zip",
+        "text": "census2021-ts066.zip",
+        "context": "census2021-ts066.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts066-extra.zip",
+        "text": "census2021-ts066-extra.zip",
+        "context": "census2021-ts066-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts044.zip",
+        "text": "census2021-ts044.zip",
+        "context": "census2021-ts044.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts044-extra.zip",
+        "text": "census2021-ts044-extra.zip",
+        "context": "census2021-ts044-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts045.zip",
+        "text": "census2021-ts045.zip",
+        "context": "census2021-ts045.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts045-extra.zip",
+        "text": "census2021-ts045-extra.zip",
+        "context": "census2021-ts045-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts046.zip",
+        "text": "census2021-ts046.zip",
+        "context": "census2021-ts046.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts046-extra.zip",
+        "text": "census2021-ts046-extra.zip",
+        "context": "census2021-ts046-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts047.zip",
+        "text": "census2021-ts047.zip",
+        "context": "census2021-ts047.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts047-extra.zip",
+        "text": "census2021-ts047-extra.zip",
+        "context": "census2021-ts047-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts048.zip",
+        "text": "census2021-ts048.zip",
+        "context": "census2021-ts048.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts048-extra.zip",
+        "text": "census2021-ts048-extra.zip",
+        "context": "census2021-ts048-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts050.zip",
+        "text": "census2021-ts050.zip",
+        "context": "census2021-ts050.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts050-extra.zip",
+        "text": "census2021-ts050-extra.zip",
+        "context": "census2021-ts050-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts051.zip",
+        "text": "census2021-ts051.zip",
+        "context": "census2021-ts051.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts051-extra.zip",
+        "text": "census2021-ts051-extra.zip",
+        "context": "census2021-ts051-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts052.zip",
+        "text": "census2021-ts052.zip",
+        "context": "census2021-ts052.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts052-extra.zip",
+        "text": "census2021-ts052-extra.zip",
+        "context": "census2021-ts052-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts053.zip",
+        "text": "census2021-ts053.zip",
+        "context": "census2021-ts053.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts053-extra.zip",
+        "text": "census2021-ts053-extra.zip",
+        "context": "census2021-ts053-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts054.zip",
+        "text": "census2021-ts054.zip",
+        "context": "census2021-ts054.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts054-extra.zip",
+        "text": "census2021-ts054-extra.zip",
+        "context": "census2021-ts054-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts055.zip",
+        "text": "census2021-ts055.zip",
+        "context": "census2021-ts055.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts055-extra.zip",
+        "text": "census2021-ts055-extra.zip",
+        "context": "census2021-ts055-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts056.zip",
+        "text": "census2021-ts056.zip",
+        "context": "census2021-ts056.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts056-extra.zip",
+        "text": "census2021-ts056-extra.zip",
+        "context": "census2021-ts056-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts079.zip",
+        "text": "census2021-ts079.zip",
+        "context": "census2021-ts079.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts079-extra.zip",
+        "text": "census2021-ts079-extra.zip",
+        "context": "census2021-ts079-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts070.zip",
+        "text": "census2021-ts070.zip",
+        "context": "census2021-ts070.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts070-extra.zip",
+        "text": "census2021-ts070-extra.zip",
+        "context": "census2021-ts070-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts077.zip",
+        "text": "census2021-ts077.zip",
+        "context": "census2021-ts077.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts077-extra.zip",
+        "text": "census2021-ts077-extra.zip",
+        "context": "census2021-ts077-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts078.zip",
+        "text": "census2021-ts078.zip",
+        "context": "census2021-ts078.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts078-extra.zip",
+        "text": "census2021-ts078-extra.zip",
+        "context": "census2021-ts078-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts067.zip",
+        "text": "census2021-ts067.zip",
+        "context": "census2021-ts067.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts067-extra.zip",
+        "text": "census2021-ts067-extra.zip",
+        "context": "census2021-ts067-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts068.zip",
+        "text": "census2021-ts068.zip",
+        "context": "census2021-ts068.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts068-extra.zip",
+        "text": "census2021-ts068-extra.zip",
+        "context": "census2021-ts068-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts037.zip",
+        "text": "census2021-ts037.zip",
+        "context": "census2021-ts037.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts037-extra.zip",
+        "text": "census2021-ts037-extra.zip",
+        "context": "census2021-ts037-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts038.zip",
+        "text": "census2021-ts038.zip",
+        "context": "census2021-ts038.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts038-extra.zip",
+        "text": "census2021-ts038-extra.zip",
+        "context": "census2021-ts038-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts039.zip",
+        "text": "census2021-ts039.zip",
+        "context": "census2021-ts039.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts039-extra.zip",
+        "text": "census2021-ts039-extra.zip",
+        "context": "census2021-ts039-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts040.zip",
+        "text": "census2021-ts040.zip",
+        "context": "census2021-ts040.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts040-extra.zip",
+        "text": "census2021-ts040-extra.zip",
+        "context": "census2021-ts040-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts037asp.zip",
+        "text": "census2021-ts037asp.zip",
+        "context": "census2021-ts037asp.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts037asp-extra.zip",
+        "text": "census2021-ts037asp-extra.zip",
+        "context": "census2021-ts037asp-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts038asp.zip",
+        "text": "census2021-ts038asp.zip",
+        "context": "census2021-ts038asp.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts038asp-extra.zip",
+        "text": "census2021-ts038asp-extra.zip",
+        "context": "census2021-ts038asp-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts039asp.zip",
+        "text": "census2021-ts039asp.zip",
+        "context": "census2021-ts039asp.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts039asp-extra.zip",
+        "text": "census2021-ts039asp-extra.zip",
+        "context": "census2021-ts039asp-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/api",
+        "text": "API",
+        "context": "API",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/home/sitemap.asp",
+        "text": "Site map",
+        "context": "Site map",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/home/news.asp",
+        "text": "News",
+        "context": "News",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/home/accesskeys.asp",
+        "text": "Access keys",
+        "context": "Access keys",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/home/privacy.asp",
+        "text": "Privacy and Cookies",
+        "context": "Privacy and Cookies",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/home/terms.asp",
+        "text": "Terms and Conditions",
+        "context": "Terms and Conditions",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/home/copyright.asp",
+        "text": "\u00a9 Crown Copyright",
+        "context": "\u00a9 Crown Copyright",
+        "is_file": false
+      }
+    ],
+    "licence_links": [],
+    "candidate_downloads": [
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts001.zip",
+        "text": "census2021-ts001.zip",
+        "context": "census2021-ts001.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts001-extra.zip",
+        "text": "census2021-ts001-extra.zip",
+        "context": "census2021-ts001-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts006.zip",
+        "text": "census2021-ts006.zip",
+        "context": "census2021-ts006.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts006-extra.zip",
+        "text": "census2021-ts006-extra.zip",
+        "context": "census2021-ts006-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts007.zip",
+        "text": "census2021-ts007.zip",
+        "context": "census2021-ts007.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts007-extra.zip",
+        "text": "census2021-ts007-extra.zip",
+        "context": "census2021-ts007-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts007a.zip",
+        "text": "census2021-ts007a.zip",
+        "context": "census2021-ts007a.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts066.zip",
+        "text": "census2021-ts066.zip",
+        "context": "census2021-ts066.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts066-extra.zip",
+        "text": "census2021-ts066-extra.zip",
+        "context": "census2021-ts066-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts045.zip",
+        "text": "census2021-ts045.zip",
+        "context": "census2021-ts045.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts045-extra.zip",
+        "text": "census2021-ts045-extra.zip",
+        "context": "census2021-ts045-extra.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts067.zip",
+        "text": "census2021-ts067.zip",
+        "context": "census2021-ts067.zip",
+        "is_file": true
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts067-extra.zip",
+        "text": "census2021-ts067-extra.zip",
+        "context": "census2021-ts067-extra.zip",
+        "is_file": true
+      }
+    ],
+    "status": "page_inspected"
+  },
+  "imd": {
+    "title": "English indices of deprivation 2025 - GOV.UK",
+    "page_dates_not_data_reference_periods": [
+      "2025-11-17T09:20:39Z",
+      "2025-11-13T09:30:13Z",
+      "2025-10-30T00:00:00Z"
+    ],
+    "links": [
+      {
+        "url": "https://www.gov.uk/help/cookies",
+        "text": "change your cookie settings",
+        "context": "You can change your cookie settings at any time.",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/government/statistics/english-indices-of-deprivation-2025#content",
+        "text": "Skip to main content",
+        "context": "Cookies on GOV.UK We use some essential cookies to make this website work. We\u2019d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use cookies set by other sites to help us deliver content from their services. You have accepted additional cookies. You can change your cookie settings at any time. You have rejected additional cookies. You can change your cookie settings at any time. Accept additional cookies Reject additional cookies View cookies Hide cookie message Skip to main content GOV.UK Navigation menu Menu Menu Services and information Benefits Births, death, marriages and care Business and self-employed Childcare and parenting Citizenship and living in the UK Crime, justice and the law Disabled people Driving and transport Education and learning Employing people Environment and countryside Housing and local services Money and tax Passports, travel and living abroad Visas and immigration Working, jobs and pensions Government activity Departments Departments, agencies and public bodies News News stories, speeches, letters and notices Guidance and regulation Detailed guidance, regulations and rules Research and statistics Reports, analysis and official statistics Policy papers and consultations Consultations and strategy Transparency Data, Freedom of Information releases and corporate reports Search GOV.UK \u00d7 Search GOV.UK Search Search GOV.UK Search Home Society and culture Community and society Accredited official statistics English indices of deprivation 2025 Statistics on relative deprivati",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/",
+        "text": "GOV.UK",
+        "context": "GOV.UK",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/browse",
+        "text": "Menu",
+        "context": "Menu Menu",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/browse/benefits",
+        "text": "Benefits",
+        "context": "Benefits",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/browse/births-deaths-marriages",
+        "text": "Births, death, marriages and care",
+        "context": "Births, death, marriages and care",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/browse/business",
+        "text": "Business and self-employed",
+        "context": "Business and self-employed",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/browse/childcare-parenting",
+        "text": "Childcare and parenting",
+        "context": "Childcare and parenting",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/browse/citizenship",
+        "text": "Citizenship and living in the UK",
+        "context": "Citizenship and living in the UK",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/browse/justice",
+        "text": "Crime, justice and the law",
+        "context": "Crime, justice and the law",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/browse/disabilities",
+        "text": "Disabled people",
+        "context": "Disabled people",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/browse/driving",
+        "text": "Driving and transport",
+        "context": "Driving and transport",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/browse/education",
+        "text": "Education and learning",
+        "context": "Education and learning",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/browse/employing-people",
+        "text": "Employing people",
+        "context": "Employing people",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/browse/environment-countryside",
+        "text": "Environment and countryside",
+        "context": "Environment and countryside",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/browse/housing-local-services",
+        "text": "Housing and local services",
+        "context": "Housing and local services",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/browse/tax",
+        "text": "Money and tax",
+        "context": "Money and tax",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/browse/abroad",
+        "text": "Passports, travel and living abroad",
+        "context": "Passports, travel and living abroad",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/browse/visas-immigration",
+        "text": "Visas and immigration",
+        "context": "Visas and immigration",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/browse/working",
+        "text": "Working, jobs and pensions",
+        "context": "Working, jobs and pensions",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/government/organisations",
+        "text": "Departments",
+        "context": "Departments Departments, agencies and public bodies",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/search/news-and-communications",
+        "text": "News",
+        "context": "News News stories, speeches, letters and notices",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/search/guidance-and-regulation",
+        "text": "Guidance and regulation",
+        "context": "Guidance and regulation Detailed guidance, regulations and rules",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/search/research-and-statistics",
+        "text": "Research and statistics",
+        "context": "Research and statistics Reports, analysis and official statistics",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/search/policy-papers-and-consultations",
+        "text": "Policy papers and consultations",
+        "context": "Policy papers and consultations Consultations and strategy",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/search/transparency-and-freedom-of-information-releases",
+        "text": "Transparency",
+        "context": "Transparency Data, Freedom of Information releases and corporate reports",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/search",
+        "text": "Search GOV.UK",
+        "context": "Search GOV.UK \u00d7 Search GOV.UK",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/society-and-culture",
+        "text": "Society and culture",
+        "context": "Society and culture",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/society-and-culture/community-and-society",
+        "text": "Community and society",
+        "context": "Community and society",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+        "text": "Ministry of Housing, Communities and Local Government",
+        "context": "Ministry of Housing, Communities and Local Government",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/government/statistics/english-indices-of-deprivation-2025/english-indices-of-deprivation-2025-statistical-release",
+        "text": "",
+        "context": "",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/government/statistics/english-indices-of-deprivation-2025/english-indices-of-deprivation-2025-frequently-asked-questions",
+        "text": "",
+        "context": "",
+        "is_file": false
+      },
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/691dece32c6b98ecdbc500d5/File_1_IoD2025_Index_of_Multiple_Deprivation.xlsx",
+        "text": "",
+        "context": "",
+        "is_file": true
+      },
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/691decfae39a085bda43efcd/File_2_IoD2025_Domains_of_Deprivation.xlsx",
+        "text": "",
+        "context": "",
+        "is_file": true
+      },
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/691ded0a21ef5aaa6543efe9/File_3_IoD2025_Supplementary_Indices_IDACI_and_IDAOPI.xlsx",
+        "text": "",
+        "context": "",
+        "is_file": true
+      },
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/691ded1b0dcbf6343e9a2a67/File_4_IoD2025_Sub-domains_of_Deprivation.xlsx",
+        "text": "",
+        "context": "",
+        "is_file": true
+      },
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/691ded34513046b952c500bd/File_5_IoD2025_Scores_for_the_Indices_of_Deprivation.xlsx",
+        "text": "",
+        "context": "",
+        "is_file": true
+      },
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/691ded46513046b952c500be/File_6_IoD2025_Population_Denominators.xlsx",
+        "text": "",
+        "context": "",
+        "is_file": true
+      },
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/691ded56d140bbbaa59a2a7d/File_7_IoD2025_All_Ranks_Scores_Deciles_Population_Denominators.csv",
+        "text": "",
+        "context": "",
+        "is_file": true
+      },
+      {
+        "url": "https://www.gov.uk/csv-preview/691ded56d140bbbaa59a2a7d/File_7_IoD2025_All_Ranks_Scores_Deciles_Population_Denominators.csv",
+        "text": "View online",
+        "context": "View online",
+        "is_file": true
+      },
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/691dec012c6b98ecdbc500d4/File_8_IoD2025_Underlying_Indicators.xlsx",
+        "text": "",
+        "context": "",
+        "is_file": true
+      },
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/691ded670dcbf6343e9a2a6c/File_9_IoD2025_Transformed_Domain_Scores.xlsx",
+        "text": "",
+        "context": "",
+        "is_file": true
+      },
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/6917412ebc34c86ce4e6e7fc/File_10_-_IoD2025_Local_Authority_District_Summaries__lower-tier__v2.xlsx",
+        "text": "",
+        "context": "",
+        "is_file": true
+      },
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/6917414ab49cc44345161802/File_11_-_IoD2025_Local_Authority_District_Summaries__upper-tier__v2.xlsx",
+        "text": "",
+        "context": "",
+        "is_file": true
+      },
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/68ff7ea5d81972ecd2df5db2/File_12_-_IoD2025_Local_Enterprise_Partnership__LEP__Summaries.xlsx",
+        "text": "",
+        "context": "",
+        "is_file": true
+      },
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/68ff7ed00f801e57b5bef928/File_13_-_IoD2025_Integrated_Care_Board__ICB__Summaries.xlsx",
+        "text": "",
+        "context": "",
+        "is_file": true
+      },
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/6917413eb49cc44345161801/File_14_-_IoD2025_Local_Resilience_Forum__LRG__Summaries_v2.xlsx",
+        "text": "",
+        "context": "",
+        "is_file": true
+      },
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/68ff7f340f801e57b5bef929/File_15_-_IoD2025_Built_Up_Area__BUA__Summaries.xlsx",
+        "text": "",
+        "context": "",
+        "is_file": true
+      },
+      {
+        "url": "https://geoportal.statistics.gov.uk/datasets/ons::lsoa-2021-to-electoral-ward-2024-to-lad-2024-best-fit-lookup-in-ew/about",
+        "text": "LSOA to Local Authority District (LAD) look-up file",
+        "context": "The Office for National Statistics (ONS) corrected and republished an LSOA to Local Authority District (LAD) look-up file on the ONS Open Geography portal website which was available to users from 26 August 2025.",
+        "is_file": false
+      },
+      {
+        "url": "https://geoportal.statistics.gov.uk/",
+        "text": "ONS Open Geography portal website",
+        "context": "The Office for National Statistics (ONS) corrected and republished an LSOA to Local Authority District (LAD) look-up file on the ONS Open Geography portal website which was available to users from 26 August 2025.",
+        "is_file": false
+      },
+      {
+        "url": "https://deprivation.communities.gov.uk/",
+        "text": "Local Deprivation Explorer",
+        "context": "Our Local Deprivation Explorer allows users to look up deprivation data for their area, explore comparisons across England using an interactive map, and download data, with the option to download deprivation data for specific post-codes. A spatial data geopackage is also available complete with shapefiles, mapping templates and further mapping resources online.",
+        "is_file": false
+      },
+      {
+        "url": "https://communitiesopendata-communities.hub.arcgis.com",
+        "text": "spatial data geopackage",
+        "context": "Our Local Deprivation Explorer allows users to look up deprivation data for their area, explore comparisons across England using an interactive map, and download data, with the option to download deprivation data for specific post-codes. A spatial data geopackage is also available complete with shapefiles, mapping templates and further mapping resources online.",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/government/publications/english-indices-of-deprivation-2025-research-report",
+        "text": "research report",
+        "context": "Further detail is available in the research report , which gives detailed guidance on how to interpret the data and presents some further findings, and the technical report , which describes the methodology and quality assurance processes underpinning the indices.",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/government/publications/english-indices-of-deprivation-2025-technical-report",
+        "text": "technical report",
+        "context": "Further detail is available in the research report , which gives detailed guidance on how to interpret the data and presents some further findings, and the technical report , which describes the methodology and quality assurance processes underpinning the indices.",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/government/publications/english-indices-of-deprivation-2025-rural-report",
+        "text": "rural report",
+        "context": "As part of the IoD25 update, a rural report , produced in collaboration with Defra, considers how deprivation can manifest in a specifically rural context, how it may be quantified or measured and how this may be improved in future.",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/government/collections/english-indices-of-deprivation",
+        "text": "English indices of deprivation",
+        "context": "English indices of deprivation",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/contact/govuk",
+        "text": "Maybe",
+        "context": "Maybe",
+        "is_file": false
+      },
+      {
+        "url": "https://www.smartsurvey.co.uk/s/gov-uk-banner/?c=no-js",
+        "text": "Please fill in this survey (opens in a new tab and requires JavaScript )",
+        "context": "To help us improve GOV.UK, we\u2019d like to know more about your visit today. Please fill in this survey (opens in a new tab and requires JavaScript ) .",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/government/how-government-works",
+        "text": "How government works",
+        "context": "How government works",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/government/get-involved",
+        "text": "Get involved",
+        "context": "Get involved",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/help",
+        "text": "Help",
+        "context": "Help",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/help/privacy-notice",
+        "text": "Privacy",
+        "context": "Privacy",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/help/accessibility-statement",
+        "text": "Accessibility statement",
+        "context": "Accessibility statement",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/contact",
+        "text": "Contact",
+        "context": "Contact",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/help/terms-conditions",
+        "text": "Terms and conditions",
+        "context": "Terms and conditions",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/cymraeg",
+        "text": "Rhestr o Wasanaethau Cymraeg",
+        "context": "Rhestr o Wasanaethau Cymraeg",
+        "is_file": false
+      },
+      {
+        "url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "text": "Government Digital Service",
+        "context": "Government Digital Service",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "text": "Open Government Licence v3.0",
+        "context": "All content is available under the Open Government Licence v3.0 , except where otherwise stated",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/crown-copyright/",
+        "text": "\u00a9 Crown copyright",
+        "context": "\u00a9 Crown copyright",
+        "is_file": false
+      }
+    ],
+    "licence_links": [
+      {
+        "url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "text": "Open Government Licence v3.0",
+        "context": "All content is available under the Open Government Licence v3.0 , except where otherwise stated",
+        "is_file": false
+      },
+      {
+        "url": "https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/crown-copyright/",
+        "text": "\u00a9 Crown copyright",
+        "context": "\u00a9 Crown copyright",
+        "is_file": false
+      }
+    ],
+    "candidate_downloads": [
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/691decfae39a085bda43efcd/File_2_IoD2025_Domains_of_Deprivation.xlsx",
+        "text": "",
+        "context": "",
+        "is_file": true
+      },
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/691ded1b0dcbf6343e9a2a67/File_4_IoD2025_Sub-domains_of_Deprivation.xlsx",
+        "text": "",
+        "context": "",
+        "is_file": true
+      },
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/691ded34513046b952c500bd/File_5_IoD2025_Scores_for_the_Indices_of_Deprivation.xlsx",
+        "text": "",
+        "context": "",
+        "is_file": true
+      },
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/691ded56d140bbbaa59a2a7d/File_7_IoD2025_All_Ranks_Scores_Deciles_Population_Denominators.csv",
+        "text": "",
+        "context": "",
+        "is_file": true
+      },
+      {
+        "url": "https://www.gov.uk/csv-preview/691ded56d140bbbaa59a2a7d/File_7_IoD2025_All_Ranks_Scores_Deciles_Population_Denominators.csv",
+        "text": "View online",
+        "context": "View online",
+        "is_file": true
+      },
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/691ded670dcbf6343e9a2a6c/File_9_IoD2025_Transformed_Domain_Scores.xlsx",
+        "text": "",
+        "context": "",
+        "is_file": true
+      }
+    ],
+    "status": "page_inspected"
+  },
+  "ons": {
+    "title": "Open Geography Portal",
+    "page_dates_not_data_reference_periods": [],
+    "links": [],
+    "licence_links": [],
+    "candidate_downloads": [],
+    "status": "page_inspected"
+  }
+}
